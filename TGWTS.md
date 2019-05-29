@@ -99,8 +99,7 @@
     01:50 - 02:31 Goldfrapp - Lovely Head
     02:43 - 03:18 Goldfrapp - Lovely Head
     03:24 - 04:01 Air - Dirty Trip
-    04:45 - 05:14
-    05:36 - 05:55 Air - Playground Love
+        05:36 - 05:55 Air - Playground Love
     38:44 - 39:55 Extreme Music - Leave it Out
     40:06 - 40:45 Extreme Music - Leave it Out
     42:00 - 00:00 Pilote - Turtle (Bonobo Mix)
@@ -358,20 +357,15 @@
 
 [03x06] December 7th, 2003
 
-    00:50 - 01:08
-    01:30 - 01:46
-    03:15 - ??:?? - DJ Krush ft. Esthero - Final Home
+            03:15 - ??:?? - DJ Krush ft. Esthero - Final Home
     08:54 - 09:40 - Ennio Morricone - La Resa Dei Conti
     09:51 - 10:57 - Ennio Morricone - La Resa Dei Conti
     19:51 - 20:25 - The Notwist - One Step Inside Doesn't Mean You Understand
-    21:03 - 21:25
-    33:30 - 33:59 - Puff Daddy - come with me
+        33:30 - 33:59 - Puff Daddy - come with me
     33:59 - 35:43 - Propellerheads - On Her Majesty's Secret Service
     37:15 - 37:28 - The Sabres of Paradise – R.S.D.
-    43:40 - 44:10
-    44:15 - 44:48 - Kylie Minogue - Locomotion
-    46:08 - 47:09
-    47:11 - 47:32 - ??? - Waltzing Mathilda
+        44:15 - 44:48 - Kylie Minogue - Locomotion
+        47:11 - 47:32 - ??? - Waltzing Mathilda
     46:08 - 47:09 - INXS - Suicide Blond
     47:40 - 48:00 - INXS - Need You Tonight
     56:24 - 57:20 - Ennio Morricone - La Resa Dei Conti
