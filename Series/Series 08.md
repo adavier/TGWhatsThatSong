@@ -31,16 +31,12 @@
     11:28 - 12:18 - Amon Tobin - Searchers
     12:46 - 13:20 - Air - Clouds Up
     13:22 - 13:48 - Abigail Mead - Time Suspended
-    13:48 - 13:58 ? ERROR: You do not have Flash installed.
     14:01 - 14:08 - Buster Poindexter - Hot Hot Hot
     14:08 - 14:38 - Cliff Martinez - First Sleep
     14:45 - 14:51 - Cliff Martinez - First Sleep
     14:54 - 15:47 - The Sabres of Paradise - Theme 4
     15:47 - 16:06 - Bryan Adams - Summer of '69
-    16:04 - 16:08 ? ERROR: You do not have Flash installed.
-    16:09 - 16:19 ? ERROR: You do not have Flash installed.
     16:20 - 16:42 - Cliff Martinez – Death Shall Have No Dominion
-    16:44 - 16:55 ? ERROR: You do not have Flash installed.
     16:55 - 17:26 - City of Prague Philharmonic - Heart of a Volunteer
 
     Car vs. Speed Skater:
@@ -201,7 +197,6 @@
 [08x02] May 14th, 2006
 
     Chevrolet Corvette Z06:
-    01:01 - 01:50 ? ERROR: You do not have Flash installed.
     02:09 - 02:59 - DJ Zinc - Faster
     03:00 - 04:33 - U.N.K.L.E - Safe in Mind (Instrumental)
     04:46 - 05:40 - Amon Tobin - Nova
@@ -271,8 +266,6 @@
     16:21 - 16:36 - Low Deep - Get Set (Instrumental)
     16:36 - 16:41 - Henning Lohner - Trouble Jeopardy
     16:41 - 16:48 - Low Deep - Spit Fire
-    16:49 - 17:02 ? ERROR: You do not have Flash installed.
-    17:03 - 17:44 ? ERROR: You do not have Flash installed.
     17:50 - 18:10 - Amon Tobin - El Cargo
     18:25 - 18:31 - Bryan New - Crime Scene
     18:33 - 18:43 - Ennio Morricone - As a Judgement
@@ -283,7 +276,6 @@
     Amphibious Cars, Pt. 2:
     37:03 - 37:32 - Beck - Deadweight
     37:45 - 38:04 - Roy Ayers - Running Away (12” Mix)
-    38:24 - 38:49 ? ERROR: You do not have Flash installed.
     39:29 - 39:48 - Quincy Jones - On Days Like These
     40:31 - 41:28 - Rose Royce - I Wanna Get Next To You
     42:02 - 43:01 - The Band of the R.A.F. Regiment - The Dam Busters
@@ -389,14 +381,12 @@
 
     Subaru P2 Review:
     00:51 - 01:08 - Rob Dougan - Chateau
-    01:20 - 01:32 ? ERROR: You do not have Flash installed.
     01:32 - 01:35 - Amon Tobin - Switch
     01:35 - 01:46 - Stanton Warriors - Pop Ya Cork
     01:46 - 01:48 - Craig Armstrong - Inhaler
     01:48 - 02:06 - Faultline - Partyline Honey
     02:06 - 02:28 - Massive Attack - Simple Rules
     02:52 - 03:07 - Death From Above 1979 - Cold War
-    03:11 - 03:23 ? ERROR: You do not have Flash installed.
     03:23 - 03:36 - Air - Alone in Kyoto
     03:36 - 03:57 - Jackson And His Computer Band - Arpeggio
     04:01 - 04:14 - Death in Vegas - Dirt
@@ -428,7 +418,6 @@
     39:03 - 39:29 - Layo & Bushwacka! - Me and You
     39:29 - 40:07 - Hans Zimmer, James Newton Howard – Myotis
     40:14 - 40:47 - Air - Dirty Trip
-    40:48 - 41:11 ? ERROR: You do not have Flash installed.
     41:12 - 41:42 - Air - Playground Love
     41:45 - 41:53 - Gavin Greenaway - After Dark
     41:53 - 42:09 - Don Harper - World of Sport Theme
@@ -460,7 +449,6 @@
     01:49 - 02:00 - Coldcut - Aid Dealer (Edit 1)
     02:00 - 02:18 - Aphex Twin - Blue Calx
     02:32 - 02:58 - Shri - Mela
-    02:58 - 03:26 ? ERROR: You do not have Flash installed.
     03:26 - 04:25 - Death in Vegas - Girls
     04:58 - 05:17 - Sigur Ros - Gong
     05:20 - 05:35 - Manfred Mann - Blinded by the Light
@@ -519,7 +507,6 @@
     02:05 - 02:27 - Kings of Leon - Molly's Chambers
     02:29 - 02:40 - Autechre - Eggshell
     02:40 - 02:53 - Amon Tobin - One Day in My Garden
-    02:55 - 03:20 ? ERROR: You do not have Flash installed.
     03:24 - 03:55 - The Zutons - Hello Conscience (Instrumental)
     03:58 - 04:35 - Primal Scream - Kowalski
     04:43 - 05:24 - Aphex Twin - Windowlicker

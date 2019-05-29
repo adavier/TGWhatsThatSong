@@ -141,12 +141,10 @@
     04:31 - 04:40 - David Lynch & John Neff - Go Get Some
     04:41 - 04:59 - John Murphy - In the House, In a Heartbeat
     04:59 - 05:10 - John Murphy - The Beginning
-    05:09 - 05:28 ? ERROR: You do not have Flash installed.
     05:37 - 06:29 - Hybrid - Ultimatum
     06:29 - 06:53 - Richard Strauss - Im Abendrot
 
     Caravan Conkers:
-    15:14 - 15:40 ? ERROR: You do not have Flash installed.
     15:41 - 16:05 - Blur - Parklife
     16:05 - 16:46 - Thomas Newman - His Judgement Cometh
     16:46 - 17:14 - Jim Dooley - Pure Heat
@@ -211,7 +209,6 @@
     03:15 - 04:20 - Leftfield - Storm 3000
     04:23 - 04:52 - Cliff Martinez - First Sleep
     04:52 - 05:29 - City of Prague Philharmonic - A Knife in the Dark
-    05:38 - 05:43 ? ERROR: You do not have Flash installed.
 
     ‘The Stig’ Lap:
     06:53 - 06:58 - Edison Lighthouse - Love Grows (Where My Rosemary Goes)
@@ -240,7 +237,6 @@
 
     Nürburg-Ring Time Trial Challenge:
     41:29 - 41:57 - Craig Armstrong - Amber
-    42:05 - 42:17 ? ERROR: You do not have Flash installed.
     42:16 - 42:40 - Craig Armstrong - Inhaler
     42:40 - 43:17 - Massive Attack - You’ve Never Had a Dream
     43:26 - 44:02 - Depeche Mode - Barrel of a Gun
@@ -427,7 +423,6 @@
     11:40 - 12:02 - Hybrid - Marrakech
     12:02 - 12:45 - Global Communication - 4:02
     12:45 - 14:24 - Orbital - The Box
-    14:23 - 14:30 ? ERROR: You do not have Flash installed.
     14:30 - 15:09 - The Clifford Gilberto Rhythm Combination - Kula World
     15:09 - 15:30 - David Holmes - Tub Scene
     15:33 - 16:19 - Bill Withers - Who Is He (and What is He to You)

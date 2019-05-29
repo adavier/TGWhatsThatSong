@@ -5,13 +5,11 @@
     01:09 - 01:39 - Brian Tyler - Rambo Main Title
     01:42 - 01:44 - Jeff Cardoni - Greed
     01:44 - 01:46 - Jeff Cardoni - The Chief
-    02:40 - 02:46 - ? MP3 Sample
     03:57 - 04:13 - Sheena Easton - For Your Eyes Only
     04:23 - 04:24 - Jeff Cardoni - Elvis Elvis Apartment
     04:24 - 04:27 - Jeff Cardoni - Greed
     06:33 - 08:05 - The Horrors - Chasing Shadows (Instrumental)
     08:05 - 08:43 - Tommi Eckart - Casino (Solid State Remix)
-    08:46 - 09:55 - ? MP3 Sample
     09:55 - 10:38 - Nine Inch Nails - Me, I'm Not
     10:49 - 10:59 - Thomas Newman - Power of Denial
     11:13 - 12:08 - Alex Heffes - Civil Disobedience
@@ -25,7 +23,6 @@
     20:42 - 21:03 - Basil Poledouris - The Dream
     21:03 - 21:48 - Sean Callery - Jack in the Limo
     21:51 - 22:17 - Marvin Gaye - Let's Get It On
-    22:17 - 22:42 - ? MP3 Sample
     23:36 - 24:14 - Thomas Newman - Choking the Bishop
     24:27 - 24:33 - Thomas Newman - Choking the Bishop
     24:49 - 25:02 - Thomas Newman - Choking the Bishop
@@ -39,7 +36,6 @@
     31:40 - 32:19 - Atli Örvarsson - Testudo
     32:43 - 33:16 - Atli Örvarsson - Testudo
     33:25 - 34:16 - Christopher Gordon & Iva Davies - The Galapagos
-    34:17 - 34:49 - ? MP3 Sample
     34:53 - 35:36 - Angelo Badalamenti - The Pink Room
     36:11 - 36:34 - Graeme Revell - Goldie's Dead
     36:34 - 36:52 - Forest Swords - Thor's Stone
@@ -51,12 +47,10 @@
     39:34 - 39:40 - Carter Burwell - Adaptation (Fatboy Slim Remix)
     39:44 - 40:04 - Fuck Buttons - Stalker
     40:14 - 40:27 - Carter Burwell - Adaptation (Fatboy Slim Remix)
-    40:47 - 40:56 - ? MP3 Sample
     41:12 - 41:26 - Carter Burwell - Adaptation (Fatboy Slim Remix)
     41:42 - 42:08 - Hookworms - Beginners
     42:24 - 42:38 - The Horrors - Chasing Shadows
     43:22 - 44:14 - Marc Streitenfeld - Frank Lucas
-    44:15 - 44:53 - ? MP3 Sample
     45:21 - 46:21 - The Horrors - So Now You Know
     47:21 - 48:00 - Hans Zimmer & James Newton Howard - Eptesicus
     48:03 - 48:19 - Robert Plant - Up On the Hollow Hill (Understanding Arthur)
@@ -87,13 +81,11 @@
     01:40 - 02:54 - Hookworms - On Leaving (Instrumental)
     02:54 - 03:41 - The Horrors - Sleepwalk (Instrumental)
     03:38 - 04:02 - Steven Price - Fire
-    04:10 - 04:14 - ? MP3 Sample
     04:14 - 04:44 - Mogwai - Remurdered
     04:44 - 05:04 - Thomas Newman - 2815 A.D.
     05:07 - 06:13 - Ramin Djawadi - Fireman
     06:13 - 07:03 - Ramin Djawadi - Driving with the Top Down
     07:52 - 08:55 - Steven Price - Parachute
-    09:53 - 10:09 - ? MP3 Sample
     10:16 - 10:23 - Ennio Morricone - Guarani
     10:45 - 11:01 - Atticus Ross - The Journey
     11:24 - 11:39 - Atticus Ross - The Journey
@@ -123,9 +115,7 @@
     29:24 - 29:43 - Sean Callery - Jack in the Limo
     30:25 - 30:39 - Hans Zimmer - Hunger
     30:41 - 31:10 - Hans Zimmer & James Newton Howard - Lasiurus
-    31:17 - 31:31 - ? MP3 Sample
     31:31 - 31:58 - Hans Zimmer - Another Brick in Hadrian's Wall
-    31:58 - 32:04 - ? MP3 Sample
     32:24 - 32:34 - Nathan Johnson - Closing Your Loop
     32:30 - 33:17 - Ilan Eshkeri - Penalty of Death
     34:06 - 34:23 - Graeme Revell - Bury the Hatchet
@@ -135,11 +125,9 @@
     36:07 - 36:31 - Brian Eno - Force Marker
     36:31 - 37:06 - Hans Zimmer - Marital Sabotage
     37:19 - 38:13 - Elliot Goldenthal - Entrada & Shootout
-    38:18 - 38:39 - ? MP3 Sample
     38:39 - 38:52 - Nathan Johnson - Closing Your Loop
     38:48 - 39:20 - Hans Zimmer - Woad to Ruin
     40:06 - 40:34 - Thomas Newman - Static
-    40:34 - 40:44 - ? MP3 Sample
     40:44 - 41:21 - Holy Fuck - Latin America
     41:21 - 41:57 - The Horrors - Chasing Shadows (Instrumental)
     43:39 - 43:53 - Graeme Revell - Goldie's Dead
@@ -154,8 +142,6 @@
     50:04 - 50:47 - Tyler Bates - It Was Me
     51:02 - 52:05 - Atticus Ross - The Convoy
     55:28 - 55:55 - Russell Emanuel & Dolphin Taylor - Audio Mist
-    55:55 - 57:28 - ? MP3 Sample
-    58:56 - 60:23 - ? MP3 Sample
     60:33 - 61:07 - Russell Emanuel & Dolphin Taylor - Audio Mist
     62:16 - 62:59 - Burt Bacharach - Not Goin' Home Anymore (Reprise)
 	
@@ -245,13 +231,11 @@
     13:07 - 14:32 - Ryan Amon - Zero Injuries Sustained
     14:33 - 15:10 - Steve Hulse - Nomads
     15:25 - 15:44 - Peter Best - Opening Titles
-    16:37 - 16:53 - ? MP3 Sample
 
     Australian Road Trip, Pt. 2:
     28:29 - 28:41 - Brian Tyler - Army of Two: The Devil's Cartel
     29:04 - 29:13 - Jeff Tymoschuk - The Tailwalk
     29:40 - 29:51 - Jeff Tymoschuk - The Tailwalk
-    30:05 - 30:21 - ? MP3 Sample
     30:29 - 30:50 - Jeff Tymoschuk - The Tailwalk
     31:27 - 32:53 - Kasabian - Stevie (Instrumental)
     32:52 - 33:05 - Adam Peters - Cartel Theme
@@ -259,7 +243,6 @@
     33:28 - 33:32 - Henry Jackman - The Causeway
     34:03 - 34:15 - AC/DC - Back in Black
     34:19 - 34:33 - Brian Tyler - Fearless Crew
-    34:37 - 34:40 - ? MP3 Sample
     34:40 - 35:19 - Midnight Oil - Beds Are Burning
     35:20 - 35:29 - Peter Best - Opening Titles
     36:07 - 36:16 - Nick Cave & Warren Ellis - Road to Banyon
@@ -271,14 +254,11 @@
     38:57 - 39:46 - Brian Tyler - Into Combat
     40:51 - 41:34 - Beady Eye - Flick of the Finger (Instrumental)
     41:32 - 42:01 - Nick Cave & Warren Ellis - Road to Banyon
-    42:02 - 42:17 - ? MP3 Sample
-    42:44 - 43:05 - ? MP3 Sample
     43:17 - 43:54 - Jeff Cardoni - The Real Story
     44:06 - 44:14 - Adam Peters - Cartel Theme
     44:28 - 45:04 - Ryan Amon - Kruger Suits Up
     45:31 - 45:51 - Christian Szczesniak - Dingos Breakfast
     45:51 - 46:07 - Jeff Cardoni - Backstory
-    47:28 - 47:39 - ? MP3 Sample
     48:27 - 49:18 - Noel Gallagher's High Flying Birds - AKA...What A Life! (U.N.K.L.E Rework Instrumental)
     49:18 - 49:53 - Brian Tyler - Look Alive
     50:33 - 51:15 - David Arnold & Michael Price - Major Sholto
@@ -302,7 +282,6 @@
     04:37 - 04:47 - The Sunshine Underground - In Your Arms
     05:47 - 05:53 - John Barry - A Man Alone
     06:04 - 06:18 - Primal Scream - Goodbye Johnny
-    06:20 - 06:25 - ? MP3 Sample
     07:50 - 08:31 - Brian Tyler - Landtrain
     08:33 - 09:17 - George Francis - Rage Racer
     09:33 - 09:49 - Gruff Rhys - Iolo
@@ -332,9 +311,7 @@
     Homemade Ambulance Challenge, Pt. 3:
     42:44 - 42:54 - Barry Gray - Deadly Mist and Mountain Chase
     43:57 - 45:00 - Barry Gray - Thunderbirds Main Titles
-    45:00 - 45:20 - ? MP3 Sample
     45:20 - 45:45 - Bee Gees - Stayin' Alive
-    46:10 - 46:18 - ? MP3 Sample
     46:23 - 47:05 - Henry Jackman - Countdown
     47:09 - 47:29 - Henry Jackman - Countdown
     47:29 - 47:55 - Atli Örvarsson - Vantage Point Main Title
@@ -423,9 +400,7 @@
     55:13 - 55:46 - John Powell - Bolt Transforms
     56:00 - 56:24 - Steve Jablonsky & Trevor Morris - Black Dawn
     56:24 - 57:18 - Ramin Djawadi - Don't Kill Innocent People
-    57:23 - 57:30 - ? MP3 Sample
     57:31 - 58:22 - Ramin Djawadi - I'll Take It From Here
-    58:25 - 58:28 - ? MP3 Sample
     58:52 - 59:29 - Steve Jablonsky - Objects Make Impact
     59:41 - 60:28 - Ramin Djawadi - Do What You Have To Do
 	 
@@ -434,7 +409,6 @@
     Porsche Cayman GTS vs. Chevrolet Corvette:
     01:13 - 01:24 - Kanye West - I'm In It
     01:24 - 01:37 - David Arnold & Michael Price - Mayfly Man
-    01:50 - 01:55 - ? MP3 Sample
     01:55 - 02:10 - Henry Jackman - Taking a Stand
     02:11 - 02:24 - Royal Blood - Out of the Black
     02:32 - 02:47 - Royal Blood - Out of the Black
@@ -494,14 +468,11 @@
 [22x06] March 1st, 2015
 
     Lexus RC F Review:
-    00:57 - 01:44 - ? MP3 Sample
     01:44 - 02:23 - The Prodigy - Nasty (Instrumental)
     02:23 - 03:09 - Mel Wesson - Spellcraft
     03:21 - 03:56 - Brian Tyler - Raiding the Palace
     03:56 - 04:26 - Depeche Mode - Jezebel
     04:26 - 04:50 - Harry Gregson-Williams - Bullet Tells the Truth
-    05:16 - 05:26 - ? MP3 Sample
-    05:34 - 05:47 - ? MP3 Sample
     05:55 - 06:17 - Steven Price - Tiangong
     06:39 - 06:49 - Mel Wesson - Shadowprey
     06:49 - 07:39 - The Prodigy - The Day is My Enemy (Instrumental)
@@ -512,14 +483,8 @@
     17:43 - 18:01 - Brian Tyler - Package Secured
     18:12 - 18:45 - Steve Jablonsky - Objects Make Impact
     18:48 - 19:01 - Quincy Jones - Britannia and Mr. Bridger, If You Please
-    19:01 - 19:40 - ? MP3 Sample
-    19:40 - 19:51 - ? MP3 Sample
-    20:36 - 21:29 - ? MP3 Sample
-    21:29 - 21:38 - ? MP3 Sample
     22:00 - 22:14 - Quincy Jones - Greensleeves and All That Jazz
-    22:40 - 22:50 - ? MP3 Sample
     23:14 - 23:28 - Tyler Bates - The Ballad of the Nova Corps.
-    24:50 - 25:00 - ? MP3 Sample
     26:31 - 27:14 - Boston - The Launch
     27:53 - 28:20 - Tyler Bates - The Ballad of the Nova Corps.
 
@@ -530,31 +495,20 @@
     42:15 - 42:26 - Emmylou Harris - Back in Baby's Arms
     42:26 - 42:52 - The Jon Spencer Blues Explosion - Money Rock'n'Roll
     43:00 - 44:23 - Stevie Ray Vaughan - Voodoo Child (Slight Return)
-    44:17 - 44:21 - ? MP3 Sample
     45:09 - 45:21 - Kenny Loggins & Jim Messina - Angry Eyes
-    45:44 - 45:48 - ? MP3 Sample
     46:41 - 47:01 - Boston - More Than a Feeling
     47:49 - 48:18 - B.B. King - The Thrill is Gone
     48:40 - 48:50 - Jeff Cardoni - College Kid
     49:39 - 50:03 - Aerosmith - Sweet Emotion
-    50:12 - 50:50 - ? MP3 Sample
     50:51 - 51:05 - Nicholas O'Toole - First Road Trip
     51:23 - 51:55 - Tyler Bates - Guardians United
     51:55 - 52:07 - Nicholas O'Toole - First Road Trip
     52:14 - 52:48 - Tyler Bates - The Kyln Escape
     53:05 - 53:25 - Tyler Bates - The Kyln Escape
     53:56 - 54:03 - Tyler Bates - The Final Battle Begins
-    54:03 - 54:39 - ? MP3 Sample
-    54:39 - 55:08 - ? MP3 Sample
-    55:08 - 55:36 - ? MP3 Sample
-    55:51 - 56:05 - ? MP3 Sample
-    56:30 - 56:45 - ? MP3 Sample
     56:47 - 56:48 - Tyler Bates - Guardians United
     56:48 - 57:03 - Tyler Bates - Black Tears
-    57:05 - 57:24 - ? MP3 Sample
-    57:36 - 57:40 - ? MP3 Sample
     58:00 - 59:03 - Tyler Bates - Guardians United
-    59:03 - 59:36 - ? MP3 Sample
 	
 [22x07] March 8th, 2015
 
@@ -593,7 +547,6 @@
 
     World Rallycross Racing:
     44:27 - 44:45 - Mark Mothersbaugh - Let's Put It All Back
-    44:54 - 44:59 - ? MP3 Sample
     44:59 - 45:25 - Steve Jablonsky & Tom Morello - Thug Fight
     45:35 - 46:00 - Kate Tempest - Lonely Daze (Instrumental)
     46:33 - 46:42 - Mark Pritchard - The Hologram
@@ -604,63 +557,34 @@
     51:36 - 52:20 - Steve Jablonsky - The Art of War
     52:50 - 53:03 - The Dust Brothers - Medula Oblongata
     53:27 - 53:38 - Odyssey - If You're Looking For A Way Out
-    53:38 - 55:31 - ? MP3 Sample
-    56:11 - 56:29 - ? MP3 Sample
-    56:39 - 56:56 - ? MP3 Sample
     57:01 - 57:15 - Mark Pritchard - The Hologram
-    57:40 - 58:11 - ? MP3 Sample
-    58:12 - 58:22 - ? MP3 Sample
-    58:23 - 58:51 - ? MP3 Sample
-    58:53 - 59:08 - ? MP3 Sample
-    59:08 - 59:12 - ? MP3 Sample
-    59:12 - 59:36 - ? MP3 Sample
-    59:36 - 60:15 - ? MP3 Sample
 	
 	 
 [22x08] June 28th, 2015 [The Final Clarkson, Hammond, & May Episode]
 
     Classic Car Lifestyle Challenge:
     01:41 - 02:00 - Charles Williams - Coronation Scot
-    02:17 - 02:29 - ? MP3 Sample
-    02:51 - 03:03 - ? MP3 Sample
     03:35 - 03:45 - Puccio Roelens - Caravan
     04:16 - 04:28 - Puccio Roelens - Caravan
     05:08 - 06:00 - Small Faces - Tin Soldier
     06:00 - 06:23 - David Holmes - The Drive Rossbourgh
-    06:52 - 06:58 - ? MP3 Sample
     07:19 - 07:57 - The Rolling Stones - Monkey Man
     08:13 - 08:20 - David Holmes - Sniffing Around
     08:48 - 09:26 - Supergrass - Tales of Endurance (Parts 4, 5 & 6)
-    09:47 - 10:15 - ? MP3 Sample
     10:16 - 10:33 - Manic Street Preachers - Rewind the Film
-    10:36 - 10:44 - ? MP3 Sample
     10:52 - 11:07 - Andy Williams - It's the Most Wonderful Time of the Year
-    11:36 - 11:38 - ? MP3 Sample
-    11:38 - 11:52 - ? MP3 Sample
     13:18 - 14:18 - Mud - Dyna-Mite
     14:57 - 15:20 - T.Rex - Children of the Revolution
-    15:29 - 16:01 - ? MP3 Sample
-    16:01 - 16:31 - ? MP3 Sample
     16:30 - 17:17 - Deadly Avenger - Jacob's Ladder
-    17:56 - 18:06 - ? MP3 Sample
     18:12 - 19:14 - Coldcut - Everything is Under Control (Instrumental)
     19:29 - 19:47 - Quarashi - Weirdo
     20:13 - 20:24 - David Holmes - Earthquake
-    21:01 - 21:12 - ? MP3 Sample
-    21:37 - 21:44 - ? MP3 Sample
-    22:01 - 22:08 - ? MP3 Sample
     22:28 - 22:39 - T.Rex - Jeepster
     22:52 - 23:04 - The Teardrop Explodes - Sleeping Gas (Single Version)
     23:38 - 24:01 - Malachai - The Love (Instrumental)
     24:06 - 24:28 - Blind Faith - Had to Cry Today
-    25:33 - 25:39 - ? MP3 Sample
-    26:07 - 26:22 - ? MP3 Sample
-    26:38 - 27:03 - ? MP3 Sample
-    27:03 - 27:29 - ? MP3 Sample
     27:47 - 28:05 - Lorne Balfe - Surveillance
     28:19 - 28:47 - The Les Reed Strings - Theme From Dr. Finlay's Case Book (March From "A Little Suite")
-    29:04 - 29:20 - ? MP3 Sample
-    30:15 - 30:20 - ? MP3 Sample
     31:19 - 31:33 - Ron Goodwin & His Orchestra - 633 Squadron
 
     Leisure Lifestyle Challenge:
@@ -669,62 +593,10 @@
     35:24 - 36:30 - The Charlatans - Jesus Hairdo
     36:39 - 37:20 - Trentemøller - Come Undone (Toydrum Remix)
     37:20 - 37:54 - Jamie T - Rabbit Hole (Instrumental)
-    38:07 - 38:20 - ? MP3 Sample
-    38:20 - 38:36 - ? MP3 Sample
-    38:55 - 39:05 - ? MP3 Sample
-    39:22 - 39:29 - ? MP3 Sample
-    39:49 - 40:21 - ? MP3 Sample
-    40:21 - 41:16 - ? MP3 Sample
-    41:28 - 42:37 - ? MP3 Sample
-    42:40 - 43:03 - ? MP3 Sample
-    43:10 - 43:54 - ? MP3 Sample
-    43:55 - 44:03 - ? MP3 Sample
-    44:03 - 44:19 - ? MP3 Sample
-    44:22 - 44:49 - ? MP3 Sample
-    45:04 - 45:32 - ? MP3 Sample
-    45:45 - 45:52 - ? MP3 Sample
-    45:52 - 46:10 - ? MP3 Sample
-    46:28 - 46:39 - ? MP3 Sample
-    46:49 - 46:57 - ? MP3 Sample
-    47:01 - 47:28 - ? MP3 Sample
-    48:02 - 48:14 - ? MP3 Sample
-    48:11 - 48:28 - ? MP3 Sample
     48:46 - 49:07 - Jan Hammer - Miami Vice Theme
-    49:42 - 49:58 - ? MP3 Sample
     51:15 - 52:19 - Primal Scream - Struttin'
-    52:24 - 52:42 - ? MP3 Sample
-    54:06 - 54:17 - ? MP3 Sample
     54:17 - 54:36 - Brian Tyler - The Break In
     54:57 - 55:06 - Brian Tyler - The Break In
-    55:24 - 55:34 - ? MP3 Sample
-    55:51 - 56:03 - ? MP3 Sample
-    56:26 - 56:36 - ? MP3 Sample
-    56:48 - 57:03 - ? MP3 Sample
-    57:11 - 57:26 - ? MP3 Sample
-    58:07 - 59:22 - ? MP3 Sample
-    59:24 - 59:39 - ? MP3 Sample
-    59:39 - 60:05 - ? MP3 Sample
-    60:05 - 60:20 - ? MP3 Sample
-    60:43 - 61:05 - ? MP3 Sample
-    61:05 - 61:28 - ? MP3 Sample
-    61:29 - 61:39 - ? MP3 Sample
-    61:39 - 62:08 - ? MP3 Sample
-    62:08 - 62:31 - ? MP3 Sample
-    62:31 - 62:38 - ? MP3 Sample
-    62:40 - 62:50 - ? MP3 Sample
-    62:50 - 63:04 - ? MP3 Sample
-    63:06 - 63:30 - ? MP3 Sample
-    63:43 - 63:49 - ? MP3 Sample
     63:49 - 64:06 - Ron Goodwin & His Orchestra - Frenzy (Film Theme)
-    64:21 - 64:47 - ? MP3 Sample
-    64:55 - 65:04 - ? MP3 Sample
-    65:18 - 65:35 - ? MP3 Sample
     65:35 - 66:04 - John Williams - Escape From The City
-    66:04 - 66:16 - ? MP3 Sample
-    66:37 - 67:11 - ? MP3 Sample
-    67:16 - 67:25 - ? MP3 Sample
-    67:25 - 67:38 - ? MP3 Sample
-    67:38 - 67:45 - ? MP3 Sample
-    67:53 - 68:19 - ? MP3 Sample
-    68:32 - 68:50 - ? MP3 Sample
     69:02 - 69:57 - ? MP3 Sample

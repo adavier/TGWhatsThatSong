@@ -49,7 +49,6 @@
     35:33 - 35:45 - David Holmes - The Real Story
     36:06 - 36:22 - David Holmes - My Mate Paul
     36:48 - 36:58 - David Holmes - My Mate Paul
-    37:56 - 38:02 - ? MP3 Sample
     38:06 - 38:19 - Howie B - Angels Go Bald:Too
     38:36 - 38:48 - Howie B - Angels Go Bald:Too
     39:33 - 39:42 - T.Love - QMS

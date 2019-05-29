@@ -50,8 +50,6 @@
     10:52 - 11:22 - Air - Electronic Performers
 
     Volvo Caravan Jump, Pt. 1:
-    13:47 – 14:15 - ? ERROR: You do not have Flash installed.
-    15:02 – 15:10 - ? (same as above)
 
     Original BMW M Series Cars:
     16:09 - 16:32 - Colder - Crazy Love
@@ -63,11 +61,9 @@
     21:06 - 21:51 - Oasis - A Quick Peep
 
     Volvo Caravan Jump, Pt. 2:
-    33:04 – 33:27 - ? ERROR: You do not have Flash installed.
 
     BMW Z4 vs. Porsche Boxster vs. Honda S2000:
     39:54 - 40:11 - Faithless - Don't Leave (Floating Remix)
-    40:11 - 40:55 - ? ERROR: You do not have Flash installed.
     40:57 - 41:15 - Faithless - Drifting Away (Paradiso Mix)
     41:16 - 41:54 - Bonobo - Flutter
     41:58 - 42:20 - The Faint - Agenda Suicide
@@ -173,7 +169,6 @@
     34:15 - 34:37 - Werner Tautz - Razz My Berries
     34:53 - 35:13 - Werner Tautz - Razz My Berries
     35:27 - 36:13 - Paul Rothman - Pink Deville
-    36:17 - 36:22 - ? ERROR: You do not have Flash installed.
     36:45 - 36:51 - George Frideric Handel - Zadok the Priest
     36:51 - 37:13 - Marc Antoine - Unity
     37:14 - 38:03 - The Notwist - Moron
@@ -235,9 +230,6 @@
     14:29 - 14:46 - Paul Simon - Diamonds on the Soles of Her Shoes
     14:47 - 15:33 - DJ Zinc - Faster
     15:48 - 16:18 - Seal - Get It Together Lyrics
-    20:05 - 20:28 ?
-    27:25 - 27:47 ?
-    27:48 - 28:07 ?
     33:25 - 34:06 - Jaydee - Plastic Dreams (unknown Remix)
     34:06 - 35:13 - Apollo 440 - Altamont Super-Highway Revisited
     49:58 - 50:39 - Kula Shaker - Hush

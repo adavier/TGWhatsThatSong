@@ -7,16 +7,13 @@
 
     Porsche 911 GT2 vs. Lamborghini Gallardo LP560-4:
     02:55 - 03:13 - Hybrid - Sleep of the Defeated
-    03:34 - 03:50 - ? ERROR: You do not have Flash installed.
     03:52 - 04:36 - Hans Zimmer & James Newton Howard - Why So Serious?
     04:36 - 05:18 - U.N.K.L.E - Kaned and Abel
     05:19 - 05:46 - Paul Haslinger - The Final Race
-    05:46 - 06:05 - ? ERROR: You do not have Flash installed.
     06:05 - 06:56 - Black Rebel Motorcycle Club - Need Some Air
     06:56 - 07:07 - Peggy Lee - The Man I Love
     07:10 - 07:29 - Sidney Torch - Barwick Green
     07:30 - 07:56 - Pivot - O Soundtrack My Heart
-    07:56 - 08:07 - ? ERROR: You do not have Flash installed.
     08:07 - 08:30 - U.N.K.L.E - Synthetic Water
     08:43 - 09:02 - Ludovico Einaudi - Fly
     09:02 - 09:06 - Hybrid - Sleep of the Defeated
@@ -71,10 +68,7 @@
     Fiat 500 Abarth Review:
     00:54 - 01:18 - Simon Fisher-Turner - Deadheading
     01:18 - 01:54 - Felix Laband - Whistling in Tongues
-    01:54 - 02:14 - ? ERROR: You do not have Flash installed.
-    02:20 - 02:24 - ? ERROR: You do not have Flash installed.
     02:27 - 02:31 - ? (same as above)
-    02:32 - 03:10 - ? ERROR: You do not have Flash installed.-(same as 01:54 - 02:14)
     04:40 - 04:50 - Apparat - You Don’t Know Me
     04:44 - 04:56 - Simon Fisher-Turner - Access to Rude
     04:48 - 05:09 - Mogwai - Black Spider 2
@@ -84,11 +78,9 @@
     06:31 - 07:04 - Eluvium - Perfect Neglect in a Field of Statues
 
     American Muscle Cars, Pt. 1:
-    16:12 - 16:18 - ? ERROR: You do not have Flash installed.
     16:18 - 16:30 - Panda Bear - Comfy in Nautica
     16:31 - 16:45 - Kronos Quartet - Purple Haze
     17:21 - 17:56 - Craig Armstrong - Inhaler
-    17:56 - 18:02 - ? ERROR: You do not have Flash installed.
     18:04 - 18:20 - Xela - Japanese Whispers
     18:32 - 18:48 - Corner Stone Cues - Ten Years Kashmir, Mov. 2 (Orch/Choir/Perc Mix)
     18:48 - 19:06 - Corner Stone Cues - Battle of Wonderland
@@ -123,26 +115,15 @@
     47:49 - 48:10 - Trevor Morris - Lock n' Load
     48:40 - 49:14 - Damon Albarn - Sunset Coming On
     49:20 - 49:50 - Fuck Buttons - Sweet Love for Planet Earth
-    49:50 - 50:01 - ? ERROR: You do not have Flash installed.
     50:29 - 50:40 - Fuck Buttons - Ribs Out
-    50:40 - 50:47 - ? ERROR: You do not have Flash installed.
     51:01 - 51:12 - Alti Orvarsson - Motorcade
-    51:21 - 51:33 - ? ERROR: You do not have Flash installed.-(same as 50:40 - 50:47)
-    51:39 - 51:44 - ? ERROR: You do not have Flash installed.
-    51:56 - 52:07 - ? ERROR: You do not have Flash installed.
     52:07 - 52:40 - Corner Stone Cues - Illuminati
-    52:40 - 52:47 - ? ERROR: You do not have Flash installed.
-    52:48 - 52:57 - ? ERROR: You do not have Flash installed.
-    52:57 - 53:17 - ? ERROR: You do not have Flash installed.
     53:17 - 54:00 - Corner Stone Cues - Sultana
     54:00 - 54:06 - Corner Stone Cues - Demons
     54:06 - 54:50 - David Morley - Tonewave
-    54:50 - 55:06 - ? ERROR: You do not have Flash installed.-(same as 52:57 - 53:17)
     55:19 - 55:32 - ? (same as above)
     55:33 - 56:07 - Corner Stone Cues - Mojave
-    56:11 - 56:16 - ? ERROR: You do not have Flash installed.
     56:13 - 56:38 - Corner Stone Cues - Mojave
-    56:40 - 56:46 - ? ERROR: You do not have Flash installed.-(same as 54:50 - 55:06)
     56:59 - 58:10 - Corner Stone Cues - Frigga
     58:31 - 59:02 - Corner Stone Cues - Frigga
     59:03 - 60:11 - Ludovico Einaudi - Primavera
@@ -185,7 +166,6 @@
     42:59 - 43:16 - David Holmes - Kensington Chump
     43:27 - 43:40 - Syclops - Mom, the Video Broke
     44:00 - 44:12 - David Holmes - Kensington Chump
-    44:12 - 44:16 - ? ERROR: You do not have Flash installed.
     44:21 - 44:57 - Junkie XL - Idle Lever
     45:52 - 45:59 - Trellis - Crab
     46:10 - 46:21 - Trellis - Crab
@@ -207,7 +187,6 @@
     54:45 - 55:05 - Corner Stone Cues - Dark Rise
     55:26 - 55:44 - The Early Years - So Far Gone
     55:50 - 56:04 - Barry Gray - Event Horizon (from ‘Black Sun’)
-    56:14 - 56:17 - ? ERROR: You do not have Flash installed.
     56:33 - 56:44 - Ennio Morricone - Theme from ‘A Fistful of Dollars’
  
 [12x04] November 23rd, 2008
@@ -223,7 +202,6 @@
     04:43 - 05:38 - U.N.K.L.E - A Wash of Black
     05:42 - 05:59 - The Jesus Lizard - Then Comes Dudley
     06:01 - 06:17 - Jeffrey Taylor & Ned Rifle - Opening
-    06:29 - 06:41 - ? ERROR: You do not have Flash installed.
     06:41 - 07:09 - Ramin Djawadi - Graveyard Standoff
     07:09 - 07:25 - Jeffrey Taylor & Ned Rifle - Opening
 
@@ -261,10 +239,8 @@
     30:16 - 30:28 - Terence Blanchard - ESU Search
 
     Race to Blackpool, Pt. 2:
-    42:53 - 43:01 - ? ERROR: You do not have Flash installed.
     43:01 - 43:34 - Secret Machines - Faded Lines (Live at KCRW)
     43:34 - 44:10 - Terence Blanchard - ESU Search
-    44:10 - 44:18 - ? ERROR: You do not have Flash installed.
     44:18 - 44:39 - Blue States - Holding Ground
     44:56 - 45:27 - David Holmes - Melanie
     46:06 - 46:23 - Jonny Greenwood - Proven Lands
@@ -285,7 +261,6 @@
     BMW M3 Saloon vs. Lexus IS-F Review:
     01:08 - 01:18 - Dustin O'Halloran - Opus 36
     01:19 - 01:33 - Incubus - 4th Movement of the Odyssey
-    01:34 - 02:00 - ? ERROR: You do not have Flash installed.
     02:09 - 02:21 - Apollo 440 - Stealth Overture
     02:21 - 02:54 - James Horner - Main Title (Aliens)
     03:00 - 03:17 - Mute Math - Transformers Theme
@@ -309,27 +284,21 @@
     18:17 - 18:57 - Michael Nyman - Memorial (Remix)
     18:57 - 19:20 - Ennio Morricone - Il Colpo
     19:20 - 20:04 - Marco Beltrami - Ben Takes the Stage/Dan's Burden
-    20:06 - 20:11 - ? ERROR: You do not have Flash installed.
     20:22 - 20:46 - Blockhead - Good Block Bad Block
     20:50 - 21:21 - Danny Elfman - Hellboy II Titles
     21:22 - 21:54 - Primal Scream - The 99th Floor (Instrumental)
     21:56 - 22:17 - David Holmes - Jailbreak
     22:18 - 23:25 - Geoff Zanelli - Righteous Buttkicking
-    23:28 - 24:28 - ? ERROR: You do not have Flash installed.
     24:29 - 24:45 - Marco Beltrami - Mechanical Mausoleum
     24:49 - 25:11 - Michael Nyman - Memorial (Remix)
 
     Ferrari Daytona vs. XSR 48 PowerBoat Race:
     40:54 - 41:17 - John Barry - Into Miami
     41:17 - 41:54 - Ludovico Einaudi - Primavera
-    42:11 - 42:15 - ? ERROR: You do not have Flash installed.
     42:15 - 42:31 - Lalo Schifrin - City Hall (Alternate Take)
-    42:31 - 42:38 - ? ERROR: You do not have Flash installed.
-    43:00 - 43:07 - ? ERROR: You do not have Flash installed.
     43:15 - 43:37 - Corner Stone Cues - Undefeated
     43:39 - 44:07 - Corner Stone Cues - Fire (Instrumental)
     44:09 - 44:52 - John Powell - Roland Snoops
-    44:52 - 45:01 - ? ERROR: You do not have Flash installed.
     45:01 - 45:44 - Clint Mansell - Doom
     45:44 - 46:07 - DJ Shadow - Artifact
     46:07 - 46:50 - Slowdive - Souvlaki Space Station
@@ -368,7 +337,6 @@
     06:57 - 07:25 - Secret Machines - First Wave Intact
 
     Communist Car Invasion:
-    20:14 - 20:34 - ? ERROR: You do not have Flash installed.
     20:35 - 20:42 - A Hawk and a Hacksaw - Wicky Pocky
     20:42 - 20:50 - Aesop Rock - Forest Crunk
     20:50 - 20:52 - A Hawk and a Hacksaw - Wicky Pocky
@@ -386,9 +354,7 @@
     28:19 - 28:25 - Blockhead - 7 Miles
     28:25 - 28:42 - Ennio Morricone - La Resa Dei Conti
     28:42 - 28:48 - Blockhead - 7 Miles
-    29:03 - 29:09 - ? ERROR: You do not have Flash installed.
     29:10 - 29:42 - Hans Zimmer - Let the Dead Get In
-    29:56 - 30:02 - ? ERROR: You do not have Flash installed.
     30:15 - 31:17 - Ladyhawke - My Delirium (Instrumental)
     31:17 - 31:50 - James Newton Howard - Vincent Hops Train
     31:50 - 32:05 - Hans Zimmer - The Way of the Sword
@@ -406,15 +372,12 @@
 
     Ford Fiesta Road Test:
     49:19 - 49:34 - Dead Can Dance - The Host of Seraphim
-    49:35 - 49:38 - ? ERROR: You do not have Flash installed.
     49:38 - 49:58 - Amon Tobin - Esther's
     50:17 - 50:19 - Amon Tobin - Esther's
     50:22 - 50:37 - Flying Lotus - Melt!
     50:56 - 51:12 - Amon Tobin - Ever Falling
     51:15 - 52:11 - Bill Conti - Fanfare for Rocky
     52:15 - 52:29 - Amon Tobin - The Killer's Vanilla
-    52:29 - 52:39 - ? ERROR: You do not have Flash installed.
-    52:47 - 53:00 - ? ERROR: You do not have Flash installed.
     53:05 - 53:11 - Hans Hammerschmid - Secret Affair
     53:14 - 54:08 - The Prodigy - Hot Ride
     54:08 - 54:11 - Bebel Gilberto - So Nice (Summer Samba)
@@ -425,7 +388,6 @@
     55:03 - 55:30 - Curve - Hell Above Water
     55:35 - 56:16 - Klazz Brothers & Cuba Percussion - Air
     56:20 - 56:27 - Amon Tobin - Big Furry Head
-    56:56 - 58:18 - ? ERROR: You do not have Flash installed.
     58:22 - 59:48 - Tchaikovsky - 1812 Overture
 	 
 [12x07] December 14th, 2008
@@ -504,7 +466,6 @@
     13:48 - 14:02 - Lalo Schifrin - The Cross
     14:02 - 15:07 - The Who - Magic Bus
     15:11 - 15:34 - Ian Brown - Can't See Me (Bacon & Quarmby Remix)
-    15:51 - 16:06 - ? ERROR: You do not have Flash installed.
     16:04 - 16:58 - Samuel Barber - Adagio for Strings
     18:43 - 18:59 - Lalo Schifrin - The Stadium Grounds [unconfirmed]
     18:59 - 19:07 - Lalo Schifrin - The Cross [unconfirmed]
@@ -547,17 +508,14 @@
     41:46 - 42:08 - Led Zeppelin - Ramble On
     42:14 - 42:26 - Susumu Yokota - Future Tiger
     44:43 - 45:23 - Lalo Schifrin - Prologue/Swimming Pool [unconfirmed]
-    45:30 - 45:47 - ? ERROR: You do not have Flash installed.
     45:49 - 46:48 - Beastie Boys - Dramastically Different
     47:24 - 47:50 - Beastie Boys - The Kangaroo Rat
     47:51 - 48:29 - Hans Zimmer & James Newton Howard - Always a Catch
     48:32 - 48:59 - Graeme Revell - Bury the Hatchet
     49:41 - 49:57 - Lalo Schifrin - Scorpio Takes the Bait
-    50:16 - 50:27 - ? ERROR: You do not have Flash installed.
     50:54 - 51:26 - Brian Eno - Untitled
     51:57 - 52:17 - Johnny Cash - Ring of Fire
     52:55 - 53:33 - Susumu Yokota - Live Echo
-    53:31 - 53:40 - ? ERROR: You do not have Flash installed.
     54:31 - 55:01 - Alex Heffes - Ambush
     55:01 - 55:12 - Susumu Yokota - Beans
     55:48 - 56:18 - Stealers Wheel - Stuck In The Middle With You

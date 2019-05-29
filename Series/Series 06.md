@@ -75,7 +75,6 @@
     05:04 - 05:21 - Lemon Jelly - '88 (a.k.a. Come Down On Me)
     05:22 - 05:45 - The Mars Volta - Cassandra Geminni (Faminepulse)
     05:46 - 06:40 - Guiseppe Verdi - ‘Dies Irae’ from Messa da Requiem
-    06:41 - 06:49 ? ERROR: You do not have Flash installed.
     06:49 - 07:20 - The Mars Volta - Cassandra Geminni (Faminepulse)
     08:05 - 08:21 - Giacomo Puccini - ‘O Mio Babbino Caro’ from Gianni Schicchi
 
@@ -89,8 +88,6 @@
     19:16 - 20:12 - Alex Gopher - Gordini Mix
     20:12 - 20:22 - Kevin Mark Trail - D Thames (Instrumental)
     20:22 - 20:40 - Brandy - Afrodisiac (Instrumental)
-    20:46 - 21:02 ? ERROR: You do not have Flash installed.
-    21:14 - 21:24 ? ERROR: You do not have Flash installed.
     21:52 - 22:08 - Harry South - The Sweeney
     22:36 - 22:58 - Royal Philharmonic Orchestra - Mission: Impossible
     23:19 - 23:47 - Royal Philharmonic Orchestra - The Prisoner
@@ -101,7 +98,6 @@
     27:25 - 28:09 - Dusty Springfield - Spooky
     28:10 - 28:26 - Ian Broudie - Smoke Rings
     28:40 - 28:56 - The Stranglers - Golden Brown
-    29:00 - 29:10 ? ERROR: You do not have Flash installed.
     29:31 - 29:55 - 10cc - Dreadlock Holiday
     30:18 - 30:49 - Stretch - Why Did You Do It?
     30:54 - 31:57 - Air - Alpha Beta Gaga
@@ -419,7 +415,6 @@
     03:56 - 05:19 - Depeche Mode - Enjoy the Silence (Mike Shinoda Remix)
     05:43 - 06:01 - Antonio Vivaldi - Mandolin Concerto in C, RV425 - ii. Largo
     07:25 - 07:43 - Antonio Vivaldi - Concerto for Two Mandolins in G, RV532 - ii. Andante
-    07:43 - 08:12 ? ERROR: You do not have Flash installed.
     08:13 - 08:31 - Gabriel Fauré - Pavane, Op. 50
     08:32 - 09:42 - The Chemical Brothers - Dig Your Own Hole
     10:00 - 10:16 - Sonic Youth - Sunday
@@ -539,7 +534,6 @@
     Outdoor Toys:
     45:18 - 45:30 - The Prodigy - Spitfire
     45:31 - 46:03 - Mylo - Valley of the Dolls
-    46:03 - 46:12 ? ERROR: You do not have Flash installed.
     46:43 - 47:16 - Nick Phoenix - Thunderland
     48:21 - 48:41 - Daft Punk - Human After All
     49:31 - 50:13 - Overseer - Supermoves
@@ -574,18 +568,14 @@
 
     Car Engine Theme Song:
     17:32 - 17:48 - The Chemical Brothers - Piku (Fabriclive Mix)
-    17:48 - 17:55 ? ERROR: You do not have Flash installed.
     17:55 - 18:26 - Black Rebel Motorcycle Club – Whatever Happened to My Rock ‘n Roll
     18:34 - 18:44 - Mozart - Don Giovanni - Act i, 15: Aria: Fin ch'han dal vino
     18:52 - 18:56 - Mozart - Don Giovanni - Act i, 15: Aria: Fin ch'han dal vino
-    19:03 - 19:08 ? ERROR: You do not have Flash installed.
     19:08 - 19:26 - The Prodigy - Spitfire
     19:32 - 19:37 - The Prodigy - Spitfire
     19:38 - 20:07 - Antonio Bazzini - La Ronde Des Lutins
     20:12 - 20:59 - Kasabian - Processed Beats
     20:59 - 21:23 - Ram Jam - Black Betty
-    21:25 - 21:38 ? ERROR: You do not have Flash installed.
-    21:43 - 22:36 ? ERROR: You do not have Flash installed.
 
     Ford F150 SVT Lightning Review:
     37:11 - 37:32 - Husky Rescue - My World

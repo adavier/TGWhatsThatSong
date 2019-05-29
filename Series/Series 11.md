@@ -6,13 +6,10 @@
     00:53 - 02:00 - The Charlatans - One to Another
 
     "Economical" SuperCar Race:
-    02:33 - 03:00 - ? ERROR: You do not have Flash installed.
     03:01 - 03:56 - Paul Haslinger - Rat Bastard
     03:57 - 04:50 - M83 - A Guitar And A Heart
-    04:50 - 04:56 - ? ERROR: You do not have Flash installed.
 
     Toyota Prius vs. BMW M3:
-    06:29 - 06:48 - ? ERROR: You do not have Flash installed.
     06:49 - 07:38 - Death in Vegas - Aladdin’s Story
 
     Ferrari 430 Scuderia Review:
@@ -20,10 +17,8 @@
     16:02 - 16:22 - Autechre - Altibzz
     16:37 - 16:58 - Atli Orvarsson - Motorcade
     17:14 - 17:29 - Atli Orvarsson - Tightening Circle
-    18:00 - 18:24 - ? ERROR: You do not have Flash installed.
     18:27 - 18:51 - Mogwai - Glasgow Mega-Snake
     18:55 - 18:57 - Paul Haslinger - Dawn Patrol
-    18:57 - 19:01 - ? ERROR: You do not have Flash installed.
     19:06 - 19:39 - Autechre - Altibzz
     19:40 - 20:01 - Atli Orvarsson - The Chase Begins
     20:01 - 20:23 - Mogwai - Like Herod
@@ -38,7 +33,6 @@
     26:11 - 26:55 - Tyler Bates - To Victory
 
     £1000 Police Vehicle Challenge:
-    39:27 - 39:41 - ? ERROR: You do not have Flash installed.
     40:28 - 40:40 - Danny Elfman - Thade Goes Ape
     41:02 - 41:17 - Daniel Cain Orchestra - Murder, She Wrote
     41:41 - 41:58 - Royal Philharmonic Concert Orchestra - Hawaii 5-0
@@ -113,7 +107,6 @@
     52:24 - 52:41 - Goldfrapp - Let it Take You
     52:48 - 52:53 - Nathaniel Mechaly - Chess Room
     52:51 - 54:39 - Mogwai - I Know You Are But What Am I?
-    54:38 - 55:08 - ? ERROR: You do not have Flash installed.
     55:09 - 55:40 - Massive Attack - Atta Boy
     55:52 - 57:38 - Electrelane - Atom's Tomb
     57:38 - 57:51 - James Newton Howard - 25 Dollars Worth
@@ -167,7 +160,6 @@
     50:09 - 50:54 - Quincy Jones - On Days Like These (Reprise)
     51:17 - 51:31 - Quincy Jones - On Days Like These (Reprise)
     51:38 - 52:03 - Bobby Womack - Across 110th Street
-    52:52 - 53:26 - ? ERROR: You do not have Flash installed.
     53:35 - 53:42 - (same as above)
     53:45 - 54:01 - Simon & Garfunkel - Mrs. Robinson
     54:02 - 54:29 - Röyksopp - Triumphant
@@ -187,7 +179,6 @@
     02:58 - 03:33 - M83 - Gone
     03:33 - 04:04 - The Last Shadow Puppets - The Age of the Understatement
     04:05 - 04:22 - U.N.K.L.E - Keys to the Kingdom
-    04:22 - 05:05 - ? ERROR: You do not have Flash installed.
     05:06 - 05:53 - Lisa Gerrard - Aria
     06:05 - 06:56 - Craig Armstrong - Bess to See Throckmorton
 
@@ -203,9 +194,7 @@
     19:34 - 20:00 - The Stooges - Down on the Street
     20:04 - 20:18 - Nathaniel Mechaly - Revolver
     20:27 - 21:16 - LCD Soundsystem - Big Ideas
-    21:16 - 21:22 - ? ERROR: You do not have Flash installed.
     21:22 - 21:33 - LCD Soundsystem - Big Ideas
-    21:38 - 21:42 - ? ERROR: You do not have Flash installed.
     21:38 - 23:17 - Harry Gregson-Williams - Humvee Chase
     24:08 - 24:47 - LCD Soundsystem - Big Ideas
     25:00 - 25:14 - LCD Soundsystem - Big Ideas
@@ -249,7 +238,6 @@
     01:27 - 01:46 - Lalo Schifrin - Shifting Gears
     02:13 - 02:54 - Queens of the Stone Age - Sick Sick Sick
     02:54 - 03:32 - Clint Mansell - The Beginning of the End
-    03:32 - 03:51 - ? ERROR: You do not have Flash installed.
     03:51 - 04:07 - John Ottman - The Water
     04:16 - 04:58 - U.N.K.L.E - End Titles
     04:54 - 05:26 - U.N.K.L.E - Black Mass
@@ -268,7 +256,6 @@
     21:10 - 22:28 - Pavement - Jackals, False Grails: The Lonesome Era
     22:56 - 23:25 - Aim - Birchwood
     23:52 - 24:19 - Secret Machines - First Wave Intact
-    24:48 - 24:52 - ? ERROR: You do not have Flash installed.
     25:46 - 26:19 - Death In Vegas - Hands Around My Throat
     26:24 - 26:50 - Air - Dead Bodies
     27:04 - 27:24 - Mandingo - The Headhunter
@@ -321,7 +308,6 @@
     17:53 - 17:57 - U.N.K.L.E – Restless (Instrumental)
     18:06 - 18:31 - U.N.K.L.E – Restless (Instrumental)
     18:33 - 18:44 - Psilonaut - Ghosts in the Machine
-    19:05 - 19:17 - ? ERROR: You do not have Flash installed.
     19:17 - 20:15 - Brian Tyler - War Opening Titles
     20:16 - 20:49 - Curve - On the Wheel
     20:51 - 21:09 - Hans Zimmer & James Newton Howard - A Dark Knight
@@ -338,7 +324,6 @@
     37:21 - 38:30 - Ron Goodwin - Battle of Britain Theme
     38:40 - 39:01 - David Holmes - Boobytrapping
     39:03 - 39:20 - DJ Shadow - Giving up the Ghost
-    40:35 - 40:42 - ? ERROR: You do not have Flash installed.
     40:42 - 42:10 - The Music - Inconceivable Odds / No Danger
     42:18 - 42:47 - David Holmes - Little Short One, Pt. 1
     42:49 - 44:06 - Ron Goodwin - 633 Squadron Theme

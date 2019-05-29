@@ -17,7 +17,6 @@
     14:28 - 15:22 - Corner Stone Cues - Leather Tomb
     15:24 - 16:23 - Corner Stone Cues - Requiem for a Tower
     16:33 - 16:55 - E.S. Posthumus - Tikal
-    16:55 - 16:58 - ? ERROR: You do not have Flash installed.
     16:58 - 17:30 - Mark Mancina - Memphis’ Theory
     17:35 - 18:03 - Radio Dept. - Keen on Boys
     18:41 - 19:05 - Clint Mansell - Tree of Life
@@ -32,7 +31,6 @@
     26:48 - 27:03 - John Barry - Gumbold's Safe
     27:31 - 27:57 - U.N.K.L.E - When Things Explode (Instrumental)
     28:24 - 29:23 - Corner Stone Cues – J.B.D.
-    29:37 - 30:05 - ? ERROR: You do not have Flash installed.
     30:09 - 30:22 - The Beach Boys - I Get Around
     30:26 - 30:43 - Mark Mancina - Recon Report
     31:14 - 31:33 - Finnbogi Pétursson - Conversation
@@ -126,7 +124,6 @@
 [10x02] October 14th, 2007
 
     Audi R8 vs. Porsche 911:
-    00:53 - 01:02 - ? ERROR: You do not have Flash installed.
     00:58 - 01:02 - U.N.K.L.E - Hold My Hand
     01:02 - 01:05 - Tyler Bates - To Victory
     01:05 - 01:37 - Goldfrapp - Let It Take You
@@ -221,7 +218,6 @@
     46:58 - 47:14 - David Holmes - Slasher's Revenge
     47:19 - 47:53 - City of Prague Philharmonic - Midnight Cowboy
     47:55 - 48:13 - David Lowe - BBC News Theme '07
-    48:21 - 48:28 - ? ERROR: You do not have Flash installed.
     49:03 - 49:30 - Primal Scream - Movin' On Up
 
     Bugatti Veyron vs. Eurofighter Typhoon:
@@ -303,7 +299,6 @@
     32:42 - 33:08 - Ennio Morricone - L'Ultimo Rantolo
     33:55 - 34:58 - Danny Elfman - Main Title Deconstruction (Planet of the Apes)
     34:58 - 35:28 - Tyler Bates - No Sleep Tonight
-    35:28 - 36:25 - ? ERROR: You do not have Flash installed.
     36:57 - 37:02 - Alan Silvestri - The Getaway
     37:48 - 38:09 - Brian May - Montage/Main Title
     39:19 - 39:40 - Kinesthesia - Triachus (Aphex Twin Mix)
@@ -366,7 +361,6 @@
     17:35 - 18:20 - Terence Blanchard - Demands in Place
     18:20 - 19:42 - The Crystal Method - Weapons of Mass Distortion
     19:44 - 19:58 - Ennio Morricone - Quasi Morto
-    19:59 - 20:06 - ? ERROR: You do not have Flash installed.
     20:07 - 20:17 - Ennio Morricone - Quasi Morto
     20:22 - 20:30 - Ennio Morricone - Quasi Morto
     20:32 - 21:06 - Muse - Map of the Problematique
@@ -467,12 +461,9 @@
     Motorhome Sport Racing:
     49:47 - 50:23 - The Black Keys - If You See Me
     50:23 - 50:41 - The Red Hot Chili Peppers - The Righteous & the Wicked
-    50:51 - 51:27 - ? ERROR: You do not have Flash installed.
     51:41 - 52:23 - Ennio Morricone - Quasi Morto
     52:23 - 52:36 - David Holmes - All Sewn Up
-    52:36 - 52:43 - ? ERROR: You do not have Flash installed.
     52:43 - 52:52 - David Holmes - All Sewn Up
-    52:49 - 52:55 - ? ERROR: You do not have Flash installed.-(same as 52:36 - 52:43)
     52:55 - 53:07 - Terence Blanchard - Defend Brooklyn
     53:16 - 53:32 - City of Prague Philharmonic - Parade of the Charioteers
     53:38 - 54:11 - The The - I Saw the Light
@@ -551,7 +542,6 @@
     01:10 - 01:25 - Queens of the Stone Age - Turnin' on the Screw
     01:25 - 01:39 - Queens of the Stone Age - Run, Pig, Run
     01:39 - 02:21 - John Powell - Bim Bam Smash
-    02:38 - 02:48 - ? ERROR: You do not have Flash installed.
     02:48 - 03:05 - U.N.K.L.E - Burn My Shadow (Instrumental)
     03:07 - 03:29 - U.N.K.L.E - Morning Rage (Instrumental)
     03:29 - 03:37 - The Dust Brothers - Psycho Boy Jack
@@ -567,14 +557,12 @@
     Early Auto Layouts:
     15:08 - 15:17 - Hans Zimmer - Beneath Alrischa
     15:17 - 15:54 - Layo & Bushwacka! - Dr. Teeth
-    15:57 - 16:35 - ? ERROR: You do not have Flash installed.
     17:46 - 18:35 - U.N.K.L.E - Morning Rage (Instrumental)
     18:51 - 19:40 - Elliot Goldenthal - That Cop Stole My Car
     19:38 - 20:12 - The Dust Brothers - Corporate World
     20:13 - 20:41 - Starsailor - Four To The Floor (Soulsavers Mix)
     21:08 - 21:52 - John Barry - Beat for Beatniks
     21:52 - 22:00 - Elliot Goldenthal - The Fascist Shuffle
-    22:01 - 22:10 - ? ERROR: You do not have Flash installed.
     22:22 - 22:37 - U.N.K.L.E - May Day (Instrumental)
     23:06 - 23:44 - Alan Silvestri - Back to the Future Overture
 
@@ -586,7 +574,6 @@
     36:03 - 37:52 - Michael Brook - Ultramarine
     35:52 - 37:31 - John Powell - Man Versus Man
     38:00 - 38:23 - Underworld - Faxed Invitation
-    38:23 - 38:38 - ? ERROR: You do not have Flash installed.
     39:05 - 39:14 - Hans Zimmer - Hunger
     39:09 - 40:16 - John Murphy - The Beginning
     40:16 - 40:48 - Terence Blanchard - Demands in Place
@@ -609,7 +596,6 @@
     04:46 - 04:58 - The Sabres of Paradise - Flight Path Estate
     04:58 - 05:26 - John Williams - Main Title (Star Wars)
     06:14 - 06:21 - Hank Shocklee - Club Jam
-    06:44 - 06:51 - ? ERROR: You do not have Flash installed.
     07:07 - 07:23 - Robert Rodriguez - Sin City
     07:24 - 07:45 - Killing Joke - Walking With Gods
     07:47 - 08:02 - Louis Levy & The Gaumont British Orchestra - Music from the Movies March
@@ -620,7 +606,6 @@
     09:52 - 10:46 - Danny Elfman - Batman to the Rescue
     10:50 - 10:58 - The Early Years - So Far Gone
     11:04 - 11:21 - Steve Jablonsky & Trevor Morris - Yellow Planet
-    11:55 - 12:01 - ? ERROR: You do not have Flash installed.
 
     Fiat 500 vs. BMX Bikers:
     13:15 - 13:18 - Luigi & Antonio Russolo - Corale
@@ -630,10 +615,7 @@
     14:21 - 14:24 - Walter Ruttmann - Wochenende
     14:24 - 14:39 - Porn Sword Tobacco - Pappa! Min Kärlek Är Gravid
     14:42 - 15:08 - Amon Tobin - Kitchen Sink (Sixtoo Remix)
-    15:10 - 15:24 - ? ERROR: You do not have Flash installed.
     15:32 - 15:37 - Walter Ruttmann - Wochenende
-    15:52 - 16:10 - ? ERROR: You do not have Flash installed.
-    16:10 - 16:17 - ? ERROR: You do not have Flash installed.
     16:17 - 16:40 - Clint Mansell - Go to Hell
     16:40 - 16:55 - Rammstein - Heirate Mich
     16:55 - 17:15 - Amon Tobin - Esther’s
@@ -658,7 +640,6 @@
     Britcar 24hr Endurance Race, Pt. 2:
     37:36 - 37:45 - Clint Mansell - Semper Fi
     38:02 - 38:22 - Clint Mansell - Superhumans and Monsters
-    38:32 - 38:43 - ? ERROR: You do not have Flash installed.
     39:21 - 39:42 - Clint Mansell - Superhumans and Monsters
     40:32 - 40:49 - Scott Walker - Cossacks Are
     41:16 - 41:29 - Battles - Atlas
@@ -670,7 +651,6 @@
     46:09 - 46:25 - The Early Years - All Ones and Zeros
     46:30 - 46:57 - Louis Levy & The Gaumont British Orchestra - Music from the Movies March
     47:01 - 47:25 - Stereophonics - Lady Luck
-    47:25 - 47:50 - ? ERROR: You do not have Flash installed.
     48:03 - 48:13 - Trevor Jones - Sixth Boss Fight
     48:18 - 48:30 - Trevor Jones - Sixth Boss Fight
     48:34 - 49:32 - Clint Mansell - Containment Breach

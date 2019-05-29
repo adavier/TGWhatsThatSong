@@ -87,14 +87,12 @@
     06:23 - 06:52 - David Arnold - Fall of a House in Venice
     06:52 - 07:21 - David Arnold - The End of an Aston Martin
     07:21 - 07:54 - Wojciech Kilar - Dracula-The Beginning
-    07:52 - 08:00 ? ERROR: You do not have Flash installed.
     08:00 - 08:16 - Wojciech Kilar - Dracula-The Beginning
     08:16 - 08:44 - Wojciech Kilar - Ascension
 
     Audi vs. Alfa vs. Mazda Review, Pt. 1:
     18:00 - 18:21 - Craig Armstrong - Death in the Square
     18:18 - 19:01 - Brian Tyler, Klaus Badelt - Constantine End Titles
-    19:03 - 19:33 ? ERROR: You do not have Flash installed.
     19:29 - 19:59 - Soulsavers - Cabin Fever
     20:03 - 20:21 - The Future Sound of London - Papua New Guinea (12" Version)
     20:21 - 20:44 - John Powell - Whirlpool of Love
@@ -117,7 +115,6 @@
     Audi vs. Alfa vs. Mazda Review, Pt. 2:
     40:10 - 40:55 - Hybrid – Dream Stalker
     40:56 - 41:37 - Jamie Jones - Amazon
-    41:49 - 41:56 ? ERROR: You do not have Flash installed.
     41:56 - 42:04 - Ron Goodwin - Reitsch's Flight
     42:04 - 42:32 - Arthur Lyman - Caravan
     42:32 - 42:53 - David Holmes - Lyman Zerga
@@ -210,10 +207,8 @@
 
     Porsche 911 Turbo Review:
     01:37 - 01:42 - Dave Edmunds – I Hear You Knocking
-    01:42 - 02:08 ? ERROR: You do not have Flash installed.
     02:09 - 02:30 - A3 - Woke Up This Morning (Chosen One Mix)
     02:30 - 02:58 - Hans Zimmer - Bakara
-    02:59 - 03:27 ? ERROR: You do not have Flash installed.
     03:50 - 04:10 - Lo-Fidelity Allstars - Pony Pressure
     04:10 - 05:00 - The Prodigy - Climbatize
     05:05 - 05:12 - The Prodigy - Climbatize
@@ -258,14 +253,12 @@
     49:46 - 50:06 - Michael Giacchino - Schifrin and Variations
     50:29 - 50:47 - Roy Budd - Goodbye Carter!
     51:03 - 51:38 - The Band of H.M. Royal Marines - The Guns of Navarone
-    51:44 - 51:46 ? ERROR: You do not have Flash installed.
     51:50 - 52:16 - The Western Band of the R.A.F. - Battle of Britain March
     52:22 - 53:39 - The Western Band of the R.A.F. - Battle of Britain March
     52:41 - 54:07 - John Barry - Capsule in Space
     54:28 - 54:52 - John Williams - The Planet Krypton
     54:52 - 55:31 - James Horner - Ripley’s Rescue (Percussion Only)
     55:38 - 55:59 - Antonio Pinto - By Air
-    56:01 - 56:04 ? ERROR: You do not have Flash installed.
     56:26 - 57:08 - Dario Marianelli - Knives and Bullets (And Cannons Too)
     57:47 - 58:39 - Michael Kamen - Snowmobiles
 	
@@ -275,7 +268,6 @@
     01:07 - 01:21 - Audio Bullys - EQ'ing
     01:44 - 01:59 - Bryan New - Crime Scene
     01:59 - 02:37 - Ben Carson - Mistaken Belief
-    02:50 - 03:18 ? ERROR: You do not have Flash installed.
     03:34 - 04:12 - Holly Frates - Gothic Vocalise
     05:13 - 05:24 - The Zutons - How Does it Feel? (Instrumental)
 
@@ -283,14 +275,12 @@
     13:53 - 14:36 - City of Prague Philharmonic - Parade of the Charioteers
     15:04 - 15:30 - City of Prague Philharmonic - Parade of the Charioteers
     15:47 - 15:58 - City of Prague Philharmonic - Parade of the Charioteers
-    16:24 - 16:45 ? ERROR: You do not have Flash installed.
     16:48 - 16:56 - The Flee-rekkers - Fireball XL5
     16:56 - 17:02 - The Barry Gray Orchestra - The Mysterons Theme
     17:19 - 17:59 - Milt Buckner - The Beast
     18:00 - 18:15 - Amon Tobin - Bridge
     18:17 - 18:52 - Depth Charge - Bastard Swordsman
     18:54 - 19:13 - Kasabian - Empire (Instrumental)
-    19:22 – 19:27 ? ERROR: You do not have Flash installed.-(same as 16:24 - 16:45)
     20:18 - 21:01 - Kasabian - Last Trip [In Flight] (Instrumental)
     21:07 - 21:25 - Brian Tyler feat. Slash - Mustang Nismo
     22:10 - 22:52 - Kasabian - Sun Rise Light Flies (Instrumental)
@@ -319,7 +309,6 @@
     50:30 - 50:43 - Mel Wesson - Nightwatch
     50:46 - 51:03 - Sergei Prokofiev - Dance of the Knights
     51:52 - 52:24 - City of Prague Philharmonic - Theme from Dallas
-    52:24 - 52:59 ? ERROR: You do not have Flash installed.-(based upon "Recuerdos de la Alhambra")
     53:27 - 53:58 - Brian Tyler - Winner... Gets... Me
     54:11 - 54:25 - Mel Wesson - After Stark
     55:09 - 55:26 - Hans Zimmer - Chant
@@ -342,7 +331,6 @@
     02:01 - 02:33 - The Band of H.M. Royal Marines - Aces High
     02:34 - 03:01 - The James Taylor Quartet - Wait a Minute
     03:10 - 03:26 - Tony Osborne & His Orchestra - Roundabout
-    03:33 - 03:41 ? ERROR: You do not have Flash installed.
     03:41 - 03:52 - Wagon Christ - Saddic Gladdic
     04:06 - 04:27 - Ty - The Willing (Instrumental)
     04:58 - 05:10 - Jean-Claude Petit - Chronique

@@ -92,7 +92,6 @@
 
     '68 Dodge Charger 440 Review:
     13:55 - 14:22 - Jimi Hendrix - Voodoo Child (Slight Return)
-    14:22 - 14:53 ? ERROR: You do not have Flash installed.
     14:59 - 15:32 - Jimi Hendrix - Voodoo Child (Slight Return)
     15:35 - 16:21 - Lalo Schifrin - Bullitt (Main Title)
     16:39 - 17:19 - Love Unlimited Orchestra - Theme from Together Brothers
@@ -147,7 +146,6 @@
 
     SatNav vs. Racing Pigeon:
     14:02 - 14:48 - Dmitri Shostakovich - Symphony No. 11 in G Minor - Ninth of January
-    14:50 - 15:10 ? ERROR: You do not have Flash installed.
     15:10 - 16:18 - Dmitri Shostakovich - Symphony No. 11 in G Minor - Ninth of January
     16:23 - 17:27 - Wax Poetic - Oriental Wind
     17:32 - 18:21 - Michael Kamen - The State of Liberty
@@ -203,13 +201,9 @@
 [04x05] June 6th, 2004
 
     Vauxhall Astra - Mazda 3 - VW Golf:
-    00:47 - 01:19 - ? ERROR: You do not have Flash installed.
     01:31 - 02:15 - The Sabres of Paradise - Chapel Street Market 9am
-    02:15 - 02:38 - ? ERROR: You do not have Flash installed.-(same as 00:47-01:19)
     02:38 - 02:52 - Matmos - Cloth Mother/ Wire Mother
     02:52 - 03:38 - Air - Another Day
-    03:52 - 04:03 - ? ERROR: You do not have Flash installed.
-    04:03 - 04:14 - ? ERROR: You do not have Flash installed.
     04:14 - 05:20 - Moby - Oil 1
     05:20 - 06:13 - Air - Alone in Kyoto
 
@@ -217,7 +211,6 @@
     13:24 - 14:05 - Tony Hatch - Theme from Crossroads
     15:12 - 15:30 - Ken Dodd - Happiness
     15:30 - 15:52 - Des O'Connor - Dick-A-Dum-Dum (King's Road)
-    15:52 - 16:11 - ? ERROR: You do not have Flash installed.-(same as 00:47-01:19)
     16:11 - 16:42 - Louis Armstrong - We Have All the Time in the World
     17:13 - 18:00 - Flanagan & Allen - Run, Rabbit, Run
     18:02 - 19:05 - Matt Monro - Close to You (They Long To Be)
@@ -304,15 +297,12 @@
     47:05 - 47:42 - Alfred Newman - How the West Was Won
 
     Renault Clio 182 Review:
-    49:34 - 49:52 - ? ERROR: You do not have Flash installed.
     49:52 - 50:17 - Nusrat Fateh Ali Khan, Michael Brook - Sweet Pain (Joi Remix)
     50:19 - 50:29 - Nusrat Fateh Ali Khan, Michael Brook - Sweet Pain (Joi Remix)
-    50:29 - 51:01 - ? ERROR: You do not have Flash installed.
     51:01 - 51:30 - Meat Beat Manifesto - Deviate
     51:33 - 51:46 - Meat Beat Manifesto - Deviate
     51:46 - 51:49 - Nusrat Fateh Ali Khan, Michael Brook - Longing (Aki Nawaz Remix)
     52:27 - 52:57 - Nusrat Fateh Ali Khan, Michael Brook - Lament (Earthtribe Remix)
-    52:57 - 53:22 - ? ERROR: You do not have Flash installed. (same as 49:34 - 49:52)
     53:22 - 54:04 - Meat Beat Manifesto - Psyche-Out
     54:04 - 54:45 - Martha Reeves & the Vandellas - Dancing in the Street
 
@@ -375,10 +365,6 @@
     Rover SD1 Tribute:
     16:07 - 16:21 - Henry Mancini - Lujon
     17:03 - 17:07 - Juno Reactor, Don Davis - Mona Lisa Overdrive
-    17:15 - 17:54 ? ERROR: You do not have Flash installed.
-    17:55 - 18:17 ? ERROR: You do not have Flash installed.
-    18:28 - 19:34 ? ERROR: You do not have Flash installed.
-    19:41 - 20:04 ? ERROR: You do not have Flash installed.
     20:05 - 20:13 - Juno Reactor, Don Davis - Mona Lisa Overdrive
     20:19 - 22:43 - Juno Reactor, Don Davis - Mona Lisa Overdrive
     22:49 - 23:01 - Henry Mancini - Lujon
@@ -387,25 +373,19 @@
     34:44 - 36:40 - Santa Esmeralda – Don’t Let Me Be Misunderstood
 
     Yellow Box Junction Blocking:
-    37:10 - 37:46 ? ERROR: You do not have Flash installed.
     38:13 - 38:48 - Antonin Dvorak - Symphony No. 9 in E Minor, Op. 95 - iii. Scherzo: Molto Vivace
 
     Ford GT Review:
     40:12 - 40:20 - Orbital - One Perfect Sunrise
     40:20 - 40:44 - Guns N' Roses - Coma
     40:45 - 41:21 - Orbital - One Perfect Sunrise
-    42:16 - 42:39 ? ERROR: You do not have Flash installed.
     42:39 - 43:45 - Curve - Chinese Burn
-    44:22 - 44:38 ? ERROR: You do not have Flash installed.
     44:38 - 45:17 - Orbital - One Perfect Sunrise
-    45:17 - 46:05 ? ERROR: You do not have Flash installed.
     46:05 - 46:24 - Arovane - Ten Hours
     46:24 - 47:27 - Orbital - One Perfect Sunrise
     47:32 - 47:42 - Orbital - One Perfect Sunrise
 
     Blown Away by a Boing 747:
-    53:28 - 53:39 ? ERROR: You do not have Flash installed.
-    53:39 - 54:20 ? ERROR: You do not have Flash installed.
     54:21 - 57:50 - City of Prague Philharmonic - The Shadow of the Past/ A Knife in the Dark
 	
 [04x09] July 25th, 2004

@@ -6,8 +6,6 @@
 [01x01] October 20th, 2002
 
     00:00 - 00:35 - Massive Attack - Angel
-    23:21 - 23:43 ?
-    31:53 - 31:56 ?
 	
 	
 	
@@ -27,13 +25,7 @@
 
 [01x05] November 17th, 2002
 
-    BBC Prime Version:
-    01:02 - 01:40 ?
-
-    UK Horizons Version (JW):
     01:46 - 02:22 - Rammstein - Ich Will
-    21:46 - 22:11 ?
-    33:00 - 00:00 ?
 
 [01x06] November 24th, 2002
 
@@ -44,16 +36,12 @@
 
 [01x07] December 1st, 2002
 
-    01:55 - 00:00 ?
     19:52 - 20:39 - New Order - 60 Miles an Hour
     26:56 - 29:41 - The Chemical Brothers - Got Glint
     29:43 - 30:17 - The Chemical Brothers - Hey Boy, Hey Girl
 
 [01x08] December 8th, 2002
 
-    02:20 - 00:00 ? (Audi RS6)
-    22:28 - 00:00 ? (Citroen C3)
-    47:15 - 47:40 ?
 
 [01x09] December 22nd, 2002
 
@@ -70,7 +58,6 @@
 
     05:32 - 06:06 - Elgar - Nimrod
     06:35 - 07:00 - Elgar - Nimrod
-    35:35 - 00:00 ?
     43:38 - 44:24 - The Cardigans - My Favorite Game
 	
 ## Series 2
@@ -124,16 +111,10 @@
     38:44 - 39:55 Extreme Music - Leave it Out
     40:06 - 40:45 Extreme Music - Leave it Out
     42:00 - 00:00 Pilote - Turtle (Bonobo Mix)
-    43:12 - 43:30 ?
     46:09 - 00:00 Peter Green - Albatross
-    52:27 - 53:15 ?
-    53:36 - 54:00 ?
 
 [02x04] June 1st, 2003
 
-    27:06 - 27:29 ?
-    28:07 - 28:24 ?
-    32:15 - 33:58 ?
 
 [02x05] June 8th, 2003
 
@@ -240,8 +221,6 @@
     10:52 - 11:22 - Air - Electronic Performers
 
     Volvo Caravan Jump, Pt. 1:
-    13:47 – 14:15 - ? ERROR: You do not have Flash installed.
-    15:02 – 15:10 - ? (same as above)
 
     Original BMW M Series Cars:
     16:09 - 16:32 - Colder - Crazy Love
@@ -253,11 +232,9 @@
     21:06 - 21:51 - Oasis - A Quick Peep
 
     Volvo Caravan Jump, Pt. 2:
-    33:04 – 33:27 - ? ERROR: You do not have Flash installed.
 
     BMW Z4 vs. Porsche Boxster vs. Honda S2000:
     39:54 - 40:11 - Faithless - Don't Leave (Floating Remix)
-    40:11 - 40:55 - ? ERROR: You do not have Flash installed.
     40:57 - 41:15 - Faithless - Drifting Away (Paradiso Mix)
     41:16 - 41:54 - Bonobo - Flutter
     41:58 - 42:20 - The Faint - Agenda Suicide
@@ -363,7 +340,6 @@
     34:15 - 34:37 - Werner Tautz - Razz My Berries
     34:53 - 35:13 - Werner Tautz - Razz My Berries
     35:27 - 36:13 - Paul Rothman - Pink Deville
-    36:17 - 36:22 - ? ERROR: You do not have Flash installed.
     36:45 - 36:51 - George Frideric Handel - Zadok the Priest
     36:51 - 37:13 - Marc Antoine - Unity
     37:14 - 38:03 - The Notwist - Moron
@@ -425,9 +401,6 @@
     14:29 - 14:46 - Paul Simon - Diamonds on the Soles of Her Shoes
     14:47 - 15:33 - DJ Zinc - Faster
     15:48 - 16:18 - Seal - Get It Together Lyrics
-    20:05 - 20:28 ?
-    27:25 - 27:47 ?
-    27:48 - 28:07 ?
     33:25 - 34:06 - Jaydee - Plastic Dreams (unknown Remix)
     34:06 - 35:13 - Apollo 440 - Altamont Super-Highway Revisited
     49:58 - 50:39 - Kula Shaker - Hush
@@ -593,7 +566,6 @@
 
     '68 Dodge Charger 440 Review:
     13:55 - 14:22 - Jimi Hendrix - Voodoo Child (Slight Return)
-    14:22 - 14:53 ? ERROR: You do not have Flash installed.
     14:59 - 15:32 - Jimi Hendrix - Voodoo Child (Slight Return)
     15:35 - 16:21 - Lalo Schifrin - Bullitt (Main Title)
     16:39 - 17:19 - Love Unlimited Orchestra - Theme from Together Brothers
@@ -648,7 +620,6 @@
 
     SatNav vs. Racing Pigeon:
     14:02 - 14:48 - Dmitri Shostakovich - Symphony No. 11 in G Minor - Ninth of January
-    14:50 - 15:10 ? ERROR: You do not have Flash installed.
     15:10 - 16:18 - Dmitri Shostakovich - Symphony No. 11 in G Minor - Ninth of January
     16:23 - 17:27 - Wax Poetic - Oriental Wind
     17:32 - 18:21 - Michael Kamen - The State of Liberty
@@ -704,13 +675,9 @@
 [04x05] June 6th, 2004
 
     Vauxhall Astra - Mazda 3 - VW Golf:
-    00:47 - 01:19 - ? ERROR: You do not have Flash installed.
     01:31 - 02:15 - The Sabres of Paradise - Chapel Street Market 9am
-    02:15 - 02:38 - ? ERROR: You do not have Flash installed.-(same as 00:47-01:19)
     02:38 - 02:52 - Matmos - Cloth Mother/ Wire Mother
     02:52 - 03:38 - Air - Another Day
-    03:52 - 04:03 - ? ERROR: You do not have Flash installed.
-    04:03 - 04:14 - ? ERROR: You do not have Flash installed.
     04:14 - 05:20 - Moby - Oil 1
     05:20 - 06:13 - Air - Alone in Kyoto
 
@@ -718,7 +685,6 @@
     13:24 - 14:05 - Tony Hatch - Theme from Crossroads
     15:12 - 15:30 - Ken Dodd - Happiness
     15:30 - 15:52 - Des O'Connor - Dick-A-Dum-Dum (King's Road)
-    15:52 - 16:11 - ? ERROR: You do not have Flash installed.-(same as 00:47-01:19)
     16:11 - 16:42 - Louis Armstrong - We Have All the Time in the World
     17:13 - 18:00 - Flanagan & Allen - Run, Rabbit, Run
     18:02 - 19:05 - Matt Monro - Close to You (They Long To Be)
@@ -805,15 +771,12 @@
     47:05 - 47:42 - Alfred Newman - How the West Was Won
 
     Renault Clio 182 Review:
-    49:34 - 49:52 - ? ERROR: You do not have Flash installed.
     49:52 - 50:17 - Nusrat Fateh Ali Khan, Michael Brook - Sweet Pain (Joi Remix)
     50:19 - 50:29 - Nusrat Fateh Ali Khan, Michael Brook - Sweet Pain (Joi Remix)
-    50:29 - 51:01 - ? ERROR: You do not have Flash installed.
     51:01 - 51:30 - Meat Beat Manifesto - Deviate
     51:33 - 51:46 - Meat Beat Manifesto - Deviate
     51:46 - 51:49 - Nusrat Fateh Ali Khan, Michael Brook - Longing (Aki Nawaz Remix)
     52:27 - 52:57 - Nusrat Fateh Ali Khan, Michael Brook - Lament (Earthtribe Remix)
-    52:57 - 53:22 - ? ERROR: You do not have Flash installed. (same as 49:34 - 49:52)
     53:22 - 54:04 - Meat Beat Manifesto - Psyche-Out
     54:04 - 54:45 - Martha Reeves & the Vandellas - Dancing in the Street
 
@@ -876,10 +839,6 @@
     Rover SD1 Tribute:
     16:07 - 16:21 - Henry Mancini - Lujon
     17:03 - 17:07 - Juno Reactor, Don Davis - Mona Lisa Overdrive
-    17:15 - 17:54 ? ERROR: You do not have Flash installed.
-    17:55 - 18:17 ? ERROR: You do not have Flash installed.
-    18:28 - 19:34 ? ERROR: You do not have Flash installed.
-    19:41 - 20:04 ? ERROR: You do not have Flash installed.
     20:05 - 20:13 - Juno Reactor, Don Davis - Mona Lisa Overdrive
     20:19 - 22:43 - Juno Reactor, Don Davis - Mona Lisa Overdrive
     22:49 - 23:01 - Henry Mancini - Lujon
@@ -888,25 +847,19 @@
     34:44 - 36:40 - Santa Esmeralda – Don’t Let Me Be Misunderstood
 
     Yellow Box Junction Blocking:
-    37:10 - 37:46 ? ERROR: You do not have Flash installed.
     38:13 - 38:48 - Antonin Dvorak - Symphony No. 9 in E Minor, Op. 95 - iii. Scherzo: Molto Vivace
 
     Ford GT Review:
     40:12 - 40:20 - Orbital - One Perfect Sunrise
     40:20 - 40:44 - Guns N' Roses - Coma
     40:45 - 41:21 - Orbital - One Perfect Sunrise
-    42:16 - 42:39 ? ERROR: You do not have Flash installed.
     42:39 - 43:45 - Curve - Chinese Burn
-    44:22 - 44:38 ? ERROR: You do not have Flash installed.
     44:38 - 45:17 - Orbital - One Perfect Sunrise
-    45:17 - 46:05 ? ERROR: You do not have Flash installed.
     46:05 - 46:24 - Arovane - Ten Hours
     46:24 - 47:27 - Orbital - One Perfect Sunrise
     47:32 - 47:42 - Orbital - One Perfect Sunrise
 
     Blown Away by a Boing 747:
-    53:28 - 53:39 ? ERROR: You do not have Flash installed.
-    53:39 - 54:20 ? ERROR: You do not have Flash installed.
     54:21 - 57:50 - City of Prague Philharmonic - The Shadow of the Past/ A Knife in the Dark
 	
 [04x09] July 25th, 2004
@@ -1138,12 +1091,10 @@
     04:31 - 04:40 - David Lynch & John Neff - Go Get Some
     04:41 - 04:59 - John Murphy - In the House, In a Heartbeat
     04:59 - 05:10 - John Murphy - The Beginning
-    05:09 - 05:28 ? ERROR: You do not have Flash installed.
     05:37 - 06:29 - Hybrid - Ultimatum
     06:29 - 06:53 - Richard Strauss - Im Abendrot
 
     Caravan Conkers:
-    15:14 - 15:40 ? ERROR: You do not have Flash installed.
     15:41 - 16:05 - Blur - Parklife
     16:05 - 16:46 - Thomas Newman - His Judgement Cometh
     16:46 - 17:14 - Jim Dooley - Pure Heat
@@ -1208,7 +1159,6 @@
     03:15 - 04:20 - Leftfield - Storm 3000
     04:23 - 04:52 - Cliff Martinez - First Sleep
     04:52 - 05:29 - City of Prague Philharmonic - A Knife in the Dark
-    05:38 - 05:43 ? ERROR: You do not have Flash installed.
 
     ‘The Stig’ Lap:
     06:53 - 06:58 - Edison Lighthouse - Love Grows (Where My Rosemary Goes)
@@ -1237,7 +1187,6 @@
 
     Nürburg-Ring Time Trial Challenge:
     41:29 - 41:57 - Craig Armstrong - Amber
-    42:05 - 42:17 ? ERROR: You do not have Flash installed.
     42:16 - 42:40 - Craig Armstrong - Inhaler
     42:40 - 43:17 - Massive Attack - You’ve Never Had a Dream
     43:26 - 44:02 - Depeche Mode - Barrel of a Gun
@@ -1424,7 +1373,6 @@
     11:40 - 12:02 - Hybrid - Marrakech
     12:02 - 12:45 - Global Communication - 4:02
     12:45 - 14:24 - Orbital - The Box
-    14:23 - 14:30 ? ERROR: You do not have Flash installed.
     14:30 - 15:09 - The Clifford Gilberto Rhythm Combination - Kula World
     15:09 - 15:30 - David Holmes - Tub Scene
     15:33 - 16:19 - Bill Withers - Who Is He (and What is He to You)
@@ -1534,7 +1482,6 @@
     05:04 - 05:21 - Lemon Jelly - '88 (a.k.a. Come Down On Me)
     05:22 - 05:45 - The Mars Volta - Cassandra Geminni (Faminepulse)
     05:46 - 06:40 - Guiseppe Verdi - ‘Dies Irae’ from Messa da Requiem
-    06:41 - 06:49 ? ERROR: You do not have Flash installed.
     06:49 - 07:20 - The Mars Volta - Cassandra Geminni (Faminepulse)
     08:05 - 08:21 - Giacomo Puccini - ‘O Mio Babbino Caro’ from Gianni Schicchi
 
@@ -1548,8 +1495,6 @@
     19:16 - 20:12 - Alex Gopher - Gordini Mix
     20:12 - 20:22 - Kevin Mark Trail - D Thames (Instrumental)
     20:22 - 20:40 - Brandy - Afrodisiac (Instrumental)
-    20:46 - 21:02 ? ERROR: You do not have Flash installed.
-    21:14 - 21:24 ? ERROR: You do not have Flash installed.
     21:52 - 22:08 - Harry South - The Sweeney
     22:36 - 22:58 - Royal Philharmonic Orchestra - Mission: Impossible
     23:19 - 23:47 - Royal Philharmonic Orchestra - The Prisoner
@@ -1560,7 +1505,6 @@
     27:25 - 28:09 - Dusty Springfield - Spooky
     28:10 - 28:26 - Ian Broudie - Smoke Rings
     28:40 - 28:56 - The Stranglers - Golden Brown
-    29:00 - 29:10 ? ERROR: You do not have Flash installed.
     29:31 - 29:55 - 10cc - Dreadlock Holiday
     30:18 - 30:49 - Stretch - Why Did You Do It?
     30:54 - 31:57 - Air - Alpha Beta Gaga
@@ -1878,7 +1822,6 @@
     03:56 - 05:19 - Depeche Mode - Enjoy the Silence (Mike Shinoda Remix)
     05:43 - 06:01 - Antonio Vivaldi - Mandolin Concerto in C, RV425 - ii. Largo
     07:25 - 07:43 - Antonio Vivaldi - Concerto for Two Mandolins in G, RV532 - ii. Andante
-    07:43 - 08:12 ? ERROR: You do not have Flash installed.
     08:13 - 08:31 - Gabriel Fauré - Pavane, Op. 50
     08:32 - 09:42 - The Chemical Brothers - Dig Your Own Hole
     10:00 - 10:16 - Sonic Youth - Sunday
@@ -1998,7 +1941,6 @@
     Outdoor Toys:
     45:18 - 45:30 - The Prodigy - Spitfire
     45:31 - 46:03 - Mylo - Valley of the Dolls
-    46:03 - 46:12 ? ERROR: You do not have Flash installed.
     46:43 - 47:16 - Nick Phoenix - Thunderland
     48:21 - 48:41 - Daft Punk - Human After All
     49:31 - 50:13 - Overseer - Supermoves
@@ -2033,18 +1975,14 @@
 
     Car Engine Theme Song:
     17:32 - 17:48 - The Chemical Brothers - Piku (Fabriclive Mix)
-    17:48 - 17:55 ? ERROR: You do not have Flash installed.
     17:55 - 18:26 - Black Rebel Motorcycle Club – Whatever Happened to My Rock ‘n Roll
     18:34 - 18:44 - Mozart - Don Giovanni - Act i, 15: Aria: Fin ch'han dal vino
     18:52 - 18:56 - Mozart - Don Giovanni - Act i, 15: Aria: Fin ch'han dal vino
-    19:03 - 19:08 ? ERROR: You do not have Flash installed.
     19:08 - 19:26 - The Prodigy - Spitfire
     19:32 - 19:37 - The Prodigy - Spitfire
     19:38 - 20:07 - Antonio Bazzini - La Ronde Des Lutins
     20:12 - 20:59 - Kasabian - Processed Beats
     20:59 - 21:23 - Ram Jam - Black Betty
-    21:25 - 21:38 ? ERROR: You do not have Flash installed.
-    21:43 - 22:36 ? ERROR: You do not have Flash installed.
 
     Ford F150 SVT Lightning Review:
     37:11 - 37:32 - Husky Rescue - My World
@@ -2176,7 +2114,6 @@
     38:09 - 38:33 - Hoxton Whores vs. Cream - Sunshine of Your Love
     38:53 - 39:04 - Hoxton Whores vs. Cream - Sunshine of Your Love
     39:12 - 39:27 - Dizzee Rascal - Stand Up Tall
-    39:32 - 39:56 ? ERROR: You do not have Flash installed.
     40:27 - 42:13 - Fatboy Slim - Ya Mama
 
     Audi RS4 vs. Climbers:
@@ -2244,7 +2181,6 @@
     50:25 - 50:46 - Nav Katze - Change (Aphex Twin Mix #2)
     50:56 - 51:25 - Matt Monro - On Days Like These
     51:26 - 52:01 - Jean-Claud Petit - Jean de Florette
-    52:02 - 52:06 ? ERROR: You do not have Flash installed.
     52:07 - 53:48 - Photek - Ren 2
     55:00 - 56:29 - Brian Eno - An Ending (Ascent)
     56:32 - 58:18 - Amorphous Androgynous - The World is Full of Plankton
@@ -2358,7 +2294,6 @@
     22:59 - 23:43 - Passengers - Theme from Let's Go Native
     23:43 - 23:49 - Rodgers & Hammerstein - Prelude and the Sound of Music
     24:41 - 24:56 - Tony Hatch - The Champions
-    25:03 - 25:15 - ? ERROR: You do not have Flash installed.
     25:52 - 26:01 - Tony Hatch - The Champions
     26:01 - 26:05 - Dimitri from Paris - Prologue
     26:59 - 27:19 - Passengers - Theme from Let's Go Native
@@ -2437,7 +2372,6 @@
     31:18 - 31:37 - Death in Vegas - Dirge
     31:38 - 32:03 - Primal Scream - Movin' On Up
     32:03 - 32:10 - Peace Orchestra - Who Am I?
-    32:10 - 32:16 - ? ERROR: You do not have Flash installed.
     32:29 - 32:48 - Amon Tobin - Ruthless
     32:48 - 34:59 - Amon Tobin - The Lighthouse
 
@@ -2489,16 +2423,12 @@
     11:28 - 12:18 - Amon Tobin - Searchers
     12:46 - 13:20 - Air - Clouds Up
     13:22 - 13:48 - Abigail Mead - Time Suspended
-    13:48 - 13:58 ? ERROR: You do not have Flash installed.
     14:01 - 14:08 - Buster Poindexter - Hot Hot Hot
     14:08 - 14:38 - Cliff Martinez - First Sleep
     14:45 - 14:51 - Cliff Martinez - First Sleep
     14:54 - 15:47 - The Sabres of Paradise - Theme 4
     15:47 - 16:06 - Bryan Adams - Summer of '69
-    16:04 - 16:08 ? ERROR: You do not have Flash installed.
-    16:09 - 16:19 ? ERROR: You do not have Flash installed.
     16:20 - 16:42 - Cliff Martinez – Death Shall Have No Dominion
-    16:44 - 16:55 ? ERROR: You do not have Flash installed.
     16:55 - 17:26 - City of Prague Philharmonic - Heart of a Volunteer
 
     Car vs. Speed Skater:
@@ -2659,7 +2589,6 @@
 [08x02] May 14th, 2006
 
     Chevrolet Corvette Z06:
-    01:01 - 01:50 ? ERROR: You do not have Flash installed.
     02:09 - 02:59 - DJ Zinc - Faster
     03:00 - 04:33 - U.N.K.L.E - Safe in Mind (Instrumental)
     04:46 - 05:40 - Amon Tobin - Nova
@@ -2729,8 +2658,6 @@
     16:21 - 16:36 - Low Deep - Get Set (Instrumental)
     16:36 - 16:41 - Henning Lohner - Trouble Jeopardy
     16:41 - 16:48 - Low Deep - Spit Fire
-    16:49 - 17:02 ? ERROR: You do not have Flash installed.
-    17:03 - 17:44 ? ERROR: You do not have Flash installed.
     17:50 - 18:10 - Amon Tobin - El Cargo
     18:25 - 18:31 - Bryan New - Crime Scene
     18:33 - 18:43 - Ennio Morricone - As a Judgement
@@ -2741,7 +2668,6 @@
     Amphibious Cars, Pt. 2:
     37:03 - 37:32 - Beck - Deadweight
     37:45 - 38:04 - Roy Ayers - Running Away (12” Mix)
-    38:24 - 38:49 ? ERROR: You do not have Flash installed.
     39:29 - 39:48 - Quincy Jones - On Days Like These
     40:31 - 41:28 - Rose Royce - I Wanna Get Next To You
     42:02 - 43:01 - The Band of the R.A.F. Regiment - The Dam Busters
@@ -2847,14 +2773,12 @@
 
     Subaru P2 Review:
     00:51 - 01:08 - Rob Dougan - Chateau
-    01:20 - 01:32 ? ERROR: You do not have Flash installed.
     01:32 - 01:35 - Amon Tobin - Switch
     01:35 - 01:46 - Stanton Warriors - Pop Ya Cork
     01:46 - 01:48 - Craig Armstrong - Inhaler
     01:48 - 02:06 - Faultline - Partyline Honey
     02:06 - 02:28 - Massive Attack - Simple Rules
     02:52 - 03:07 - Death From Above 1979 - Cold War
-    03:11 - 03:23 ? ERROR: You do not have Flash installed.
     03:23 - 03:36 - Air - Alone in Kyoto
     03:36 - 03:57 - Jackson And His Computer Band - Arpeggio
     04:01 - 04:14 - Death in Vegas - Dirt
@@ -2886,7 +2810,6 @@
     39:03 - 39:29 - Layo & Bushwacka! - Me and You
     39:29 - 40:07 - Hans Zimmer, James Newton Howard – Myotis
     40:14 - 40:47 - Air - Dirty Trip
-    40:48 - 41:11 ? ERROR: You do not have Flash installed.
     41:12 - 41:42 - Air - Playground Love
     41:45 - 41:53 - Gavin Greenaway - After Dark
     41:53 - 42:09 - Don Harper - World of Sport Theme
@@ -2918,7 +2841,6 @@
     01:49 - 02:00 - Coldcut - Aid Dealer (Edit 1)
     02:00 - 02:18 - Aphex Twin - Blue Calx
     02:32 - 02:58 - Shri - Mela
-    02:58 - 03:26 ? ERROR: You do not have Flash installed.
     03:26 - 04:25 - Death in Vegas - Girls
     04:58 - 05:17 - Sigur Ros - Gong
     05:20 - 05:35 - Manfred Mann - Blinded by the Light
@@ -2977,7 +2899,6 @@
     02:05 - 02:27 - Kings of Leon - Molly's Chambers
     02:29 - 02:40 - Autechre - Eggshell
     02:40 - 02:53 - Amon Tobin - One Day in My Garden
-    02:55 - 03:20 ? ERROR: You do not have Flash installed.
     03:24 - 03:55 - The Zutons - Hello Conscience (Instrumental)
     03:58 - 04:35 - Primal Scream - Kowalski
     04:43 - 05:24 - Aphex Twin - Windowlicker
@@ -3196,14 +3117,12 @@
     06:23 - 06:52 - David Arnold - Fall of a House in Venice
     06:52 - 07:21 - David Arnold - The End of an Aston Martin
     07:21 - 07:54 - Wojciech Kilar - Dracula-The Beginning
-    07:52 - 08:00 ? ERROR: You do not have Flash installed.
     08:00 - 08:16 - Wojciech Kilar - Dracula-The Beginning
     08:16 - 08:44 - Wojciech Kilar - Ascension
 
     Audi vs. Alfa vs. Mazda Review, Pt. 1:
     18:00 - 18:21 - Craig Armstrong - Death in the Square
     18:18 - 19:01 - Brian Tyler, Klaus Badelt - Constantine End Titles
-    19:03 - 19:33 ? ERROR: You do not have Flash installed.
     19:29 - 19:59 - Soulsavers - Cabin Fever
     20:03 - 20:21 - The Future Sound of London - Papua New Guinea (12" Version)
     20:21 - 20:44 - John Powell - Whirlpool of Love
@@ -3226,7 +3145,6 @@
     Audi vs. Alfa vs. Mazda Review, Pt. 2:
     40:10 - 40:55 - Hybrid – Dream Stalker
     40:56 - 41:37 - Jamie Jones - Amazon
-    41:49 - 41:56 ? ERROR: You do not have Flash installed.
     41:56 - 42:04 - Ron Goodwin - Reitsch's Flight
     42:04 - 42:32 - Arthur Lyman - Caravan
     42:32 - 42:53 - David Holmes - Lyman Zerga
@@ -3319,10 +3237,8 @@
 
     Porsche 911 Turbo Review:
     01:37 - 01:42 - Dave Edmunds – I Hear You Knocking
-    01:42 - 02:08 ? ERROR: You do not have Flash installed.
     02:09 - 02:30 - A3 - Woke Up This Morning (Chosen One Mix)
     02:30 - 02:58 - Hans Zimmer - Bakara
-    02:59 - 03:27 ? ERROR: You do not have Flash installed.
     03:50 - 04:10 - Lo-Fidelity Allstars - Pony Pressure
     04:10 - 05:00 - The Prodigy - Climbatize
     05:05 - 05:12 - The Prodigy - Climbatize
@@ -3367,14 +3283,12 @@
     49:46 - 50:06 - Michael Giacchino - Schifrin and Variations
     50:29 - 50:47 - Roy Budd - Goodbye Carter!
     51:03 - 51:38 - The Band of H.M. Royal Marines - The Guns of Navarone
-    51:44 - 51:46 ? ERROR: You do not have Flash installed.
     51:50 - 52:16 - The Western Band of the R.A.F. - Battle of Britain March
     52:22 - 53:39 - The Western Band of the R.A.F. - Battle of Britain March
     52:41 - 54:07 - John Barry - Capsule in Space
     54:28 - 54:52 - John Williams - The Planet Krypton
     54:52 - 55:31 - James Horner - Ripley’s Rescue (Percussion Only)
     55:38 - 55:59 - Antonio Pinto - By Air
-    56:01 - 56:04 ? ERROR: You do not have Flash installed.
     56:26 - 57:08 - Dario Marianelli - Knives and Bullets (And Cannons Too)
     57:47 - 58:39 - Michael Kamen - Snowmobiles
 	
@@ -3384,7 +3298,6 @@
     01:07 - 01:21 - Audio Bullys - EQ'ing
     01:44 - 01:59 - Bryan New - Crime Scene
     01:59 - 02:37 - Ben Carson - Mistaken Belief
-    02:50 - 03:18 ? ERROR: You do not have Flash installed.
     03:34 - 04:12 - Holly Frates - Gothic Vocalise
     05:13 - 05:24 - The Zutons - How Does it Feel? (Instrumental)
 
@@ -3392,14 +3305,12 @@
     13:53 - 14:36 - City of Prague Philharmonic - Parade of the Charioteers
     15:04 - 15:30 - City of Prague Philharmonic - Parade of the Charioteers
     15:47 - 15:58 - City of Prague Philharmonic - Parade of the Charioteers
-    16:24 - 16:45 ? ERROR: You do not have Flash installed.
     16:48 - 16:56 - The Flee-rekkers - Fireball XL5
     16:56 - 17:02 - The Barry Gray Orchestra - The Mysterons Theme
     17:19 - 17:59 - Milt Buckner - The Beast
     18:00 - 18:15 - Amon Tobin - Bridge
     18:17 - 18:52 - Depth Charge - Bastard Swordsman
     18:54 - 19:13 - Kasabian - Empire (Instrumental)
-    19:22 – 19:27 ? ERROR: You do not have Flash installed.-(same as 16:24 - 16:45)
     20:18 - 21:01 - Kasabian - Last Trip [In Flight] (Instrumental)
     21:07 - 21:25 - Brian Tyler feat. Slash - Mustang Nismo
     22:10 - 22:52 - Kasabian - Sun Rise Light Flies (Instrumental)
@@ -3428,7 +3339,6 @@
     50:30 - 50:43 - Mel Wesson - Nightwatch
     50:46 - 51:03 - Sergei Prokofiev - Dance of the Knights
     51:52 - 52:24 - City of Prague Philharmonic - Theme from Dallas
-    52:24 - 52:59 ? ERROR: You do not have Flash installed.-(based upon "Recuerdos de la Alhambra")
     53:27 - 53:58 - Brian Tyler - Winner... Gets... Me
     54:11 - 54:25 - Mel Wesson - After Stark
     55:09 - 55:26 - Hans Zimmer - Chant
@@ -3451,7 +3361,6 @@
     02:01 - 02:33 - The Band of H.M. Royal Marines - Aces High
     02:34 - 03:01 - The James Taylor Quartet - Wait a Minute
     03:10 - 03:26 - Tony Osborne & His Orchestra - Roundabout
-    03:33 - 03:41 ? ERROR: You do not have Flash installed.
     03:41 - 03:52 - Wagon Christ - Saddic Gladdic
     04:06 - 04:27 - Ty - The Willing (Instrumental)
     04:58 - 05:10 - Jean-Claude Petit - Chronique
@@ -3544,7 +3453,6 @@
     14:28 - 15:22 - Corner Stone Cues - Leather Tomb
     15:24 - 16:23 - Corner Stone Cues - Requiem for a Tower
     16:33 - 16:55 - E.S. Posthumus - Tikal
-    16:55 - 16:58 - ? ERROR: You do not have Flash installed.
     16:58 - 17:30 - Mark Mancina - Memphis’ Theory
     17:35 - 18:03 - Radio Dept. - Keen on Boys
     18:41 - 19:05 - Clint Mansell - Tree of Life
@@ -3559,7 +3467,6 @@
     26:48 - 27:03 - John Barry - Gumbold's Safe
     27:31 - 27:57 - U.N.K.L.E - When Things Explode (Instrumental)
     28:24 - 29:23 - Corner Stone Cues – J.B.D.
-    29:37 - 30:05 - ? ERROR: You do not have Flash installed.
     30:09 - 30:22 - The Beach Boys - I Get Around
     30:26 - 30:43 - Mark Mancina - Recon Report
     31:14 - 31:33 - Finnbogi Pétursson - Conversation
@@ -3653,7 +3560,6 @@
 [10x02] October 14th, 2007
 
     Audi R8 vs. Porsche 911:
-    00:53 - 01:02 - ? ERROR: You do not have Flash installed.
     00:58 - 01:02 - U.N.K.L.E - Hold My Hand
     01:02 - 01:05 - Tyler Bates - To Victory
     01:05 - 01:37 - Goldfrapp - Let It Take You
@@ -3748,7 +3654,6 @@
     46:58 - 47:14 - David Holmes - Slasher's Revenge
     47:19 - 47:53 - City of Prague Philharmonic - Midnight Cowboy
     47:55 - 48:13 - David Lowe - BBC News Theme '07
-    48:21 - 48:28 - ? ERROR: You do not have Flash installed.
     49:03 - 49:30 - Primal Scream - Movin' On Up
 
     Bugatti Veyron vs. Eurofighter Typhoon:
@@ -3830,7 +3735,6 @@
     32:42 - 33:08 - Ennio Morricone - L'Ultimo Rantolo
     33:55 - 34:58 - Danny Elfman - Main Title Deconstruction (Planet of the Apes)
     34:58 - 35:28 - Tyler Bates - No Sleep Tonight
-    35:28 - 36:25 - ? ERROR: You do not have Flash installed.
     36:57 - 37:02 - Alan Silvestri - The Getaway
     37:48 - 38:09 - Brian May - Montage/Main Title
     39:19 - 39:40 - Kinesthesia - Triachus (Aphex Twin Mix)
@@ -3893,7 +3797,6 @@
     17:35 - 18:20 - Terence Blanchard - Demands in Place
     18:20 - 19:42 - The Crystal Method - Weapons of Mass Distortion
     19:44 - 19:58 - Ennio Morricone - Quasi Morto
-    19:59 - 20:06 - ? ERROR: You do not have Flash installed.
     20:07 - 20:17 - Ennio Morricone - Quasi Morto
     20:22 - 20:30 - Ennio Morricone - Quasi Morto
     20:32 - 21:06 - Muse - Map of the Problematique
@@ -3994,12 +3897,9 @@
     Motorhome Sport Racing:
     49:47 - 50:23 - The Black Keys - If You See Me
     50:23 - 50:41 - The Red Hot Chili Peppers - The Righteous & the Wicked
-    50:51 - 51:27 - ? ERROR: You do not have Flash installed.
     51:41 - 52:23 - Ennio Morricone - Quasi Morto
     52:23 - 52:36 - David Holmes - All Sewn Up
-    52:36 - 52:43 - ? ERROR: You do not have Flash installed.
     52:43 - 52:52 - David Holmes - All Sewn Up
-    52:49 - 52:55 - ? ERROR: You do not have Flash installed.-(same as 52:36 - 52:43)
     52:55 - 53:07 - Terence Blanchard - Defend Brooklyn
     53:16 - 53:32 - City of Prague Philharmonic - Parade of the Charioteers
     53:38 - 54:11 - The The - I Saw the Light
@@ -4078,7 +3978,6 @@
     01:10 - 01:25 - Queens of the Stone Age - Turnin' on the Screw
     01:25 - 01:39 - Queens of the Stone Age - Run, Pig, Run
     01:39 - 02:21 - John Powell - Bim Bam Smash
-    02:38 - 02:48 - ? ERROR: You do not have Flash installed.
     02:48 - 03:05 - U.N.K.L.E - Burn My Shadow (Instrumental)
     03:07 - 03:29 - U.N.K.L.E - Morning Rage (Instrumental)
     03:29 - 03:37 - The Dust Brothers - Psycho Boy Jack
@@ -4094,14 +3993,12 @@
     Early Auto Layouts:
     15:08 - 15:17 - Hans Zimmer - Beneath Alrischa
     15:17 - 15:54 - Layo & Bushwacka! - Dr. Teeth
-    15:57 - 16:35 - ? ERROR: You do not have Flash installed.
     17:46 - 18:35 - U.N.K.L.E - Morning Rage (Instrumental)
     18:51 - 19:40 - Elliot Goldenthal - That Cop Stole My Car
     19:38 - 20:12 - The Dust Brothers - Corporate World
     20:13 - 20:41 - Starsailor - Four To The Floor (Soulsavers Mix)
     21:08 - 21:52 - John Barry - Beat for Beatniks
     21:52 - 22:00 - Elliot Goldenthal - The Fascist Shuffle
-    22:01 - 22:10 - ? ERROR: You do not have Flash installed.
     22:22 - 22:37 - U.N.K.L.E - May Day (Instrumental)
     23:06 - 23:44 - Alan Silvestri - Back to the Future Overture
 
@@ -4113,7 +4010,6 @@
     36:03 - 37:52 - Michael Brook - Ultramarine
     35:52 - 37:31 - John Powell - Man Versus Man
     38:00 - 38:23 - Underworld - Faxed Invitation
-    38:23 - 38:38 - ? ERROR: You do not have Flash installed.
     39:05 - 39:14 - Hans Zimmer - Hunger
     39:09 - 40:16 - John Murphy - The Beginning
     40:16 - 40:48 - Terence Blanchard - Demands in Place
@@ -4136,7 +4032,6 @@
     04:46 - 04:58 - The Sabres of Paradise - Flight Path Estate
     04:58 - 05:26 - John Williams - Main Title (Star Wars)
     06:14 - 06:21 - Hank Shocklee - Club Jam
-    06:44 - 06:51 - ? ERROR: You do not have Flash installed.
     07:07 - 07:23 - Robert Rodriguez - Sin City
     07:24 - 07:45 - Killing Joke - Walking With Gods
     07:47 - 08:02 - Louis Levy & The Gaumont British Orchestra - Music from the Movies March
@@ -4147,7 +4042,6 @@
     09:52 - 10:46 - Danny Elfman - Batman to the Rescue
     10:50 - 10:58 - The Early Years - So Far Gone
     11:04 - 11:21 - Steve Jablonsky & Trevor Morris - Yellow Planet
-    11:55 - 12:01 - ? ERROR: You do not have Flash installed.
 
     Fiat 500 vs. BMX Bikers:
     13:15 - 13:18 - Luigi & Antonio Russolo - Corale
@@ -4157,10 +4051,7 @@
     14:21 - 14:24 - Walter Ruttmann - Wochenende
     14:24 - 14:39 - Porn Sword Tobacco - Pappa! Min Kärlek Är Gravid
     14:42 - 15:08 - Amon Tobin - Kitchen Sink (Sixtoo Remix)
-    15:10 - 15:24 - ? ERROR: You do not have Flash installed.
     15:32 - 15:37 - Walter Ruttmann - Wochenende
-    15:52 - 16:10 - ? ERROR: You do not have Flash installed.
-    16:10 - 16:17 - ? ERROR: You do not have Flash installed.
     16:17 - 16:40 - Clint Mansell - Go to Hell
     16:40 - 16:55 - Rammstein - Heirate Mich
     16:55 - 17:15 - Amon Tobin - Esther’s
@@ -4185,7 +4076,6 @@
     Britcar 24hr Endurance Race, Pt. 2:
     37:36 - 37:45 - Clint Mansell - Semper Fi
     38:02 - 38:22 - Clint Mansell - Superhumans and Monsters
-    38:32 - 38:43 - ? ERROR: You do not have Flash installed.
     39:21 - 39:42 - Clint Mansell - Superhumans and Monsters
     40:32 - 40:49 - Scott Walker - Cossacks Are
     41:16 - 41:29 - Battles - Atlas
@@ -4197,7 +4087,6 @@
     46:09 - 46:25 - The Early Years - All Ones and Zeros
     46:30 - 46:57 - Louis Levy & The Gaumont British Orchestra - Music from the Movies March
     47:01 - 47:25 - Stereophonics - Lady Luck
-    47:25 - 47:50 - ? ERROR: You do not have Flash installed.
     48:03 - 48:13 - Trevor Jones - Sixth Boss Fight
     48:18 - 48:30 - Trevor Jones - Sixth Boss Fight
     48:34 - 49:32 - Clint Mansell - Containment Breach
@@ -4280,13 +4169,10 @@
     00:53 - 02:00 - The Charlatans - One to Another
 
     "Economical" SuperCar Race:
-    02:33 - 03:00 - ? ERROR: You do not have Flash installed.
     03:01 - 03:56 - Paul Haslinger - Rat Bastard
     03:57 - 04:50 - M83 - A Guitar And A Heart
-    04:50 - 04:56 - ? ERROR: You do not have Flash installed.
 
     Toyota Prius vs. BMW M3:
-    06:29 - 06:48 - ? ERROR: You do not have Flash installed.
     06:49 - 07:38 - Death in Vegas - Aladdin’s Story
 
     Ferrari 430 Scuderia Review:
@@ -4294,10 +4180,8 @@
     16:02 - 16:22 - Autechre - Altibzz
     16:37 - 16:58 - Atli Orvarsson - Motorcade
     17:14 - 17:29 - Atli Orvarsson - Tightening Circle
-    18:00 - 18:24 - ? ERROR: You do not have Flash installed.
     18:27 - 18:51 - Mogwai - Glasgow Mega-Snake
     18:55 - 18:57 - Paul Haslinger - Dawn Patrol
-    18:57 - 19:01 - ? ERROR: You do not have Flash installed.
     19:06 - 19:39 - Autechre - Altibzz
     19:40 - 20:01 - Atli Orvarsson - The Chase Begins
     20:01 - 20:23 - Mogwai - Like Herod
@@ -4312,7 +4196,6 @@
     26:11 - 26:55 - Tyler Bates - To Victory
 
     £1000 Police Vehicle Challenge:
-    39:27 - 39:41 - ? ERROR: You do not have Flash installed.
     40:28 - 40:40 - Danny Elfman - Thade Goes Ape
     41:02 - 41:17 - Daniel Cain Orchestra - Murder, She Wrote
     41:41 - 41:58 - Royal Philharmonic Concert Orchestra - Hawaii 5-0
@@ -4387,7 +4270,6 @@
     52:24 - 52:41 - Goldfrapp - Let it Take You
     52:48 - 52:53 - Nathaniel Mechaly - Chess Room
     52:51 - 54:39 - Mogwai - I Know You Are But What Am I?
-    54:38 - 55:08 - ? ERROR: You do not have Flash installed.
     55:09 - 55:40 - Massive Attack - Atta Boy
     55:52 - 57:38 - Electrelane - Atom's Tomb
     57:38 - 57:51 - James Newton Howard - 25 Dollars Worth
@@ -4441,7 +4323,6 @@
     50:09 - 50:54 - Quincy Jones - On Days Like These (Reprise)
     51:17 - 51:31 - Quincy Jones - On Days Like These (Reprise)
     51:38 - 52:03 - Bobby Womack - Across 110th Street
-    52:52 - 53:26 - ? ERROR: You do not have Flash installed.
     53:35 - 53:42 - (same as above)
     53:45 - 54:01 - Simon & Garfunkel - Mrs. Robinson
     54:02 - 54:29 - Röyksopp - Triumphant
@@ -4461,7 +4342,6 @@
     02:58 - 03:33 - M83 - Gone
     03:33 - 04:04 - The Last Shadow Puppets - The Age of the Understatement
     04:05 - 04:22 - U.N.K.L.E - Keys to the Kingdom
-    04:22 - 05:05 - ? ERROR: You do not have Flash installed.
     05:06 - 05:53 - Lisa Gerrard - Aria
     06:05 - 06:56 - Craig Armstrong - Bess to See Throckmorton
 
@@ -4477,9 +4357,7 @@
     19:34 - 20:00 - The Stooges - Down on the Street
     20:04 - 20:18 - Nathaniel Mechaly - Revolver
     20:27 - 21:16 - LCD Soundsystem - Big Ideas
-    21:16 - 21:22 - ? ERROR: You do not have Flash installed.
     21:22 - 21:33 - LCD Soundsystem - Big Ideas
-    21:38 - 21:42 - ? ERROR: You do not have Flash installed.
     21:38 - 23:17 - Harry Gregson-Williams - Humvee Chase
     24:08 - 24:47 - LCD Soundsystem - Big Ideas
     25:00 - 25:14 - LCD Soundsystem - Big Ideas
@@ -4523,7 +4401,6 @@
     01:27 - 01:46 - Lalo Schifrin - Shifting Gears
     02:13 - 02:54 - Queens of the Stone Age - Sick Sick Sick
     02:54 - 03:32 - Clint Mansell - The Beginning of the End
-    03:32 - 03:51 - ? ERROR: You do not have Flash installed.
     03:51 - 04:07 - John Ottman - The Water
     04:16 - 04:58 - U.N.K.L.E - End Titles
     04:54 - 05:26 - U.N.K.L.E - Black Mass
@@ -4542,7 +4419,6 @@
     21:10 - 22:28 - Pavement - Jackals, False Grails: The Lonesome Era
     22:56 - 23:25 - Aim - Birchwood
     23:52 - 24:19 - Secret Machines - First Wave Intact
-    24:48 - 24:52 - ? ERROR: You do not have Flash installed.
     25:46 - 26:19 - Death In Vegas - Hands Around My Throat
     26:24 - 26:50 - Air - Dead Bodies
     27:04 - 27:24 - Mandingo - The Headhunter
@@ -4595,7 +4471,6 @@
     17:53 - 17:57 - U.N.K.L.E – Restless (Instrumental)
     18:06 - 18:31 - U.N.K.L.E – Restless (Instrumental)
     18:33 - 18:44 - Psilonaut - Ghosts in the Machine
-    19:05 - 19:17 - ? ERROR: You do not have Flash installed.
     19:17 - 20:15 - Brian Tyler - War Opening Titles
     20:16 - 20:49 - Curve - On the Wheel
     20:51 - 21:09 - Hans Zimmer & James Newton Howard - A Dark Knight
@@ -4612,7 +4487,6 @@
     37:21 - 38:30 - Ron Goodwin - Battle of Britain Theme
     38:40 - 39:01 - David Holmes - Boobytrapping
     39:03 - 39:20 - DJ Shadow - Giving up the Ghost
-    40:35 - 40:42 - ? ERROR: You do not have Flash installed.
     40:42 - 42:10 - The Music - Inconceivable Odds / No Danger
     42:18 - 42:47 - David Holmes - Little Short One, Pt. 1
     42:49 - 44:06 - Ron Goodwin - 633 Squadron Theme
@@ -4645,16 +4519,13 @@
 
     Porsche 911 GT2 vs. Lamborghini Gallardo LP560-4:
     02:55 - 03:13 - Hybrid - Sleep of the Defeated
-    03:34 - 03:50 - ? ERROR: You do not have Flash installed.
     03:52 - 04:36 - Hans Zimmer & James Newton Howard - Why So Serious?
     04:36 - 05:18 - U.N.K.L.E - Kaned and Abel
     05:19 - 05:46 - Paul Haslinger - The Final Race
-    05:46 - 06:05 - ? ERROR: You do not have Flash installed.
     06:05 - 06:56 - Black Rebel Motorcycle Club - Need Some Air
     06:56 - 07:07 - Peggy Lee - The Man I Love
     07:10 - 07:29 - Sidney Torch - Barwick Green
     07:30 - 07:56 - Pivot - O Soundtrack My Heart
-    07:56 - 08:07 - ? ERROR: You do not have Flash installed.
     08:07 - 08:30 - U.N.K.L.E - Synthetic Water
     08:43 - 09:02 - Ludovico Einaudi - Fly
     09:02 - 09:06 - Hybrid - Sleep of the Defeated
@@ -4709,10 +4580,7 @@
     Fiat 500 Abarth Review:
     00:54 - 01:18 - Simon Fisher-Turner - Deadheading
     01:18 - 01:54 - Felix Laband - Whistling in Tongues
-    01:54 - 02:14 - ? ERROR: You do not have Flash installed.
-    02:20 - 02:24 - ? ERROR: You do not have Flash installed.
     02:27 - 02:31 - ? (same as above)
-    02:32 - 03:10 - ? ERROR: You do not have Flash installed.-(same as 01:54 - 02:14)
     04:40 - 04:50 - Apparat - You Don’t Know Me
     04:44 - 04:56 - Simon Fisher-Turner - Access to Rude
     04:48 - 05:09 - Mogwai - Black Spider 2
@@ -4722,11 +4590,9 @@
     06:31 - 07:04 - Eluvium - Perfect Neglect in a Field of Statues
 
     American Muscle Cars, Pt. 1:
-    16:12 - 16:18 - ? ERROR: You do not have Flash installed.
     16:18 - 16:30 - Panda Bear - Comfy in Nautica
     16:31 - 16:45 - Kronos Quartet - Purple Haze
     17:21 - 17:56 - Craig Armstrong - Inhaler
-    17:56 - 18:02 - ? ERROR: You do not have Flash installed.
     18:04 - 18:20 - Xela - Japanese Whispers
     18:32 - 18:48 - Corner Stone Cues - Ten Years Kashmir, Mov. 2 (Orch/Choir/Perc Mix)
     18:48 - 19:06 - Corner Stone Cues - Battle of Wonderland
@@ -4761,26 +4627,15 @@
     47:49 - 48:10 - Trevor Morris - Lock n' Load
     48:40 - 49:14 - Damon Albarn - Sunset Coming On
     49:20 - 49:50 - Fuck Buttons - Sweet Love for Planet Earth
-    49:50 - 50:01 - ? ERROR: You do not have Flash installed.
     50:29 - 50:40 - Fuck Buttons - Ribs Out
-    50:40 - 50:47 - ? ERROR: You do not have Flash installed.
     51:01 - 51:12 - Alti Orvarsson - Motorcade
-    51:21 - 51:33 - ? ERROR: You do not have Flash installed.-(same as 50:40 - 50:47)
-    51:39 - 51:44 - ? ERROR: You do not have Flash installed.
-    51:56 - 52:07 - ? ERROR: You do not have Flash installed.
     52:07 - 52:40 - Corner Stone Cues - Illuminati
-    52:40 - 52:47 - ? ERROR: You do not have Flash installed.
-    52:48 - 52:57 - ? ERROR: You do not have Flash installed.
-    52:57 - 53:17 - ? ERROR: You do not have Flash installed.
     53:17 - 54:00 - Corner Stone Cues - Sultana
     54:00 - 54:06 - Corner Stone Cues - Demons
     54:06 - 54:50 - David Morley - Tonewave
-    54:50 - 55:06 - ? ERROR: You do not have Flash installed.-(same as 52:57 - 53:17)
     55:19 - 55:32 - ? (same as above)
     55:33 - 56:07 - Corner Stone Cues - Mojave
-    56:11 - 56:16 - ? ERROR: You do not have Flash installed.
     56:13 - 56:38 - Corner Stone Cues - Mojave
-    56:40 - 56:46 - ? ERROR: You do not have Flash installed.-(same as 54:50 - 55:06)
     56:59 - 58:10 - Corner Stone Cues - Frigga
     58:31 - 59:02 - Corner Stone Cues - Frigga
     59:03 - 60:11 - Ludovico Einaudi - Primavera
@@ -4823,7 +4678,6 @@
     42:59 - 43:16 - David Holmes - Kensington Chump
     43:27 - 43:40 - Syclops - Mom, the Video Broke
     44:00 - 44:12 - David Holmes - Kensington Chump
-    44:12 - 44:16 - ? ERROR: You do not have Flash installed.
     44:21 - 44:57 - Junkie XL - Idle Lever
     45:52 - 45:59 - Trellis - Crab
     46:10 - 46:21 - Trellis - Crab
@@ -4845,7 +4699,6 @@
     54:45 - 55:05 - Corner Stone Cues - Dark Rise
     55:26 - 55:44 - The Early Years - So Far Gone
     55:50 - 56:04 - Barry Gray - Event Horizon (from ‘Black Sun’)
-    56:14 - 56:17 - ? ERROR: You do not have Flash installed.
     56:33 - 56:44 - Ennio Morricone - Theme from ‘A Fistful of Dollars’
  
 [12x04] November 23rd, 2008
@@ -4861,7 +4714,6 @@
     04:43 - 05:38 - U.N.K.L.E - A Wash of Black
     05:42 - 05:59 - The Jesus Lizard - Then Comes Dudley
     06:01 - 06:17 - Jeffrey Taylor & Ned Rifle - Opening
-    06:29 - 06:41 - ? ERROR: You do not have Flash installed.
     06:41 - 07:09 - Ramin Djawadi - Graveyard Standoff
     07:09 - 07:25 - Jeffrey Taylor & Ned Rifle - Opening
 
@@ -4899,10 +4751,8 @@
     30:16 - 30:28 - Terence Blanchard - ESU Search
 
     Race to Blackpool, Pt. 2:
-    42:53 - 43:01 - ? ERROR: You do not have Flash installed.
     43:01 - 43:34 - Secret Machines - Faded Lines (Live at KCRW)
     43:34 - 44:10 - Terence Blanchard - ESU Search
-    44:10 - 44:18 - ? ERROR: You do not have Flash installed.
     44:18 - 44:39 - Blue States - Holding Ground
     44:56 - 45:27 - David Holmes - Melanie
     46:06 - 46:23 - Jonny Greenwood - Proven Lands
@@ -4923,7 +4773,6 @@
     BMW M3 Saloon vs. Lexus IS-F Review:
     01:08 - 01:18 - Dustin O'Halloran - Opus 36
     01:19 - 01:33 - Incubus - 4th Movement of the Odyssey
-    01:34 - 02:00 - ? ERROR: You do not have Flash installed.
     02:09 - 02:21 - Apollo 440 - Stealth Overture
     02:21 - 02:54 - James Horner - Main Title (Aliens)
     03:00 - 03:17 - Mute Math - Transformers Theme
@@ -4947,27 +4796,21 @@
     18:17 - 18:57 - Michael Nyman - Memorial (Remix)
     18:57 - 19:20 - Ennio Morricone - Il Colpo
     19:20 - 20:04 - Marco Beltrami - Ben Takes the Stage/Dan's Burden
-    20:06 - 20:11 - ? ERROR: You do not have Flash installed.
     20:22 - 20:46 - Blockhead - Good Block Bad Block
     20:50 - 21:21 - Danny Elfman - Hellboy II Titles
     21:22 - 21:54 - Primal Scream - The 99th Floor (Instrumental)
     21:56 - 22:17 - David Holmes - Jailbreak
     22:18 - 23:25 - Geoff Zanelli - Righteous Buttkicking
-    23:28 - 24:28 - ? ERROR: You do not have Flash installed.
     24:29 - 24:45 - Marco Beltrami - Mechanical Mausoleum
     24:49 - 25:11 - Michael Nyman - Memorial (Remix)
 
     Ferrari Daytona vs. XSR 48 PowerBoat Race:
     40:54 - 41:17 - John Barry - Into Miami
     41:17 - 41:54 - Ludovico Einaudi - Primavera
-    42:11 - 42:15 - ? ERROR: You do not have Flash installed.
     42:15 - 42:31 - Lalo Schifrin - City Hall (Alternate Take)
-    42:31 - 42:38 - ? ERROR: You do not have Flash installed.
-    43:00 - 43:07 - ? ERROR: You do not have Flash installed.
     43:15 - 43:37 - Corner Stone Cues - Undefeated
     43:39 - 44:07 - Corner Stone Cues - Fire (Instrumental)
     44:09 - 44:52 - John Powell - Roland Snoops
-    44:52 - 45:01 - ? ERROR: You do not have Flash installed.
     45:01 - 45:44 - Clint Mansell - Doom
     45:44 - 46:07 - DJ Shadow - Artifact
     46:07 - 46:50 - Slowdive - Souvlaki Space Station
@@ -5006,7 +4849,6 @@
     06:57 - 07:25 - Secret Machines - First Wave Intact
 
     Communist Car Invasion:
-    20:14 - 20:34 - ? ERROR: You do not have Flash installed.
     20:35 - 20:42 - A Hawk and a Hacksaw - Wicky Pocky
     20:42 - 20:50 - Aesop Rock - Forest Crunk
     20:50 - 20:52 - A Hawk and a Hacksaw - Wicky Pocky
@@ -5024,9 +4866,7 @@
     28:19 - 28:25 - Blockhead - 7 Miles
     28:25 - 28:42 - Ennio Morricone - La Resa Dei Conti
     28:42 - 28:48 - Blockhead - 7 Miles
-    29:03 - 29:09 - ? ERROR: You do not have Flash installed.
     29:10 - 29:42 - Hans Zimmer - Let the Dead Get In
-    29:56 - 30:02 - ? ERROR: You do not have Flash installed.
     30:15 - 31:17 - Ladyhawke - My Delirium (Instrumental)
     31:17 - 31:50 - James Newton Howard - Vincent Hops Train
     31:50 - 32:05 - Hans Zimmer - The Way of the Sword
@@ -5044,15 +4884,12 @@
 
     Ford Fiesta Road Test:
     49:19 - 49:34 - Dead Can Dance - The Host of Seraphim
-    49:35 - 49:38 - ? ERROR: You do not have Flash installed.
     49:38 - 49:58 - Amon Tobin - Esther's
     50:17 - 50:19 - Amon Tobin - Esther's
     50:22 - 50:37 - Flying Lotus - Melt!
     50:56 - 51:12 - Amon Tobin - Ever Falling
     51:15 - 52:11 - Bill Conti - Fanfare for Rocky
     52:15 - 52:29 - Amon Tobin - The Killer's Vanilla
-    52:29 - 52:39 - ? ERROR: You do not have Flash installed.
-    52:47 - 53:00 - ? ERROR: You do not have Flash installed.
     53:05 - 53:11 - Hans Hammerschmid - Secret Affair
     53:14 - 54:08 - The Prodigy - Hot Ride
     54:08 - 54:11 - Bebel Gilberto - So Nice (Summer Samba)
@@ -5063,7 +4900,6 @@
     55:03 - 55:30 - Curve - Hell Above Water
     55:35 - 56:16 - Klazz Brothers & Cuba Percussion - Air
     56:20 - 56:27 - Amon Tobin - Big Furry Head
-    56:56 - 58:18 - ? ERROR: You do not have Flash installed.
     58:22 - 59:48 - Tchaikovsky - 1812 Overture
 	 
 [12x07] December 14th, 2008
@@ -5142,7 +4978,6 @@
     13:48 - 14:02 - Lalo Schifrin - The Cross
     14:02 - 15:07 - The Who - Magic Bus
     15:11 - 15:34 - Ian Brown - Can't See Me (Bacon & Quarmby Remix)
-    15:51 - 16:06 - ? ERROR: You do not have Flash installed.
     16:04 - 16:58 - Samuel Barber - Adagio for Strings
     18:43 - 18:59 - Lalo Schifrin - The Stadium Grounds [unconfirmed]
     18:59 - 19:07 - Lalo Schifrin - The Cross [unconfirmed]
@@ -5185,17 +5020,14 @@
     41:46 - 42:08 - Led Zeppelin - Ramble On
     42:14 - 42:26 - Susumu Yokota - Future Tiger
     44:43 - 45:23 - Lalo Schifrin - Prologue/Swimming Pool [unconfirmed]
-    45:30 - 45:47 - ? ERROR: You do not have Flash installed.
     45:49 - 46:48 - Beastie Boys - Dramastically Different
     47:24 - 47:50 - Beastie Boys - The Kangaroo Rat
     47:51 - 48:29 - Hans Zimmer & James Newton Howard - Always a Catch
     48:32 - 48:59 - Graeme Revell - Bury the Hatchet
     49:41 - 49:57 - Lalo Schifrin - Scorpio Takes the Bait
-    50:16 - 50:27 - ? ERROR: You do not have Flash installed.
     50:54 - 51:26 - Brian Eno - Untitled
     51:57 - 52:17 - Johnny Cash - Ring of Fire
     52:55 - 53:33 - Susumu Yokota - Live Echo
-    53:31 - 53:40 - ? ERROR: You do not have Flash installed.
     54:31 - 55:01 - Alex Heffes - Ambush
     55:01 - 55:12 - Susumu Yokota - Beans
     55:48 - 56:18 - Stealers Wheel - Stuck In The Middle With You
@@ -5249,22 +5081,15 @@
     12:59 - 13:11 - Doves - Compulsion
     13:29 - 13:47 - Jonny Greenwood - Proven Lands
     13:56 - 15:11 - Marco Beltrami - Wake Up Dead
-    15:30 - 15:35 - ? ERROR: You do not have Flash installed.
     15:54 - 16:11 - Marco Beltrami - Gang Arrives
-    16:15 - 16:21 - ? ERROR: You do not have Flash installed.
-    16:37 - 16:53 - ? ERROR: You do not have Flash installed.
     16:53 - 17:36 - Atli Orvarsson - Train Travel
 
     Lotus Evora Review:
     23:35 - 23:56 - Venetian Snares - Felbomlasztott Mentökocsi
     23:56 - 24:11 - C17H19NO3 - Sacrifice
-    24:11 - 25:09 - ? ERROR: You do not have Flash installed.
     25:16 - 26:00 - Lullatone - Leaves Falling
-    26:00 - 26:26 - ? ERROR: You do not have Flash installed.
     26:26 - 27:06 - Venetian Snares - Felbomlasztott Mentökocsi
-    27:06 - 27:21 - ? ERROR: You do not have Flash installed.
     27:23 - 27:32 - C17H19NO3 - Sacrifice
-    27:35 - 28:04 - ? ERROR: You do not have Flash installed.
     28:06 - 28:20 - C17H19NO3 - Penetration
     28:20 - 29:05 - Jacaszek - Taniec
     29:05 - 29:22 - Soma - Stygian Vista
@@ -5273,7 +5098,6 @@
     London to Edinburgh Race, Pt. 2:
     45:51 - 46:11 - Atli Orvarsson - Train Travel
     46:16 - 46:36 - Hans Zimmer - Pygmies!
-    46:45 - 46:55 - ? ERROR: You do not have Flash installed.-(same as 15:30-15:35)
     46:56 - 47:25 - Marco Beltrami - Barn Burn
     47:57 - 48:52 – John Williams – The Intersection Scene
     48:52 - 49:12 - Jonny Greenwood - Proven Lands
@@ -5287,9 +5111,7 @@
     53:17 - 53:47 - Philip Glass - The Chase
     53:47 - 54:34 - Ludovico Einaudi - Fly
     54:37 - 55:13 - Harry Gregson-Williams - Deadpool
-    55:22 - 55:47 - ? ERROR: You do not have Flash installed.-(same as 15:30 - 15:35)
     56:00 - 56:17 - (same as above)
-    56:41 - 57:27 - ? ERROR: You do not have Flash installed.-(same as 16:15 - 16:21)
     57:29 - 57:40 - ? (same as above)
     57:46 - 58:09 - Ludovico Einaudi - Andare
     58:21 - 58:39 - Elliot Goldenthal - Victorius Titus
@@ -5312,7 +5134,6 @@
     06:40 - 06:58 - David Arnold - Theme from Hot Fuzz
     07:00 - 07:20 - Yeah Yeah Yeahs - Shame and Fortune (Instrumental)
     07:38 - 07:55 - J.S. Bach - Kantate Nr.170 "Vergnügte Ruh, beliebte Seelenlust"
-    08:37 - 09:00 - ? ERROR: You do not have Flash installed.
     09:00 - 09:13 - Clap Your Hands Say Yeah - Over and Over Again
     09:13 - 09:20 - ? (same as 8:37-9:00)
     09:51 - 10:25 - Clap Your Hands Say Yeah - Over and Over Again
@@ -5323,27 +5144,18 @@
 
     Lambo Murcielago SV Road Test:
     18:54 - 19:17 - Brian Eno - Prophecy Theme
-    19:18 - 19:28 - ? ERROR: You do not have Flash installed.
     19:28 - 19:47 - Fuck Buttons - Race You to My Bedroom / Spirit Rise
     19:47 - 20:09 - E.S. Posthumus - Posthumus Zone
-    20:09 - 20:28 - ? ERROR: You do not have Flash installed.
     20:28 - 20:37 - Max Richter - Circles from the Rue Simon-Crubellier
-    20:37 - 20:54 - ? ERROR: You do not have Flash installed.-(same as 19:18 - 19:28)
     21:00 - 21:34 - Steve Jablonsky & Trevor Morris - Havoc
     21:34 - 22:37 - E.S. Posthumus - Tikal
-    22:37 - 22:59 - ? ERROR: You do not have Flash installed.
     23:18 - 23:49 - E.S. Posthumus - Unstoppable
     23:54 - 24:13 - Dustin O'Halloran - Prelude 2
     24:13 - 24:30 - Boxcutter - Grub
-    24:30 - 24:53 - ? ERROR: You do not have Flash installed.
     24:53 - 25:48 - E.S. Posthumus - Arise
     25:50 - 26:04 - Ludovico Einaudi - The Waves (Le Onde)
 
     17-Year-Olds Cheap Car Challenge, Pt. 2:
-    40:47 - 41:01 - ? ERROR: You do not have Flash installed.
-    41:35 - 41:41 - ? ERROR: You do not have Flash installed.
-    43:14 - 43:20 - ? ERROR: You do not have Flash installed.
-    43:43 - 43:59 - ? ERROR: You do not have Flash installed.
     44:12 - 44:26 - School of Seven Bells - For Kalaja Mari
     44:57 - 45:00 - Barry Gray - Staccato Beat
     45:29 - 45:39 - David Arnold - Theme from Hot Fuzz
@@ -5351,18 +5163,14 @@
     46:14 - 46:18 - David Arnold - Theme from Hot Fuzz
     46:48 - 47:08 - Dan Deacon - Woof Woof
     47:45 - 48:10 - Black Moth Super Rainbow - When the Sun Grows on Your Tongue
-    49:07 - 49:13 - ? ERROR: You do not have Flash installed.
     49:13 - 50:10 - Primal Scream - Can't Go Back
     50:12 - 50:19 - David Arnold - Theme from Hot Fuzz
-    50:19 - 50:35 - ? ERROR: You do not have Flash installed.
     50:35 - 50:46 - Edvard Grieg - Morning Mood
-    50:47 - 51:19 - ? ERROR: You do not have Flash installed.
     51:20 - 51:37 - Battles - Atlas
 
     Bugatti Veyron vs. McLaren F1 Showdown:
     56:13 - 56:38 - Max Richter - Shadow Journal
     56:38 - 56:51 - Trifonic - Parks on Fire (Hybrid's Soundsystem Mix)
-    56:51 - 57:30 - ? ERROR: You do not have Flash installed.
     57:30 - 57:39 - Eluvium - Perfect Neglect in a Field of Statues
     57:39 - 57:57 - Trifonic - Parks on Fire (Hybrid's Soundsystem Mix)
     57:57 - 58:35 - E.S. Posthumus - Nineveh
@@ -5397,13 +5205,10 @@
     17:54 - 18:05 - London Sinfonietta - Prepared Piano Piece 1
     18:05 - 18:37 - The Heavy - How You Like Me Now? (Instrumental)
     18:37 - 18:51 - Tim Exile - Don't Think We're One
-    18:51 - 19:04 - ? ERROR: You do not have Flash installed.
     19:26 - 19:37 - ? (same as above)
     19:47 - 19:58 - U.N.K.L.E - Broken (Instrumental)
     20:34 - 20:50 - J. S. Bach - Cello Suite No. 1 in G Major, BWV 1007 (Prelude)
     22:10 - 22:40 - Primal Scream - Uptown (Instrumental)
-    22:40 - 22:57 - ? ERROR: You do not have Flash installed.
-    23:01 - 23:23 - ? ERROR: You do not have Flash installed.
     23:35 - 23:46 - ? (same as above)
     24:09 - 24:28 - London Sinfonietta - Prepared Piano Piece 2
 
@@ -5411,7 +5216,6 @@
     36:25 - 36:37 - Thrice - Broken Lungs (Legion of Doom Remix)
     37:01 - 37:24 - Thrice - Broken Lungs (Legion of Doom Remix)
     37:48 - 38:08 - Thrice - Broken Lungs (Legion of Doom Remix)
-    38:08 - 38:32 - ? ERROR: You do not have Flash installed.
     40:54 - 42:30 - E.S. Posthumus - Pompeii
     42:30 - 42:50 - Sébastien Tellier - Slow Lynch
     42:50 - 43:11 - Craig Armstrong - Will Ascends
@@ -5432,7 +5236,6 @@
     53:57 - 54:25 - Trellis - Kingston
     54:26 - 55:03 - The Heavy - Sixteen (Instrumental)
     55:33 - 56:03 - Kasabian - Fire (Instrumental)
-    56:03 - 56:26 - ? ERROR: You do not have Flash installed.
     56:27 - 56:34 - The Crystal Method - Sine Language
     57:16 - 57:39 - The Cinematic Orchestra - All Things to All Men (Instrumental)
     57:41 - 58:51 - Dustin O'Halloran - Prelude 2
@@ -5451,14 +5254,11 @@
     03:09 - 03:41 - Clint Mansell - Death is the Road to Awe
     03:41 - 04:35 - Ludovico Einaudi - Fly
     04:33 - 05:33 - Queens of the Stone Age - A Song For The Dead
-    06:27 - 06:58 - ? ERROR: You do not have Flash installed.
     07:04 - 07:35 - Doves - House of Mirrors
-    09:06 - 09:24 - ? ERROR: You do not have Flash installed.
     09:24 - 09:59 - The Killers - Move Away
     10:28 - 11:03 - Death in Vegas - Girls
 
     Porsche Panamera vs. Royal Mail:
-    19:49 - 20:10 - ? ERROR: You do not have Flash installed.
     20:59 - 21:15 - Brian Tyler - Assassin
     21:22 - 21:52 - Hans Zimmer - Black Smoke
     21:56 - 22:13 - Hans Zimmer - Black Smoke
@@ -5466,17 +5266,13 @@
     23:18 - 24:27 - Kasabian - Take Aim (Instrumental)
     24:27 - 24:47 - Danny Elfman - Marcus Enters Skynet
     25:06 - 25:22 - The Horrors - Sea Within A Sea
-    25:38 - 26:58 - ? ERROR: You do not have Flash installed.
     26:59 - 27:45 - The Eels - Fresh Blood
     27:45 - 28:01 - Tykwer, Klimek & Heil - On the Way to Moody's Bail Bonds
     28:07 - 28:28 - Tykwer, Klimek & Heil - Istanbul
     29:06 - 29:47 - Hans Zimmer - Black Smoke
-    29:48 - 30:35 - ? ERROR: You do not have Flash installed.
     30:40 - 30:47 - Ramin Djawadi - Orientacion
     30:53 - 31:13 - Danny Elfman - Salvation
-    31:14 - 32:17 - ? ERROR: You do not have Flash installed.
     32:18 - 33:15 - Ramin Djawadi - Dirt Nap
-    33:55 - 34:19 - ? ERROR: You do not have Flash installed.
     34:29 - 35:46 - Hans Zimmer - 160 BPM
     35:46 - 35:54 - Tykwer, Klimek & Heil - Istanbul
 
@@ -5529,13 +5325,10 @@
     17:54 - 18:05 - London Sinfonietta - Prepared Piano Piece 1
     18:05 - 18:37 - The Heavy - How You Like Me Now? (Instrumental)
     18:37 - 18:51 - Tim Exile - Don't Think We're One
-    18:51 - 19:04 - ? ERROR: You do not have Flash installed.
     19:26 - 19:37 - ? (same as above)
     19:47 - 19:58 - U.N.K.L.E - Broken (Instrumental)
     20:34 - 20:50 - J. S. Bach - Cello Suite No. 1 in G Major, BWV 1007 (Prelude)
     22:10 - 22:40 - Primal Scream - Uptown (Instrumental)
-    22:40 - 22:57 - ? ERROR: You do not have Flash installed.
-    23:01 - 23:23 - ? ERROR: You do not have Flash installed.
     23:35 - 23:46 - ? (same as above)
     24:09 - 24:28 - London Sinfonietta - Prepared Piano Piece 2
 
@@ -5543,7 +5336,6 @@
     36:25 - 36:37 - Thrice - Broken Lungs (Legion of Doom Remix)
     37:01 - 37:24 - Thrice - Broken Lungs (Legion of Doom Remix)
     37:48 - 38:08 - Thrice - Broken Lungs (Legion of Doom Remix)
-    38:08 - 38:32 - ? ERROR: You do not have Flash installed.
     40:54 - 42:30 - E.S. Posthumus - Pompeii
     42:30 - 42:50 - Sébastien Tellier - Slow Lynch
     42:50 - 43:11 - Craig Armstrong - Will Ascends
@@ -5564,7 +5356,6 @@
     53:57 - 54:25 - Trellis - Kingston
     54:26 - 55:03 - The Heavy - Sixteen (Instrumental)
     55:33 - 56:03 - Kasabian - Fire (Instrumental)
-    56:03 - 56:26 - ? ERROR: You do not have Flash installed.
     56:27 - 56:34 - The Crystal Method - Sine Language
     57:16 - 57:39 - The Cinematic Orchestra - All Things to All Men (Instrumental)
     57:41 - 58:51 - Dustin O'Halloran - Prelude 2
@@ -5583,14 +5374,11 @@
     03:09 - 03:41 - Clint Mansell - Death is the Road to Awe
     03:41 - 04:35 - Ludovico Einaudi - Fly
     04:33 - 05:33 - Queens of the Stone Age - A Song For The Dead
-    06:27 - 06:58 - ? ERROR: You do not have Flash installed.
     07:04 - 07:35 - Doves - House of Mirrors
-    09:06 - 09:24 - ? ERROR: You do not have Flash installed.
     09:24 - 09:59 - The Killers - Move Away
     10:28 - 11:03 - Death in Vegas - Girls
 
     Porsche Panamera vs. Royal Mail:
-    19:49 - 20:10 - ? ERROR: You do not have Flash installed.
     20:59 - 21:15 - Brian Tyler - Assassin
     21:22 - 21:52 - Hans Zimmer - Black Smoke
     21:56 - 22:13 - Hans Zimmer - Black Smoke
@@ -5598,17 +5386,13 @@
     23:18 - 24:27 - Kasabian - Take Aim (Instrumental)
     24:27 - 24:47 - Danny Elfman - Marcus Enters Skynet
     25:06 - 25:22 - The Horrors - Sea Within A Sea
-    25:38 - 26:58 - ? ERROR: You do not have Flash installed.
     26:59 - 27:45 - The Eels - Fresh Blood
     27:45 - 28:01 - Tykwer, Klimek & Heil - On the Way to Moody's Bail Bonds
     28:07 - 28:28 - Tykwer, Klimek & Heil - Istanbul
     29:06 - 29:47 - Hans Zimmer - Black Smoke
-    29:48 - 30:35 - ? ERROR: You do not have Flash installed.
     30:40 - 30:47 - Ramin Djawadi - Orientacion
     30:53 - 31:13 - Danny Elfman - Salvation
-    31:14 - 32:17 - ? ERROR: You do not have Flash installed.
     32:18 - 33:15 - Ramin Djawadi - Dirt Nap
-    33:55 - 34:19 - ? ERROR: You do not have Flash installed.
     34:29 - 35:46 - Hans Zimmer - 160 BPM
     35:46 - 35:54 - Tykwer, Klimek & Heil - Istanbul
 
@@ -5671,18 +5455,10 @@
     22:06 - 22:25 - Hilmar Örn Hilmarsson - Colours
     22:27 - 22:44 - Danny Elfman - Salvation
     22:44 - 22:59 - U.N.K.L.E - Synthetic Water
-    23:01 - 23:29 - ? ERROR: You do not have Flash installed.
-    23:33 - 24:09 - ? ERROR: You do not have Flash installed.
     24:17 - 24:54 - Doves - 10:03
-    24:54 - 25:15 - ? ERROR: You do not have Flash installed.
-    25:18 - 25:33 - ? ERROR: You do not have Flash installed.
-    25:33 - 25:51 - ? ERROR: You do not have Flash installed.
-    25:51 - 26:43 - ? ERROR: You do not have Flash installed.
     26:43 - 27:06 - Hilmar Örn Hilmarsson - Colours
 
     Greenhouse Exhaust System:
-    29:47 - 30:08 - ? ERROR: You do not have Flash installed.
-    30:08 - 30:13 - ? ERROR: You do not have Flash installed.
     30:38 - 31:30 - Clint Mansell - Death is the Road to Awe
 
     1500 RWD Cheap Coupe Challenge, Pt. 2:
@@ -5707,7 +5483,6 @@
     52:22 - 52:42 - City of Prague Philharmonic - The A-Team
     52:42 - 52:57 - Spiro & Wix - Embrace (a)
     53:00 - 53:14 - Duran Duran - All She Want Is
-    53:48 - 54:08 - ? ERROR: You do not have Flash installed.
     54:28 - 54:45 - Freddy Fresh - Norbert's Working
     55:36 - 55:45 - Hans Zimmer - The Bridge
     55:51 - 55:56 - Hans Zimmer - The Dragon Scroll
@@ -5725,14 +5500,11 @@
     00:58 - 01:03 - Venetian Snares - Room 379
     01:03 - 01:28 - Amon Tobin & Jim Dooley - Alden Strikes
     01:39 - 02:31 - Antonio Pinto - My New Life
-    02:31 - 02:52 - ? ERROR: You do not have Flash installed.
     02:55 - 03:05 - Alec Empire - 22:24
     03:05 - 03:06 - Kasabian - Ovary Stripe
     03:06 - 03:43 - Paul Haslinger - Tit-4-Tat
     03:43 - 04:12 - Ludovico Einaudi - Andare
-    04:13 - 04:18 - ? ERROR: You do not have Flash installed.
     04:18 - 04:47 - Curve - Hell Above Water
-    04:47 - 04:50 - ? ERROR: You do not have Flash installed.
     04:50 - 05:10 - Philip Glass - Meeting in the Carriage
     05:37 - 06:14 - Two Fingers - Sweden Rhythm
     06:14 - 07:00 - Amon Tobin - Ruthless
@@ -5756,7 +5528,6 @@
     26:14 - 26:37 - The Horrors - I Can't Control Myself
 
     £3000 Classic Car Challenge, Pt. 2:
-    38:11 - 38:40 - ? ERROR: You do not have Flash installed.
     38:56 - 39:11 - Quincy Jones - Hello Mrs. Beckerman!
     39:15 - 39:17 - Quincy Jones - Hello Mrs. Beckerman!
     39:52 - 40:00 - John Barry - Capsule in Space
@@ -5774,18 +5545,14 @@
     47:12 - 47:43 - Joy Division - Dead Souls
     48:09 - 48:59 - DeVotchKa - The Enemy Guns
     49:05 - 49:40 - Jimi Hendrix - Third Stone from the Sun
-    49:45 - 49:59 - ? ERROR: You do not have Flash installed.
     50:01 - 50:15 - Smith - Baby, It's You
     50:17 - 50:46 - Jerry Reed - Welcome to Nevada
-    50:46 - 51:05 - ? ERROR: You do not have Flash installed.
     51:10 - 51:58 - The Hollywood Persuaders - Drums a Go-Go
-    51:58 - 52:27 - ? ERROR: You do not have Flash installed.
     52:27 - 52:51 - The The - I Saw the Light
     52:51 - 53:02 - Patsy Cline - Sweet Dreams
     53:29 - 53:46 - Mantovani & His Orchestra - Charmaine
     54:05 - 54:12 - Mantovani & His Orchestra - Charmaine
     54:26 - 54:36 - Mantovani & His Orchestra - Charmaine
-    54:36 - 54:56 - ? ERROR: You do not have Flash installed.
     55:00 - 55:19 - Ramin Djawadi - Fin Del Camino
     55:34 - 55:47 - Francis Lai - Theme from Love Story
     55:49 - 56:40 - Secret Machines - Faded Lines (Live at KCRW)
@@ -5795,8 +5562,6 @@
     57:51 - 58:05 - Red Hot Chili Peppers - Naked in the Rain
     58:06 - 58:18 - Robert Rodriguez - One Hour To Go
     58:18 - 58:45 - Ilan Eshkeri - Septimus
-    58:45 - 59:08 - ? ERROR: You do not have Flash installed.
-    59:16 - 59:26 - ? ERROR: You do not have Flash installed.
     59:47 - 60:20 - City of Prague Philharmonic - Midnight Cowboy
 	
 [13x07] August 2nd, 2009
@@ -5804,7 +5569,6 @@
     Vauxhall VXR8 Bathurst & HSV Maloo Review:
     01:10 - 01:29 - Kronos Quartet - String Quartet No. 3 (Mishima) - Closing
     01:40 - 02:02 - Amon Tobin - Stampton Bridge
-    02:03 - 02:11 - ? ERROR: You do not have Flash installed.
     02:18 - 02:48 - Klaus Badelt - Operation Rescue Dawn
     02:52 - 03:34 - JD Mayer - Tent City
     03:36 - 04:08 - Massive Attack - The Dog Obeys
@@ -5815,7 +5579,6 @@
     05:48 - 05:59 - The Presets - My People
     05:59 - 06:25 - Explosions in the Sky - Greet Death
     06:37 - 07:06 - Justice - Phantom Pt. II
-    07:06 - 07:13 - ? ERROR: You do not have Flash installed.
     07:14 - 07:23 - The White Stripes - Icky Thump
     07:37 - 08:17 - Late of the Pier - VW
     08:19 - 08:32 - Aphex Twin - Avril 14th
@@ -5829,7 +5592,6 @@
     25:52 - 26:03 - James Newton Howard - Split to London
     26:36 - 27:02 - The Simon Park Orchestra - Up to Date
     27:34 - 27:43 - James Newton Howard - Security Meeting
-    28:42 - 29:07 - ? ERROR: You do not have Flash installed.
     29:19 - 29:37 - ? (same as above)
     29:47 - 29:56 - James Newton Howard - Back to the Unit
     29:57 - 30:04 - Hans Zimmer, Lisa Gerrard - The Wheat
@@ -5863,13 +5625,11 @@
     05:08 - 05:28 - Amon Tobin - Rosies
     05:34 - 05:58 - Beastie Boys - Root Down (Free Zone Mix)
     06:32 - 07:57 - U.N.K.L.E - Safe in Mind (Instrumental)
-    08:00 - 08:44 - ? ERROR: You do not have Flash installed.
     08:58 - 09:27 - Kasabian - Fast Fuse (Instrumental)
     09:45 - 09:56 - Band of Skulls - Friends
     10:24 - 10:55 - Carter Burwell - Intruder!
     11:11 - 11:42 - Zero 7 - Everything Up (Zizou)
     11:49 - 12:25 - Zero 7 - Everything Up (Zizou)
-    12:28 - 13:03 - ? ERROR: You do not have Flash installed.
     13:03 - 13:09 - Iva Davies, Christopher Gordon - Into the Fog
     13:09 - 13:35 - Dario Marianelli - Remember Remember
     13:49 - 14:04 - Édith Piaf - Non, je ne regrette rien
@@ -5893,12 +5653,9 @@
     26:15 - 26:56 - Dustin O'Halloran - Fine
     26:56 - 27:19 - Clinton Shorter - Wikus is Still Running
     27:19 - 27:58 - Steve Jablonsky - Unexpected Changes
-    27:58 - 28:09 - ? ERROR: You do not have Flash installed.
     28:11 - 28:43 - Hildur Guðnadóttir - Opaque
     28:47 - 28:58 - Tom Waits - On the Other Side of the World (Instrumental)
     29:46 - 30:02 - James Dooley - Rampage
-    30:02 - 30:14 - ? ERROR: You do not have Flash installed.
-    30:17 - 30:42 - ? ERROR: You do not have Flash installed.
     30:42 - 31:11 - The Big Pink - Tonight (Instrumental)
     31:12 - 31:25 - Jóhann Jóhannsson - The Rocket Builder (Io Pan!)
 
@@ -5939,16 +5696,13 @@
     04:19 - 04:27 - Brian Eno - 2/1
     04:27 - 04:37 - Pete Lawrie - Black and Blue (Instrumental)
     04:37 - 04:41 - Brian Eno - 2/1
-    04:41 - 04:52 - ? ERROR: You do not have Flash installed.
     05:15 - 05:23 - Bill Conti - Fanfare for Rocky
-    05:37 - 05:46 - ? ERROR: You do not have Flash installed.
     05:59 - 06:08 - Pete Lawrie - Black and Blue (Instrumental)
     06:29 - 06:36 - Clint Mansell - FBI
     06:37 - 07:10 - Tom Petty & the Heartbreakers - Runnin' Down A Dream
     07:18 - 07:57 - Yeah Yeah Yeahs - Shame and Fortune (Instrumental)
     08:03 - 08:33 - The Who - Magic Bus
     08:36 - 08:45 - Belinda Carlisle - Valentine
-    08:48 - 08:58 - ? ERROR: You do not have Flash installed.
     09:43 - 09:51 - Belinda Carlisle - Valentine
     09:51 - 10:17 - Small Faces - Tin Soldier
     11:37 - 11:43 - Terence Blanchard - Defend Brooklyn
@@ -5967,7 +5721,6 @@
     25:56 - 26:43 - J.S. Bach - Goldberg Variations for Keyboard, BWV 988: Aria
     26:50 - 27:09 - Immediate Music - Imperativa (Choir)
     27:09 - 27:25 - Beastie Boys - Gratitude
-    27:25 - 27:46 - ? ERROR: You do not have Flash installed.
     27:46 - 27:48 - Passion Pit - Sleepyhead
     27:48 - 27:51 - Amon Tobin - Esther’s
     27:51 – 28:08 - Nine Inch Nails - The Collector
@@ -5984,24 +5737,18 @@
     Build-it-Yourself Electric Car, Pt. 2:
     43:51 - 44:10 - White Lies - A Place to Hide (Instrumental)
     44:10 - 44:29 - Brian Eno - Triennale
-    44:43 - 44:54 - ? ERROR: You do not have Flash installed.
     45:12 - 45:19 - David Holmes - Hey Lisa
-    46:10 - 46:15 - ? ERROR: You do not have Flash installed.
     46:36 - 47:11 - Working for a Nuclear Free City - Silent Melody
     47:14 - 47:33 - Moderat - A New Error
     48:10 - 48:33 - Fever Ray - Coconut
     49:13 - 49:16 - Fever Ray - Coconut
-    49:33 - 49:38 - ? ERROR: You do not have Flash installed.
     49:43 - 49:52 - David Holmes - Inspired by Leyburn
     50:23 - 50:26 - Clint Mansell - Katie Snow Dream
-    50:34 - 51:02 - ? ERROR: You do not have Flash installed.
-    51:11 - 51:56 - ? ERROR: You do not have Flash installed.
     52:07 - 53:10 - Yeah Yeah Yeahs - Soft Shock (Instrumental)
     53:10 - 53:23 - Amon Tobin - Hunt for the Ray Sphere
     53:53 - 54:04 - Carter Burwell - Breaking and Entering
     54:26 - 54:43 - Carter Burwell - Breaking and Entering
     54:56 - 55:40 - Clinton Shorter - Get Him Talking
-    55:44 - 56:02 - ? ERROR: You do not have Flash installed.
     56:20 - 56:39 - The Mamas & the Papas - California Dreamin'
     56:42 - 57:15 - Clint Mansell - We’re Going Home
     57:47 - 58:09 - Ladyhawke - Love Don't Live Here (Instrumental)
@@ -6015,15 +5762,12 @@
     02:00 - 04:03 - John Barry - Capsule in Space
     04:08 - 05:00 - Florence and The Machine - Drumming Song (Instrumental)
     05:27 - 06:03 - Pink Floyd - Breathe
-    06:03 - 06:44 - ? ERROR: You do not have Flash installed.
     07:24 - 07:47 - The Verve - Love is Noise (Instrumental)
     07:49 - 07:58 - Max Richter - Tokyo Riddle Song
     07:59 - 08:51 - Doves - The Outsiders (Instrumental)
     09:28 - 09:52 - Arctic Monkeys - Do Me a Favour (Instrumental)
     09:51 - 10:16 - Ludovico Einaudi - Nightbook
     10:21 - 10:43 - The Asteroids Galaxy Tour - Lady Jesus (Instrumental)
-    10:45 - 11:37 - ? ERROR: You do not have Flash installed.
-    11:57 - 12:49 - ? ERROR: You do not have Flash installed.
     12:49 - 13:07 - Little Boots - Meddle
     13:10 - 14:28 - Edward Elgar - Chanson de Matin, Op. 15, No. 2
 
@@ -6076,11 +5820,8 @@
 
     Airport Vehicle Racing:
     00:56 - 01:08 - Heinz Kiessling - Snug as a Bug
-    01:09 - 01:36 - ? ERROR: You do not have Flash installed.
     01:36 - 01:48 - Heinz Kiessling - Snug as a Bug
     01:55 - 03:05 - Tyler Bates - Rescue Mission
-    03:15 - 03:26 - ? ERROR: You do not have Flash installed.
-    03:42 - 03:47 - ? ERROR: You do not have Flash installed.
     03:50 - 04:49 - Brian Tyler - Gangland Grenade
     04:49 - 05:01 - Alan Silvestri - I Have a Target in Mind
     05:06 - 05:43 - David Arnold - The Hot Fuzz Suite
@@ -6088,34 +5829,24 @@
     06:30 - 06:34 - Jim Dooley - Dinner with Sasha
     06:34 - 06:37 - Ramin Djawadi - Mark II
     06:37 - 06:45 - Jim Dooley - Dinner with Sasha
-    06:46 - 07:22 - ? ERROR: You do not have Flash installed.
     07:22 - 07:42 - Danny Elfman - Main Title Deconstruction
     07:42 - 07:58 - Brian Tyler - River Chase
     07:58 - 08:20 - Danny Elfman - Main Title Deconstruction
     08:22 - 08:49 - David Arnold - The Hot Fuzz Suite
     08:49 - 09:14 - Theodore Shapiro - Truck Escape
     09:14 - 09:30 - Steve Jablonsky - Hold Them Off
-    09:31 - 09:35 - ? ERROR: You do not have Flash installed.
     09:35 - 10:00 - David Arnold - Theme from Hot Fuzz
 
     Trio of Super-Fast SUVs:
-    18:08 - 18:29 - ? ERROR: You do not have Flash installed.
     18:29 - 18:53 - C17h19no3 - Sacrifice
     18:53 - 19:04 - Burial - Dog Shelter
-    19:06 - 19:21 - ? ERROR: You do not have Flash installed.
     19:16 - 19:41 - Frank Klepacki - He Lives
-    19:41 - 19:53 - ? ERROR: You do not have Flash installed.
-    19:54 - 20:03 - ? ERROR: You do not have Flash installed.
     20:03 - 20:25 - Amon Tobin - Always
     20:25 - 20:58 - Trifonic - Parks on Fire (Hybrid's Soundsystem Mix)
-    20:58 - 21:13 - ? ERROR: You do not have Flash installed.
-    21:13 - 21:45 - ? ERROR: You do not have Flash installed.
-    21:52 - 21:56 - ? ERROR: You do not have Flash installed.
     22:05 - 22:16 - Frank Klepacki - Virtual Control
     22:18 - 22:38 - Aes Dana - Aftermath #01
     22:39 - 23:04 - Ludovico Einaudi - Monday
     23:04 - 23:33 - Photek - Ren 2
-    23:33 - 23:40 - ? ERROR: You do not have Flash installed.
     23:40 - 23:55 - Deadly Avenger - Lopez
     23:56 - 24:11 - Aes Dana - Aftermath #02
     24:11 - 24:38 - Elgar - Lux Aeterna (Nimrod)
@@ -6124,7 +5855,6 @@
     25:15 - 25:34 - Sarah Brightman - How Fare This Spot
     25:34 - 26:24 - Chris Winter - Close Cover
     26:25 - 26:51 - Joel McNeely - The Knife
-    26:58 - 27:08 - ? ERROR: You do not have Flash installed.
     27:08 - 27:43 - Telefon Tel Aviv - Map of What is Effortless
     27:43 - 28:03 - Ludovico Einaudi - Oltremare
 
@@ -6135,27 +5865,19 @@
     Renault Twingo 133 Road Test:
     45:19 - 45:46 - Francis Monkman - The Long Good Friday
     46:07 - 47:00 - Apollo 440 - Time is Running Out
-    47:04 - 47:23 - ? ERROR: You do not have Flash installed.
     47:23 - 47:49 - Battles - Race : Out
     48:12 - 48:28 - Amon Tobin - Like Regular Chickens
     48:28 - 49:12 - David Holmes - Incite A Riot
     49:14 - 49:43 - Harald Kloser & Thomas Wander - Open the Gates!
-    49:46 - 50:12 - ? ERROR: You do not have Flash installed.
     50:12 - 50:18 - Fuck Buttons - Phantom Limb
     50:18 - 51:07 - Kevin Riepl - Train Wreck/Locust Theme
-    51:07 - 51:19 - ? ERROR: You do not have Flash installed.
     51:31 - 51:41 - Amy Studt - Put Your Faith In Me
-    51:41 - 51:47 - ? ERROR: You do not have Flash installed.
     52:01 - 52:29 - John Murphy & Underworld - Cassie Searches/Dead Corazón
-    52:30 - 53:13 - ? ERROR: You do not have Flash installed.
-    53:19 - 53:28 - ? ERROR: You do not have Flash installed.
     53:35 - 53:53 - Mozart - Symphony No. 40 in G Minor, K 550: I Molto Allegro
     53:35 - 53:53 - Rage Against the Machine - Wake Up
-    54:27 - 54:47 - ? ERROR: You do not have Flash installed.
     54:47 - 55:19 - Battles - Leyendecker
     55:19 - 55:42 - Layo & Bushwacka! - Isn't This A Lovely Day
     55:19 - 55:42 - Layo & Bushwacka! - Isn't This A Lovely Day
-    56:16 - 56:31 - ? ERROR: You do not have Flash installed.
     56:40 - 58:17 - David Arnold - Time to Get Out
     58:26 - 58:50 - David Arnold - Time to Get Out
     58:55 - 59:09 - Francis Monkman - The Long Good Friday
@@ -6167,7 +5889,6 @@
     01:29 - 01:39 - Sigur Rós - Leit Að Lífi
     01:39 - 02:28 - The Big Pink - Frisk
     02:28 - 03:09 - Philip Glass - Wish I Would See You Again
-    03:10 - 03:13 - ? ERROR: You do not have Flash installed.
     03:13 - 04:16 - Paul Haslinger - Tit-4-Tat
     04:16 - 05:11 - Clint Mansell - Welcome to Lunar Industries (Three Year Stretch...)
     05:11 - 06:07 - Arctic Monkeys - Brainstorm (Instrumental)
@@ -6234,7 +5955,6 @@
 [14x06] December 27th, 2009 [Bolivia Special]
 
     00:55 - 01:15 - James Dooley - Kronos (Non-Choir)
-    01:15 - 01:50 - ? ERROR: You do not have Flash installed.
     02:01 - 02:04 - Tobias Marberger & Gabriel Shadid - Viral Outbreak
     02:04 - 02:19 - For Greater Good - Dogged
     03:12 - 03:15 - Tobias Marberger & Gabriel Shadid - Heat Seaker
@@ -6243,13 +5963,10 @@
     05:17 - 05:24 - David Toop & Max Eastley - Burial Rites
     05:47 - 05:55 - Antonio Pinto - Vietnam a Brasileira
     06:11 - 06:20 - Antonio Pinto - Vietnam a Brasileira
-    07:01 - 07:22 - ? ERROR: You do not have Flash installed.
     07:27 - 07:46 - James Dooley - Terminal (Non-Choir)
     07:51 - 08:22 - Lalo Schifrin - Ice Pick Mike (movie version)
     09:21 - 09:24 - Lalo Schifrin - The Swimming Pool (original version)
     09:52 - 10:04 - Olivier Bernet - Adieu
-    10:27 - 10:38 - ? ERROR: You do not have Flash installed.
-    10:52 - 11:06 - ? ERROR: You do not have Flash installed.
     11:17 - 11:20 - Puccio Roelens - Caravan
     11:26 - 11:45 - Puccio Roelens - Caravan
     11:47 - 11:57 - Paul Haslinger - Eternity and a Day
@@ -6258,9 +5975,7 @@
     12:47 - 12:55 - James Horner - The Storyteller’s Dreams
     12:55 - 13:00 - Boxcutter - Tauhid
     12:58 - 13:19 - Paul Haslinger - Miserere
-    13:21 - 13:32 - ? ERROR: You do not have Flash installed.
     13:34 - 13:40 - David Arnold - Somebody Wants to Kill You
-    13:45 - 13:55 - ? ERROR: You do not have Flash installed.
     13:59 - 14:11 - For Greater Good - White is the New Black
     14:11 - 14:34 - Randy Newman - Red’s First Win
     14:56 - 15:50 - Randy Newman - A Nice Ride
@@ -6273,7 +5988,6 @@
     21:01 - 21:25 - Brian Eno & David Byrne - Pitch to Voltage
     21:25 - 21:50 - Tharmapsal - Molecules, Out!
     22:05 - 22:09 - James Horner - An Elusive Quarry
-    22:48 - 23:00 - ? ERROR: You do not have Flash installed.
     23:09 - 23:49 - Trevor Morris - Drift Itsumo
     23:49 - 23:57 - Paul Haslinger - The Last Stand
     24:25 - 24:35 - James Horner - The Storyteller’s Dreams
@@ -6282,16 +5996,13 @@
     25:56 - 26:02 - James Horner - No Longer the Hunted
     26:18 - 26:37 - Tobias Marberger & Gabriel Shadid - Wrongful Hanging (No Vocals)
     26:39 - 28:36 - Tobias Marberger & Gabriel Shadid - New Evil (Vocals & No Vocals)
-    28:36 - 29:16 - ? ERROR: You do not have Flash installed.
     29:39 - 30:39 - Minnie Riperton - Lovin' You
     30:39 - 31:05 - Rhian Sheehan - Phobos
     31:07 - 31:15 - Aes Dana - Aftermath # 02
     31:32 - 31:43 - For Greater Good - Distress
-    32:13 - 32:18 - ? ERROR: You do not have Flash installed.
     32:18 - 32:53 - U.N.K.L.E - Blade in the Back
     32:58 - 33:08 - U.N.K.L.E - Blade in the Back
     33:10 - 33:13 - Michael Giacchino - Adventure Calling
-    33:42 - 34:18 - ? ERROR: You do not have Flash installed.
     34:40 - 35:09 - Rhian Sheehan - Somewhere Within
     35:09 - 35:20 - James Dooley - Terminal (Non-Choir)
     35:52 - 36:13 - Will Young - Grace
@@ -6308,7 +6019,6 @@
     43:55 - 43:57 - Michael Giacchino - Adventure Calling
     44:04 - 44:34 - Burt Bacharach - South American Getaway
     44:44 - 44:55 - This Morn’ Omina - Toltec
-    45:03 - 45:18 - ? ERROR: You do not have Flash installed.
     45:19 - 46:28 - Paul Haslinger - Miserere
     46:28 - 47:04 - Aghast - Enter the Hall of Ice
     47:18 - 47:24 - John Murphy - Going Home (Hybrid's Soundsystem Mix)
@@ -6316,11 +6026,9 @@
     48:09 - 48:31 - Felix Laband - Whistling in Tongues
     49:13 - 49:33 - Paul Haslinger - Miserere
     49:32 - 49:55 - Mike Post & Pete Carpenter - Theme from ‘The A-Team’
-    49:55 - 50:46 - ? ERROR: You do not have Flash installed.
     50:46 - 51:30 - Transglobal Underground - This is the Army of Forgotten Souls
     51:38 - 52:15 - Ludovico Einaudi - Lady Labyrinth
     52:22 - 52:28 - Gustavo Santaolalla - La Partida
-    52:28 - 52:51 - ? ERROR: You do not have Flash installed.
     52:57 - 53:03 - Spooky - Hypo-allergenic
     53:19 - 53:41 - Thomas Newman - Speaking of Production Control
     54:29 - 54:39 - Max Richter - Patchouli Oil and Karate
@@ -6348,7 +6056,6 @@
     70:32 - 70:56 - James Horner - Frog Darts
     70:56 - 71:05 - Paul Haslinger - Miserere
     71:05 - 71:36 - Paul Haslinger - The End of an Era (Opening)
-    72:11 - 72:25 - ? ERROR: You do not have Flash installed.
     72:25 - 72:32 - Paul Haslinger - The Last Stand
     72:32 - 72:56 - Paul Haslinger - Anger and Retribution
     72:56 - 73:59 - Tobias Marberger & Gabriel Shadid - Outflanked (No Vocals)
@@ -6359,12 +6066,9 @@
 
     Lexus LF-A Supercar:
     00:57 - 00:59 - The Orb - Woodlarking
-    00:59 - 01:13 - ? ERROR: You do not have Flash installed.
     01:13 - 01:37 - Moby - Mothers of the Night
     01:37 - 01:54 - Alix Perez - Suffer in Silence (feat. Zero T)
-    01:56 - 02:08 - ? ERROR: You do not have Flash installed.
     02:08 - 02:55 - Amon Tobin & Jim Dooley – Meet the Reapers
-    02:55 - 03:31 - ? ERROR: You do not have Flash installed.
     03:31 - 04:07 - The Big Pink - Golden Pendulum (Instrumental)
     04:07 - 05:16 - Björk - Bachelorette
     05:17 - 05:59 - Renholdër - Now I Know
@@ -6385,22 +6089,17 @@
     23:51 - 24:47 - Secret Machines - Last Believer, Drop Dead
     24:47 - 25:31 - White Lies - To Lose My Life (Instrumental)
     25:31 - 25:47 - Hugh Burns - Elegante (Guitar Mix)
-    25:48 - 26:03 - ? ERROR: You do not have Flash installed.
     26:17 - 26:35 - Philip Glass - Morning Passages
     26:41 - 26:54 - Philip Glass - Morning Passages
-    27:29 - 27:51 - ? ERROR: You do not have Flash installed.
     27:54 - 27:56 - ? (same as above)
     27:56 - 28:42 - Ian Brown - Solarized
-    28:42 - 29:12 - ? ERROR: You do not have Flash installed.
     29:09 - 29:41 - White Denim - Sync'n
-    29:45 - 30:23 - ? ERROR: You do not have Flash installed.
 
     Vauxhall Insignia VXR Review:
     41:06 - 42:01 - Four Tet - A Joy
     42:04 - 42:24 - Hybrid - Marrakech
     42:26 - 43:26 - Amon Tobin - 4 Ton Mantis
     43:26 - 43:43 - Four Tet - Unspoken
-    43:45 - 43:56 - ? ERROR: You do not have Flash installed.
     43:56 - 44:07 - Four Tet - Unspoken
     44:07 - 44:25 - Super Numeri - Sundials
     44:25 - 45:24 - Plaid - Eyen
@@ -8851,7 +8550,6 @@
     35:33 - 35:45 - David Holmes - The Real Story
     36:06 - 36:22 - David Holmes - My Mate Paul
     36:48 - 36:58 - David Holmes - My Mate Paul
-    37:56 - 38:02 - ? MP3 Sample
     38:06 - 38:19 - Howie B - Angels Go Bald:Too
     38:36 - 38:48 - Howie B - Angels Go Bald:Too
     39:33 - 39:42 - T.Love - QMS
@@ -9231,7 +8929,6 @@
     25:00 - 25:06 - Ramin Djawadi - Force Multiplier
     25:06 - 25:50 - David Holmes - Against All Odds
     25:53 - 26:04 - Barry Gray - The Trip
-    26:10 - 26:16 - ? MP3 Sample
     26:16 - 27:21 - Lalo Schifrin - Main Title from ‘Dirty Harry’
     27:23 - 27:35 - Barry Gray - The Trip
     28:29 - 28:39 - Orchester Pete Jacques - Fata Morgana
@@ -9263,7 +8960,6 @@
     56:21 - 56:41 - Brian Tyler - Party Crashers
     56:41 - 56:50 - Brian Tyler - Bad Way to Live
     56:50 - 57:24 - Ramin Djawadi - Gulmira
-    58:09 - 58:15 - ? MP3 Sample
     58:18 - 58:34 - Ramin Djawadi - Kit Up
     58:40 - 59:25 - Brian Tyler - Outnumbered
 	 
@@ -9277,7 +8973,6 @@
     05:17 - 05:36 - Hans Zimmer - Buggy Chase
     05:36 - 06:22 - Eric Serra - Run, Shoot, and Jump
     06:22 - 06:38 - Brian Tyler - Mad Skills
-    06:39 - 07:01 - ? MP3 Sample
     07:05 - 07:47 - John Debney - Monaco Drive
     07:57 - 08:26 - Deadly Avenger - Punisher
     08:26 - 08:44 - Danny Elfman - First Confrontation
@@ -9299,13 +8994,9 @@
 
     British Military Vehicles:
     26:41 - 27:19 - Ramin Djawadi - Buzz in the Air
-    27:19 - 27:50 - ? MP3 Sample
     28:07 - 28:33 - Thomas Newman - No Standard Solution
-    28:44 - 29:22 - ? MP3 Sample
     29:22 - 30:29 - Burkhard Dallwitz - Escape
     30:29 - 30:47 - Nathan Johnson - Following the Loop
-    30:47 - 31:06 - ? MP3 Sample
-    31:07 - 31:23 - ? MP3 Sample
     31:34 - 32:28 - Ramin Djawadi - Restless Natives
     32:50 - 34:02 - Ramin Djawadi - H.A.H.O.
     34:54 - 35:26 - Ramin Djawadi - Old Friend, New Foe
@@ -9335,19 +9026,13 @@
 [21x03] February 16th, 2014
 
     Zenvo ST1 Review:
-    01:09 - 01:23 - ? MP3 Sample
-    01:24 - 01:31 - ? MP3 Sample
     01:31 - 02:08 - Brian Tyler - Invasion of Asgard
-    02:08 - 02:11 - ? MP3 Sample
     02:12 - 02:42 - Brian Tyler - Invasion of Asgard
     02:42 - 02:58 - Steven Price - Fire
     02:58 - 03:17 - Trentemøller - The Forest
     03:43 - 04:01 - Steven Price - Don't Let Go
-    04:01 - 04:07 - ? MP3 Sample
     04:07 - 04:17 - Trentemøller - Take Me Into Your Skin
-    04:22 - 04:39 - ? MP3 Sample
     04:39 - 04:57 - Trentemøller - Take Me Into Your Skin
-    04:59 - 05:28 - ? MP3 Sample
     05:28 - 05:55 - M83 - My Tears Are Becoming a Sea
 
     The Stig's Lap:
@@ -9357,14 +9042,12 @@
     Small Car Crimean Challenge, Pt. 1
     16:09 - 16:49 - Clint Mansell - First Snow
     17:13 - 17:20 - DJ Shadow - Dark Days
-    17:43 - 17:48 - ? MP3 Sample
     18:10 - 18:23 - A Hawk And A Hacksaw & The Hun Hangár Ensemble - Romanian Hora and Bulgar (Live)
     19:23 - 19:32 - Eric Serra - The Goldeneye Overture
     19:50 - 20:48 - Deadly Avenger - Punisher
     20:48 - 21:46 - Public Service Broadcasting - Spitfire
     21:46 - 22:16 - James Horner - The River Crossing to Stalingrad
     22:16 - 22:46 - James Horner - Koulikov
-    22:46 - 23:17 - ? MP3 Sample
     23:18 - 23:19 - C2C - Arcades
     23:19 - 23:59 - Pixies - Blue Eyed Hexe (Instrumental)
     24:06 - 24:59 - Mogwai - Hungry Face
@@ -9394,10 +9077,8 @@
     54:48 - 56:07 - Baltic Fleet - Midnight Train
     56:29 - 57:07 - Clint Mansell - My Name Is Frank Sidebottom
     57:26 - 57:49 - Ramin Djawadi - The Raid
-    57:49 - 58:29 - ? MP3 Sample
     58:29 - 59:00 - Steven Price - Shenzou
     59:00 - 59:04 - Steven Price - ISS
-    59:04 - 59:37 - ? MP3 Sample
     59:37 - 60:50 - Boards of Canada - Gemini
 	 
 [21x04] February 23rd, 2014
@@ -9478,21 +9159,17 @@
     27:04 - 27:56 - David Holmes - Benedict Returns
     28:02 - 28:20 - The Dust Brothers - Corporate World
     28:21 - 29:11 - Charles Casey & Steven Hellier - Freak Chic
-    30:00 - 30:09 - ? MP3 Sample
     30:49 - 31:03 - Cliff Martinez - Bride of Deluxe
     32:01 - 32:38 - Steve Isles - The Councillor
     32:51 - 33:39 - C2C - Le Banquet
     34:03 - 34:34 - David Holmes - Kensington Chump
     34:39 - 34:50 - James Newton Howard - Back to the Unit
-    35:16 - 35:29 - ? MP3 Sample
     36:27 - 37:04 - John Lennon - Imagine
-    38:08 - 38:22 - ? MP3 Sample
     38:22 - 38:49 - Cliff Martinez - Bride of Deluxe
 
     Porsche 918 Spyder Test Drive:
     50:27 - 50:46 - Hans Zimmer & James Newton Howard - Nycteris
     50:55 - 51:08 - The Invisible - What Happened (Instrumental)
-    51:08 - 51:11 - ? MP3 Sample
     51:36 - 52:01 - David Arnold & Michael Price - God Rest His Soul
     52:04 - 53:06 - David Arnold & Michael Price - God Rest His Soul
     53:08 - 53:17 - Hans Zimmer & James Newton Howard - Myotis
@@ -9511,7 +9188,6 @@
     02:01 - 02:08 - Shigeru Umebayashi - Beauty Song
     02:24 - 02:37 - Malachai - I Deserve To No (Instrumental)
     03:52 - 04:09 - Jefferson Airplane - White Rabbit
-    04:52 - 05:03 - ? MP3 Sample
     06:08 - 06:23 - Mitch Miller - March from the River Kwai
     06:23 - 08:22 - Kings of Leon - Crawl
     08:26 - 08:38 - Roy Budd - IP TB2
@@ -9550,7 +9226,6 @@
     34:11 - 34:55 - Creedence Clearwater Revival - Fortunate Son
     34:55 - 35:15 - The Velvet Underground - Jesus
     36:09 - 36:22 - Hans Zimmer - Bakara
-    36:23 - 36:40 - ? MP3 Sample
     37:20 - 37:25 - Roy Budd - IP CP4
     38:00 - 38:12 - Roy Budd - IP 1M1
     39:04 - 39:10 - Roy Budd - IP 1M1
@@ -9564,19 +9239,16 @@
     44:56 - 45:09 - Kings of Leon - I Want You
     45:16 - 45:26 - Roy Budd - Mr. Easy
     45:28 - 46:32 - Primal Scream - Zombie Man (Instrumental)
-    46:33 - 46:43 - ? MP3 Sample
     46:46 - 47:09 - Pink Floyd - The Great Gig in the Sky
     47:19 - 47:38 - The Rolling Stones - Monkey Man
     47:53 - 48:07 - Kings of Leon - I Want You
     48:16 - 48:31 - Pink Floyd - Welcome to the Machine
     48:31 - 48:50 - Roy Budd - On His Way
-    48:50 - 49:08 - ? MP3 Sample
     49:15 - 49:38 - Primal Scream - Tenement Kid
     50:14 - 50:32 - Roy Budd - IP TB2
     50:52 - 51:06 - Roy Budd - Mr. Easy
     51:39 - 52:10 - The Maccabees - Given to the Wild (Intro)
     52:21 - 52:38 - Shigeru Umebayashi - Battle in the Forest
-    52:47 - 53:04 - ? MP3 Sample
     53:05 - 53:16 - Cong Su - Lunch
     54:03 - 54:17 - Cong Su - Lunch
     55:14 - 55:42 - Ennio Morricone - For A Few Dollars More
@@ -9593,7 +9265,6 @@
 [21x07] March 16th, 2014 [Burma Special, Part 2]
 
     00:02 - 01:39 - Primal Scream - Dolls (Sweet Rock and Roll) (Instrumental)
-    02:00 - 02:17 - ? MP3 Sample
     02:17 - 02:26 - Shigeru Umebayashi - Battle in the Forest
     02:23 - 03:05 - Alexandre Desplat - The Commute
     03:19 - 03:39 - Philip Glass - Norbulinka
@@ -9607,15 +9278,11 @@
     09:44 - 10:28 - Kenji Eno - The Fear Theme (The Cinematic Orchestra's Re-interpretation)
     10:30 - 11:05 - Tan Dun - Warriors
     11:09 - 11:21 - Cong Su - Lunch
-    11:44 - 11:56 - ? MP3 Sample
     12:07 - 12:19 - City of Prague Philharmonic - The Last Samurai
     12:42 - 13:01 - Roy Budd - Sire Scouts Chinese
     13:47 - 13:57 - Alexandre Desplat - Beirut Taxi
-    14:16 - 14:19 - ? MP3 Sample
     14:19 - 14:31 - Roy Budd - IP 1M1
-    16:25 - 17:06 - ? MP3 Sample
     17:53 - 18:23 - The Jon Spencer Blues Explosion - Train #2
-    18:25 - 18:38 - ? MP3 Sample
     18:35 - 19:15 - City of Prague Philharmonic - The Last Samurai
     19:38 - 19:45 - Roy Budd - IP 1M1
     19:49 - 20:27 - Band of Skulls - Lies (Instrumental)
@@ -9633,7 +9300,6 @@
     27:28 - 27:39 - Cong Su - Lunch
     27:44 - 28:28 - Tan Dun - Warriors
     28:42 - 29:17 - City of Prague Philharmonic - The Last Samurai
-    30:21 - 31:03 - ? MP3 Sample
     31:03 - 31:30 - City of Prague Philharmonic - The Last Samurai
     31:34 - 32:16 - The Velvet Underground - Heroin
     32:16 - 32:48 - David Holmes - Paper Underwear
@@ -9662,11 +9328,8 @@
     52:33 - 53:01 - City of Prague Philharmonic - Climbing Navarone
     54:03 - 54:47 - Tan Dun - The Eternal Vow
     54:56 - 55:10 - City of Prague Philharmonic - The Guns of Navarone Suite
-    55:25 - 55:41 - ? MP3 Sample
-    56:33 - 56:59 - ? MP3 Sample
     57:13 - 58:13 - Ron Goodwin - The Chase to the Airfield
     58:16 - 58:46 - Alexandre Desplat - I'll Walk Around
-    58:50 - 59:57 - ? MP3 Sample
     59:54 - 60:30 - Ron Goodwin - Battle of Britain Theme: End Title
     61:09 - 61:57 - The Mike Curb Congregation - Burning Bridges
 ## Series 22
@@ -9676,13 +9339,11 @@
     01:09 - 01:39 - Brian Tyler - Rambo Main Title
     01:42 - 01:44 - Jeff Cardoni - Greed
     01:44 - 01:46 - Jeff Cardoni - The Chief
-    02:40 - 02:46 - ? MP3 Sample
     03:57 - 04:13 - Sheena Easton - For Your Eyes Only
     04:23 - 04:24 - Jeff Cardoni - Elvis Elvis Apartment
     04:24 - 04:27 - Jeff Cardoni - Greed
     06:33 - 08:05 - The Horrors - Chasing Shadows (Instrumental)
     08:05 - 08:43 - Tommi Eckart - Casino (Solid State Remix)
-    08:46 - 09:55 - ? MP3 Sample
     09:55 - 10:38 - Nine Inch Nails - Me, I'm Not
     10:49 - 10:59 - Thomas Newman - Power of Denial
     11:13 - 12:08 - Alex Heffes - Civil Disobedience
@@ -9696,7 +9357,6 @@
     20:42 - 21:03 - Basil Poledouris - The Dream
     21:03 - 21:48 - Sean Callery - Jack in the Limo
     21:51 - 22:17 - Marvin Gaye - Let's Get It On
-    22:17 - 22:42 - ? MP3 Sample
     23:36 - 24:14 - Thomas Newman - Choking the Bishop
     24:27 - 24:33 - Thomas Newman - Choking the Bishop
     24:49 - 25:02 - Thomas Newman - Choking the Bishop
@@ -9710,7 +9370,6 @@
     31:40 - 32:19 - Atli Örvarsson - Testudo
     32:43 - 33:16 - Atli Örvarsson - Testudo
     33:25 - 34:16 - Christopher Gordon & Iva Davies - The Galapagos
-    34:17 - 34:49 - ? MP3 Sample
     34:53 - 35:36 - Angelo Badalamenti - The Pink Room
     36:11 - 36:34 - Graeme Revell - Goldie's Dead
     36:34 - 36:52 - Forest Swords - Thor's Stone
@@ -9722,12 +9381,10 @@
     39:34 - 39:40 - Carter Burwell - Adaptation (Fatboy Slim Remix)
     39:44 - 40:04 - Fuck Buttons - Stalker
     40:14 - 40:27 - Carter Burwell - Adaptation (Fatboy Slim Remix)
-    40:47 - 40:56 - ? MP3 Sample
     41:12 - 41:26 - Carter Burwell - Adaptation (Fatboy Slim Remix)
     41:42 - 42:08 - Hookworms - Beginners
     42:24 - 42:38 - The Horrors - Chasing Shadows
     43:22 - 44:14 - Marc Streitenfeld - Frank Lucas
-    44:15 - 44:53 - ? MP3 Sample
     45:21 - 46:21 - The Horrors - So Now You Know
     47:21 - 48:00 - Hans Zimmer & James Newton Howard - Eptesicus
     48:03 - 48:19 - Robert Plant - Up On the Hollow Hill (Understanding Arthur)
@@ -9758,13 +9415,11 @@
     01:40 - 02:54 - Hookworms - On Leaving (Instrumental)
     02:54 - 03:41 - The Horrors - Sleepwalk (Instrumental)
     03:38 - 04:02 - Steven Price - Fire
-    04:10 - 04:14 - ? MP3 Sample
     04:14 - 04:44 - Mogwai - Remurdered
     04:44 - 05:04 - Thomas Newman - 2815 A.D.
     05:07 - 06:13 - Ramin Djawadi - Fireman
     06:13 - 07:03 - Ramin Djawadi - Driving with the Top Down
     07:52 - 08:55 - Steven Price - Parachute
-    09:53 - 10:09 - ? MP3 Sample
     10:16 - 10:23 - Ennio Morricone - Guarani
     10:45 - 11:01 - Atticus Ross - The Journey
     11:24 - 11:39 - Atticus Ross - The Journey
@@ -9794,9 +9449,7 @@
     29:24 - 29:43 - Sean Callery - Jack in the Limo
     30:25 - 30:39 - Hans Zimmer - Hunger
     30:41 - 31:10 - Hans Zimmer & James Newton Howard - Lasiurus
-    31:17 - 31:31 - ? MP3 Sample
     31:31 - 31:58 - Hans Zimmer - Another Brick in Hadrian's Wall
-    31:58 - 32:04 - ? MP3 Sample
     32:24 - 32:34 - Nathan Johnson - Closing Your Loop
     32:30 - 33:17 - Ilan Eshkeri - Penalty of Death
     34:06 - 34:23 - Graeme Revell - Bury the Hatchet
@@ -9806,11 +9459,9 @@
     36:07 - 36:31 - Brian Eno - Force Marker
     36:31 - 37:06 - Hans Zimmer - Marital Sabotage
     37:19 - 38:13 - Elliot Goldenthal - Entrada & Shootout
-    38:18 - 38:39 - ? MP3 Sample
     38:39 - 38:52 - Nathan Johnson - Closing Your Loop
     38:48 - 39:20 - Hans Zimmer - Woad to Ruin
     40:06 - 40:34 - Thomas Newman - Static
-    40:34 - 40:44 - ? MP3 Sample
     40:44 - 41:21 - Holy Fuck - Latin America
     41:21 - 41:57 - The Horrors - Chasing Shadows (Instrumental)
     43:39 - 43:53 - Graeme Revell - Goldie's Dead
@@ -9825,8 +9476,6 @@
     50:04 - 50:47 - Tyler Bates - It Was Me
     51:02 - 52:05 - Atticus Ross - The Convoy
     55:28 - 55:55 - Russell Emanuel & Dolphin Taylor - Audio Mist
-    55:55 - 57:28 - ? MP3 Sample
-    58:56 - 60:23 - ? MP3 Sample
     60:33 - 61:07 - Russell Emanuel & Dolphin Taylor - Audio Mist
     62:16 - 62:59 - Burt Bacharach - Not Goin' Home Anymore (Reprise)
 	
@@ -9916,13 +9565,11 @@
     13:07 - 14:32 - Ryan Amon - Zero Injuries Sustained
     14:33 - 15:10 - Steve Hulse - Nomads
     15:25 - 15:44 - Peter Best - Opening Titles
-    16:37 - 16:53 - ? MP3 Sample
 
     Australian Road Trip, Pt. 2:
     28:29 - 28:41 - Brian Tyler - Army of Two: The Devil's Cartel
     29:04 - 29:13 - Jeff Tymoschuk - The Tailwalk
     29:40 - 29:51 - Jeff Tymoschuk - The Tailwalk
-    30:05 - 30:21 - ? MP3 Sample
     30:29 - 30:50 - Jeff Tymoschuk - The Tailwalk
     31:27 - 32:53 - Kasabian - Stevie (Instrumental)
     32:52 - 33:05 - Adam Peters - Cartel Theme
@@ -9930,7 +9577,6 @@
     33:28 - 33:32 - Henry Jackman - The Causeway
     34:03 - 34:15 - AC/DC - Back in Black
     34:19 - 34:33 - Brian Tyler - Fearless Crew
-    34:37 - 34:40 - ? MP3 Sample
     34:40 - 35:19 - Midnight Oil - Beds Are Burning
     35:20 - 35:29 - Peter Best - Opening Titles
     36:07 - 36:16 - Nick Cave & Warren Ellis - Road to Banyon
@@ -9942,14 +9588,11 @@
     38:57 - 39:46 - Brian Tyler - Into Combat
     40:51 - 41:34 - Beady Eye - Flick of the Finger (Instrumental)
     41:32 - 42:01 - Nick Cave & Warren Ellis - Road to Banyon
-    42:02 - 42:17 - ? MP3 Sample
-    42:44 - 43:05 - ? MP3 Sample
     43:17 - 43:54 - Jeff Cardoni - The Real Story
     44:06 - 44:14 - Adam Peters - Cartel Theme
     44:28 - 45:04 - Ryan Amon - Kruger Suits Up
     45:31 - 45:51 - Christian Szczesniak - Dingos Breakfast
     45:51 - 46:07 - Jeff Cardoni - Backstory
-    47:28 - 47:39 - ? MP3 Sample
     48:27 - 49:18 - Noel Gallagher's High Flying Birds - AKA...What A Life! (U.N.K.L.E Rework Instrumental)
     49:18 - 49:53 - Brian Tyler - Look Alive
     50:33 - 51:15 - David Arnold & Michael Price - Major Sholto
@@ -9973,7 +9616,6 @@
     04:37 - 04:47 - The Sunshine Underground - In Your Arms
     05:47 - 05:53 - John Barry - A Man Alone
     06:04 - 06:18 - Primal Scream - Goodbye Johnny
-    06:20 - 06:25 - ? MP3 Sample
     07:50 - 08:31 - Brian Tyler - Landtrain
     08:33 - 09:17 - George Francis - Rage Racer
     09:33 - 09:49 - Gruff Rhys - Iolo
@@ -10003,9 +9645,7 @@
     Homemade Ambulance Challenge, Pt. 3:
     42:44 - 42:54 - Barry Gray - Deadly Mist and Mountain Chase
     43:57 - 45:00 - Barry Gray - Thunderbirds Main Titles
-    45:00 - 45:20 - ? MP3 Sample
     45:20 - 45:45 - Bee Gees - Stayin' Alive
-    46:10 - 46:18 - ? MP3 Sample
     46:23 - 47:05 - Henry Jackman - Countdown
     47:09 - 47:29 - Henry Jackman - Countdown
     47:29 - 47:55 - Atli Örvarsson - Vantage Point Main Title
@@ -10094,9 +9734,7 @@
     55:13 - 55:46 - John Powell - Bolt Transforms
     56:00 - 56:24 - Steve Jablonsky & Trevor Morris - Black Dawn
     56:24 - 57:18 - Ramin Djawadi - Don't Kill Innocent People
-    57:23 - 57:30 - ? MP3 Sample
     57:31 - 58:22 - Ramin Djawadi - I'll Take It From Here
-    58:25 - 58:28 - ? MP3 Sample
     58:52 - 59:29 - Steve Jablonsky - Objects Make Impact
     59:41 - 60:28 - Ramin Djawadi - Do What You Have To Do
 	 
@@ -10105,7 +9743,6 @@
     Porsche Cayman GTS vs. Chevrolet Corvette:
     01:13 - 01:24 - Kanye West - I'm In It
     01:24 - 01:37 - David Arnold & Michael Price - Mayfly Man
-    01:50 - 01:55 - ? MP3 Sample
     01:55 - 02:10 - Henry Jackman - Taking a Stand
     02:11 - 02:24 - Royal Blood - Out of the Black
     02:32 - 02:47 - Royal Blood - Out of the Black
@@ -10165,14 +9802,11 @@
 [22x06] March 1st, 2015
 
     Lexus RC F Review:
-    00:57 - 01:44 - ? MP3 Sample
     01:44 - 02:23 - The Prodigy - Nasty (Instrumental)
     02:23 - 03:09 - Mel Wesson - Spellcraft
     03:21 - 03:56 - Brian Tyler - Raiding the Palace
     03:56 - 04:26 - Depeche Mode - Jezebel
     04:26 - 04:50 - Harry Gregson-Williams - Bullet Tells the Truth
-    05:16 - 05:26 - ? MP3 Sample
-    05:34 - 05:47 - ? MP3 Sample
     05:55 - 06:17 - Steven Price - Tiangong
     06:39 - 06:49 - Mel Wesson - Shadowprey
     06:49 - 07:39 - The Prodigy - The Day is My Enemy (Instrumental)
@@ -10183,14 +9817,8 @@
     17:43 - 18:01 - Brian Tyler - Package Secured
     18:12 - 18:45 - Steve Jablonsky - Objects Make Impact
     18:48 - 19:01 - Quincy Jones - Britannia and Mr. Bridger, If You Please
-    19:01 - 19:40 - ? MP3 Sample
-    19:40 - 19:51 - ? MP3 Sample
-    20:36 - 21:29 - ? MP3 Sample
-    21:29 - 21:38 - ? MP3 Sample
     22:00 - 22:14 - Quincy Jones - Greensleeves and All That Jazz
-    22:40 - 22:50 - ? MP3 Sample
     23:14 - 23:28 - Tyler Bates - The Ballad of the Nova Corps.
-    24:50 - 25:00 - ? MP3 Sample
     26:31 - 27:14 - Boston - The Launch
     27:53 - 28:20 - Tyler Bates - The Ballad of the Nova Corps.
 
@@ -10201,31 +9829,20 @@
     42:15 - 42:26 - Emmylou Harris - Back in Baby's Arms
     42:26 - 42:52 - The Jon Spencer Blues Explosion - Money Rock'n'Roll
     43:00 - 44:23 - Stevie Ray Vaughan - Voodoo Child (Slight Return)
-    44:17 - 44:21 - ? MP3 Sample
     45:09 - 45:21 - Kenny Loggins & Jim Messina - Angry Eyes
-    45:44 - 45:48 - ? MP3 Sample
     46:41 - 47:01 - Boston - More Than a Feeling
     47:49 - 48:18 - B.B. King - The Thrill is Gone
     48:40 - 48:50 - Jeff Cardoni - College Kid
     49:39 - 50:03 - Aerosmith - Sweet Emotion
-    50:12 - 50:50 - ? MP3 Sample
     50:51 - 51:05 - Nicholas O'Toole - First Road Trip
     51:23 - 51:55 - Tyler Bates - Guardians United
     51:55 - 52:07 - Nicholas O'Toole - First Road Trip
     52:14 - 52:48 - Tyler Bates - The Kyln Escape
     53:05 - 53:25 - Tyler Bates - The Kyln Escape
     53:56 - 54:03 - Tyler Bates - The Final Battle Begins
-    54:03 - 54:39 - ? MP3 Sample
-    54:39 - 55:08 - ? MP3 Sample
-    55:08 - 55:36 - ? MP3 Sample
-    55:51 - 56:05 - ? MP3 Sample
-    56:30 - 56:45 - ? MP3 Sample
     56:47 - 56:48 - Tyler Bates - Guardians United
     56:48 - 57:03 - Tyler Bates - Black Tears
-    57:05 - 57:24 - ? MP3 Sample
-    57:36 - 57:40 - ? MP3 Sample
     58:00 - 59:03 - Tyler Bates - Guardians United
-    59:03 - 59:36 - ? MP3 Sample
 	
 [22x07] March 8th, 2015
 
@@ -10264,7 +9881,6 @@
 
     World Rallycross Racing:
     44:27 - 44:45 - Mark Mothersbaugh - Let's Put It All Back
-    44:54 - 44:59 - ? MP3 Sample
     44:59 - 45:25 - Steve Jablonsky & Tom Morello - Thug Fight
     45:35 - 46:00 - Kate Tempest - Lonely Daze (Instrumental)
     46:33 - 46:42 - Mark Pritchard - The Hologram
@@ -10275,63 +9891,34 @@
     51:36 - 52:20 - Steve Jablonsky - The Art of War
     52:50 - 53:03 - The Dust Brothers - Medula Oblongata
     53:27 - 53:38 - Odyssey - If You're Looking For A Way Out
-    53:38 - 55:31 - ? MP3 Sample
-    56:11 - 56:29 - ? MP3 Sample
-    56:39 - 56:56 - ? MP3 Sample
     57:01 - 57:15 - Mark Pritchard - The Hologram
-    57:40 - 58:11 - ? MP3 Sample
-    58:12 - 58:22 - ? MP3 Sample
-    58:23 - 58:51 - ? MP3 Sample
-    58:53 - 59:08 - ? MP3 Sample
-    59:08 - 59:12 - ? MP3 Sample
-    59:12 - 59:36 - ? MP3 Sample
-    59:36 - 60:15 - ? MP3 Sample
 	
 	 
 [22x08] June 28th, 2015 [The Final Clarkson, Hammond, & May Episode]
 
     Classic Car Lifestyle Challenge:
     01:41 - 02:00 - Charles Williams - Coronation Scot
-    02:17 - 02:29 - ? MP3 Sample
-    02:51 - 03:03 - ? MP3 Sample
     03:35 - 03:45 - Puccio Roelens - Caravan
     04:16 - 04:28 - Puccio Roelens - Caravan
     05:08 - 06:00 - Small Faces - Tin Soldier
     06:00 - 06:23 - David Holmes - The Drive Rossbourgh
-    06:52 - 06:58 - ? MP3 Sample
     07:19 - 07:57 - The Rolling Stones - Monkey Man
     08:13 - 08:20 - David Holmes - Sniffing Around
     08:48 - 09:26 - Supergrass - Tales of Endurance (Parts 4, 5 & 6)
-    09:47 - 10:15 - ? MP3 Sample
     10:16 - 10:33 - Manic Street Preachers - Rewind the Film
-    10:36 - 10:44 - ? MP3 Sample
     10:52 - 11:07 - Andy Williams - It's the Most Wonderful Time of the Year
-    11:36 - 11:38 - ? MP3 Sample
-    11:38 - 11:52 - ? MP3 Sample
     13:18 - 14:18 - Mud - Dyna-Mite
     14:57 - 15:20 - T.Rex - Children of the Revolution
-    15:29 - 16:01 - ? MP3 Sample
-    16:01 - 16:31 - ? MP3 Sample
     16:30 - 17:17 - Deadly Avenger - Jacob's Ladder
-    17:56 - 18:06 - ? MP3 Sample
     18:12 - 19:14 - Coldcut - Everything is Under Control (Instrumental)
     19:29 - 19:47 - Quarashi - Weirdo
     20:13 - 20:24 - David Holmes - Earthquake
-    21:01 - 21:12 - ? MP3 Sample
-    21:37 - 21:44 - ? MP3 Sample
-    22:01 - 22:08 - ? MP3 Sample
     22:28 - 22:39 - T.Rex - Jeepster
     22:52 - 23:04 - The Teardrop Explodes - Sleeping Gas (Single Version)
     23:38 - 24:01 - Malachai - The Love (Instrumental)
     24:06 - 24:28 - Blind Faith - Had to Cry Today
-    25:33 - 25:39 - ? MP3 Sample
-    26:07 - 26:22 - ? MP3 Sample
-    26:38 - 27:03 - ? MP3 Sample
-    27:03 - 27:29 - ? MP3 Sample
     27:47 - 28:05 - Lorne Balfe - Surveillance
     28:19 - 28:47 - The Les Reed Strings - Theme From Dr. Finlay's Case Book (March From "A Little Suite")
-    29:04 - 29:20 - ? MP3 Sample
-    30:15 - 30:20 - ? MP3 Sample
     31:19 - 31:33 - Ron Goodwin & His Orchestra - 633 Squadron
 
     Leisure Lifestyle Challenge:
@@ -10340,62 +9927,10 @@
     35:24 - 36:30 - The Charlatans - Jesus Hairdo
     36:39 - 37:20 - Trentemøller - Come Undone (Toydrum Remix)
     37:20 - 37:54 - Jamie T - Rabbit Hole (Instrumental)
-    38:07 - 38:20 - ? MP3 Sample
-    38:20 - 38:36 - ? MP3 Sample
-    38:55 - 39:05 - ? MP3 Sample
-    39:22 - 39:29 - ? MP3 Sample
-    39:49 - 40:21 - ? MP3 Sample
-    40:21 - 41:16 - ? MP3 Sample
-    41:28 - 42:37 - ? MP3 Sample
-    42:40 - 43:03 - ? MP3 Sample
-    43:10 - 43:54 - ? MP3 Sample
-    43:55 - 44:03 - ? MP3 Sample
-    44:03 - 44:19 - ? MP3 Sample
-    44:22 - 44:49 - ? MP3 Sample
-    45:04 - 45:32 - ? MP3 Sample
-    45:45 - 45:52 - ? MP3 Sample
-    45:52 - 46:10 - ? MP3 Sample
-    46:28 - 46:39 - ? MP3 Sample
-    46:49 - 46:57 - ? MP3 Sample
-    47:01 - 47:28 - ? MP3 Sample
-    48:02 - 48:14 - ? MP3 Sample
-    48:11 - 48:28 - ? MP3 Sample
     48:46 - 49:07 - Jan Hammer - Miami Vice Theme
-    49:42 - 49:58 - ? MP3 Sample
     51:15 - 52:19 - Primal Scream - Struttin'
-    52:24 - 52:42 - ? MP3 Sample
-    54:06 - 54:17 - ? MP3 Sample
     54:17 - 54:36 - Brian Tyler - The Break In
     54:57 - 55:06 - Brian Tyler - The Break In
-    55:24 - 55:34 - ? MP3 Sample
-    55:51 - 56:03 - ? MP3 Sample
-    56:26 - 56:36 - ? MP3 Sample
-    56:48 - 57:03 - ? MP3 Sample
-    57:11 - 57:26 - ? MP3 Sample
-    58:07 - 59:22 - ? MP3 Sample
-    59:24 - 59:39 - ? MP3 Sample
-    59:39 - 60:05 - ? MP3 Sample
-    60:05 - 60:20 - ? MP3 Sample
-    60:43 - 61:05 - ? MP3 Sample
-    61:05 - 61:28 - ? MP3 Sample
-    61:29 - 61:39 - ? MP3 Sample
-    61:39 - 62:08 - ? MP3 Sample
-    62:08 - 62:31 - ? MP3 Sample
-    62:31 - 62:38 - ? MP3 Sample
-    62:40 - 62:50 - ? MP3 Sample
-    62:50 - 63:04 - ? MP3 Sample
-    63:06 - 63:30 - ? MP3 Sample
-    63:43 - 63:49 - ? MP3 Sample
     63:49 - 64:06 - Ron Goodwin & His Orchestra - Frenzy (Film Theme)
-    64:21 - 64:47 - ? MP3 Sample
-    64:55 - 65:04 - ? MP3 Sample
-    65:18 - 65:35 - ? MP3 Sample
     65:35 - 66:04 - John Williams - Escape From The City
-    66:04 - 66:16 - ? MP3 Sample
-    66:37 - 67:11 - ? MP3 Sample
-    67:16 - 67:25 - ? MP3 Sample
-    67:25 - 67:38 - ? MP3 Sample
-    67:38 - 67:45 - ? MP3 Sample
-    67:53 - 68:19 - ? MP3 Sample
-    68:32 - 68:50 - ? MP3 Sample
     69:02 - 69:57 - ? MP3 Sample

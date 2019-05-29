@@ -3,8 +3,6 @@
 [01x01] October 20th, 2002
 
     00:00 - 00:35 - Massive Attack - Angel
-    23:21 - 23:43 ?
-    31:53 - 31:56 ?
 	
 	
 	
@@ -24,13 +22,7 @@
 
 [01x05] November 17th, 2002
 
-    BBC Prime Version:
-    01:02 - 01:40 ?
-
-    UK Horizons Version (JW):
     01:46 - 02:22 - Rammstein - Ich Will
-    21:46 - 22:11 ?
-    33:00 - 00:00 ?
 
 [01x06] November 24th, 2002
 
@@ -41,16 +33,12 @@
 
 [01x07] December 1st, 2002
 
-    01:55 - 00:00 ?
     19:52 - 20:39 - New Order - 60 Miles an Hour
     26:56 - 29:41 - The Chemical Brothers - Got Glint
     29:43 - 30:17 - The Chemical Brothers - Hey Boy, Hey Girl
 
 [01x08] December 8th, 2002
 
-    02:20 - 00:00 ? (Audi RS6)
-    22:28 - 00:00 ? (Citroen C3)
-    47:15 - 47:40 ?
 
 [01x09] December 22nd, 2002
 
@@ -67,6 +55,5 @@
 
     05:32 - 06:06 - Elgar - Nimrod
     06:35 - 07:00 - Elgar - Nimrod
-    35:35 - 00:00 ?
     43:38 - 44:24 - The Cardigans - My Favorite Game
 	

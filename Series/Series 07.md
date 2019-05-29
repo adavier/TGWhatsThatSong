@@ -100,7 +100,6 @@
     38:09 - 38:33 - Hoxton Whores vs. Cream - Sunshine of Your Love
     38:53 - 39:04 - Hoxton Whores vs. Cream - Sunshine of Your Love
     39:12 - 39:27 - Dizzee Rascal - Stand Up Tall
-    39:32 - 39:56 ? ERROR: You do not have Flash installed.
     40:27 - 42:13 - Fatboy Slim - Ya Mama
 
     Audi RS4 vs. Climbers:
@@ -168,7 +167,6 @@
     50:25 - 50:46 - Nav Katze - Change (Aphex Twin Mix #2)
     50:56 - 51:25 - Matt Monro - On Days Like These
     51:26 - 52:01 - Jean-Claud Petit - Jean de Florette
-    52:02 - 52:06 ? ERROR: You do not have Flash installed.
     52:07 - 53:48 - Photek - Ren 2
     55:00 - 56:29 - Brian Eno - An Ending (Ascent)
     56:32 - 58:18 - Amorphous Androgynous - The World is Full of Plankton
@@ -282,7 +280,6 @@
     22:59 - 23:43 - Passengers - Theme from Let's Go Native
     23:43 - 23:49 - Rodgers & Hammerstein - Prelude and the Sound of Music
     24:41 - 24:56 - Tony Hatch - The Champions
-    25:03 - 25:15 - ? ERROR: You do not have Flash installed.
     25:52 - 26:01 - Tony Hatch - The Champions
     26:01 - 26:05 - Dimitri from Paris - Prologue
     26:59 - 27:19 - Passengers - Theme from Let's Go Native
@@ -361,7 +358,6 @@
     31:18 - 31:37 - Death in Vegas - Dirge
     31:38 - 32:03 - Primal Scream - Movin' On Up
     32:03 - 32:10 - Peace Orchestra - Who Am I?
-    32:10 - 32:16 - ? ERROR: You do not have Flash installed.
     32:29 - 32:48 - Amon Tobin - Ruthless
     32:48 - 34:59 - Amon Tobin - The Lighthouse
 

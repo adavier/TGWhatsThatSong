@@ -36,7 +36,6 @@
     25:00 - 25:06 - Ramin Djawadi - Force Multiplier
     25:06 - 25:50 - David Holmes - Against All Odds
     25:53 - 26:04 - Barry Gray - The Trip
-    26:10 - 26:16 - ? MP3 Sample
     26:16 - 27:21 - Lalo Schifrin - Main Title from ‘Dirty Harry’
     27:23 - 27:35 - Barry Gray - The Trip
     28:29 - 28:39 - Orchester Pete Jacques - Fata Morgana
@@ -68,7 +67,6 @@
     56:21 - 56:41 - Brian Tyler - Party Crashers
     56:41 - 56:50 - Brian Tyler - Bad Way to Live
     56:50 - 57:24 - Ramin Djawadi - Gulmira
-    58:09 - 58:15 - ? MP3 Sample
     58:18 - 58:34 - Ramin Djawadi - Kit Up
     58:40 - 59:25 - Brian Tyler - Outnumbered
 	 
@@ -82,7 +80,6 @@
     05:17 - 05:36 - Hans Zimmer - Buggy Chase
     05:36 - 06:22 - Eric Serra - Run, Shoot, and Jump
     06:22 - 06:38 - Brian Tyler - Mad Skills
-    06:39 - 07:01 - ? MP3 Sample
     07:05 - 07:47 - John Debney - Monaco Drive
     07:57 - 08:26 - Deadly Avenger - Punisher
     08:26 - 08:44 - Danny Elfman - First Confrontation
@@ -104,13 +101,9 @@
 
     British Military Vehicles:
     26:41 - 27:19 - Ramin Djawadi - Buzz in the Air
-    27:19 - 27:50 - ? MP3 Sample
     28:07 - 28:33 - Thomas Newman - No Standard Solution
-    28:44 - 29:22 - ? MP3 Sample
     29:22 - 30:29 - Burkhard Dallwitz - Escape
     30:29 - 30:47 - Nathan Johnson - Following the Loop
-    30:47 - 31:06 - ? MP3 Sample
-    31:07 - 31:23 - ? MP3 Sample
     31:34 - 32:28 - Ramin Djawadi - Restless Natives
     32:50 - 34:02 - Ramin Djawadi - H.A.H.O.
     34:54 - 35:26 - Ramin Djawadi - Old Friend, New Foe
@@ -140,19 +133,13 @@
 [21x03] February 16th, 2014
 
     Zenvo ST1 Review:
-    01:09 - 01:23 - ? MP3 Sample
-    01:24 - 01:31 - ? MP3 Sample
     01:31 - 02:08 - Brian Tyler - Invasion of Asgard
-    02:08 - 02:11 - ? MP3 Sample
     02:12 - 02:42 - Brian Tyler - Invasion of Asgard
     02:42 - 02:58 - Steven Price - Fire
     02:58 - 03:17 - Trentemøller - The Forest
     03:43 - 04:01 - Steven Price - Don't Let Go
-    04:01 - 04:07 - ? MP3 Sample
     04:07 - 04:17 - Trentemøller - Take Me Into Your Skin
-    04:22 - 04:39 - ? MP3 Sample
     04:39 - 04:57 - Trentemøller - Take Me Into Your Skin
-    04:59 - 05:28 - ? MP3 Sample
     05:28 - 05:55 - M83 - My Tears Are Becoming a Sea
 
     The Stig's Lap:
@@ -162,14 +149,12 @@
     Small Car Crimean Challenge, Pt. 1
     16:09 - 16:49 - Clint Mansell - First Snow
     17:13 - 17:20 - DJ Shadow - Dark Days
-    17:43 - 17:48 - ? MP3 Sample
     18:10 - 18:23 - A Hawk And A Hacksaw & The Hun Hangár Ensemble - Romanian Hora and Bulgar (Live)
     19:23 - 19:32 - Eric Serra - The Goldeneye Overture
     19:50 - 20:48 - Deadly Avenger - Punisher
     20:48 - 21:46 - Public Service Broadcasting - Spitfire
     21:46 - 22:16 - James Horner - The River Crossing to Stalingrad
     22:16 - 22:46 - James Horner - Koulikov
-    22:46 - 23:17 - ? MP3 Sample
     23:18 - 23:19 - C2C - Arcades
     23:19 - 23:59 - Pixies - Blue Eyed Hexe (Instrumental)
     24:06 - 24:59 - Mogwai - Hungry Face
@@ -199,10 +184,8 @@
     54:48 - 56:07 - Baltic Fleet - Midnight Train
     56:29 - 57:07 - Clint Mansell - My Name Is Frank Sidebottom
     57:26 - 57:49 - Ramin Djawadi - The Raid
-    57:49 - 58:29 - ? MP3 Sample
     58:29 - 59:00 - Steven Price - Shenzou
     59:00 - 59:04 - Steven Price - ISS
-    59:04 - 59:37 - ? MP3 Sample
     59:37 - 60:50 - Boards of Canada - Gemini
 	 
 [21x04] February 23rd, 2014
@@ -283,21 +266,17 @@
     27:04 - 27:56 - David Holmes - Benedict Returns
     28:02 - 28:20 - The Dust Brothers - Corporate World
     28:21 - 29:11 - Charles Casey & Steven Hellier - Freak Chic
-    30:00 - 30:09 - ? MP3 Sample
     30:49 - 31:03 - Cliff Martinez - Bride of Deluxe
     32:01 - 32:38 - Steve Isles - The Councillor
     32:51 - 33:39 - C2C - Le Banquet
     34:03 - 34:34 - David Holmes - Kensington Chump
     34:39 - 34:50 - James Newton Howard - Back to the Unit
-    35:16 - 35:29 - ? MP3 Sample
     36:27 - 37:04 - John Lennon - Imagine
-    38:08 - 38:22 - ? MP3 Sample
     38:22 - 38:49 - Cliff Martinez - Bride of Deluxe
 
     Porsche 918 Spyder Test Drive:
     50:27 - 50:46 - Hans Zimmer & James Newton Howard - Nycteris
     50:55 - 51:08 - The Invisible - What Happened (Instrumental)
-    51:08 - 51:11 - ? MP3 Sample
     51:36 - 52:01 - David Arnold & Michael Price - God Rest His Soul
     52:04 - 53:06 - David Arnold & Michael Price - God Rest His Soul
     53:08 - 53:17 - Hans Zimmer & James Newton Howard - Myotis
@@ -316,7 +295,6 @@
     02:01 - 02:08 - Shigeru Umebayashi - Beauty Song
     02:24 - 02:37 - Malachai - I Deserve To No (Instrumental)
     03:52 - 04:09 - Jefferson Airplane - White Rabbit
-    04:52 - 05:03 - ? MP3 Sample
     06:08 - 06:23 - Mitch Miller - March from the River Kwai
     06:23 - 08:22 - Kings of Leon - Crawl
     08:26 - 08:38 - Roy Budd - IP TB2
@@ -355,7 +333,6 @@
     34:11 - 34:55 - Creedence Clearwater Revival - Fortunate Son
     34:55 - 35:15 - The Velvet Underground - Jesus
     36:09 - 36:22 - Hans Zimmer - Bakara
-    36:23 - 36:40 - ? MP3 Sample
     37:20 - 37:25 - Roy Budd - IP CP4
     38:00 - 38:12 - Roy Budd - IP 1M1
     39:04 - 39:10 - Roy Budd - IP 1M1
@@ -369,19 +346,16 @@
     44:56 - 45:09 - Kings of Leon - I Want You
     45:16 - 45:26 - Roy Budd - Mr. Easy
     45:28 - 46:32 - Primal Scream - Zombie Man (Instrumental)
-    46:33 - 46:43 - ? MP3 Sample
     46:46 - 47:09 - Pink Floyd - The Great Gig in the Sky
     47:19 - 47:38 - The Rolling Stones - Monkey Man
     47:53 - 48:07 - Kings of Leon - I Want You
     48:16 - 48:31 - Pink Floyd - Welcome to the Machine
     48:31 - 48:50 - Roy Budd - On His Way
-    48:50 - 49:08 - ? MP3 Sample
     49:15 - 49:38 - Primal Scream - Tenement Kid
     50:14 - 50:32 - Roy Budd - IP TB2
     50:52 - 51:06 - Roy Budd - Mr. Easy
     51:39 - 52:10 - The Maccabees - Given to the Wild (Intro)
     52:21 - 52:38 - Shigeru Umebayashi - Battle in the Forest
-    52:47 - 53:04 - ? MP3 Sample
     53:05 - 53:16 - Cong Su - Lunch
     54:03 - 54:17 - Cong Su - Lunch
     55:14 - 55:42 - Ennio Morricone - For A Few Dollars More
@@ -398,7 +372,6 @@
 [21x07] March 16th, 2014 [Burma Special, Part 2]
 
     00:02 - 01:39 - Primal Scream - Dolls (Sweet Rock and Roll) (Instrumental)
-    02:00 - 02:17 - ? MP3 Sample
     02:17 - 02:26 - Shigeru Umebayashi - Battle in the Forest
     02:23 - 03:05 - Alexandre Desplat - The Commute
     03:19 - 03:39 - Philip Glass - Norbulinka
@@ -412,15 +385,11 @@
     09:44 - 10:28 - Kenji Eno - The Fear Theme (The Cinematic Orchestra's Re-interpretation)
     10:30 - 11:05 - Tan Dun - Warriors
     11:09 - 11:21 - Cong Su - Lunch
-    11:44 - 11:56 - ? MP3 Sample
     12:07 - 12:19 - City of Prague Philharmonic - The Last Samurai
     12:42 - 13:01 - Roy Budd - Sire Scouts Chinese
     13:47 - 13:57 - Alexandre Desplat - Beirut Taxi
-    14:16 - 14:19 - ? MP3 Sample
     14:19 - 14:31 - Roy Budd - IP 1M1
-    16:25 - 17:06 - ? MP3 Sample
     17:53 - 18:23 - The Jon Spencer Blues Explosion - Train #2
-    18:25 - 18:38 - ? MP3 Sample
     18:35 - 19:15 - City of Prague Philharmonic - The Last Samurai
     19:38 - 19:45 - Roy Budd - IP 1M1
     19:49 - 20:27 - Band of Skulls - Lies (Instrumental)
@@ -438,7 +407,6 @@
     27:28 - 27:39 - Cong Su - Lunch
     27:44 - 28:28 - Tan Dun - Warriors
     28:42 - 29:17 - City of Prague Philharmonic - The Last Samurai
-    30:21 - 31:03 - ? MP3 Sample
     31:03 - 31:30 - City of Prague Philharmonic - The Last Samurai
     31:34 - 32:16 - The Velvet Underground - Heroin
     32:16 - 32:48 - David Holmes - Paper Underwear
@@ -467,10 +435,7 @@
     52:33 - 53:01 - City of Prague Philharmonic - Climbing Navarone
     54:03 - 54:47 - Tan Dun - The Eternal Vow
     54:56 - 55:10 - City of Prague Philharmonic - The Guns of Navarone Suite
-    55:25 - 55:41 - ? MP3 Sample
-    56:33 - 56:59 - ? MP3 Sample
     57:13 - 58:13 - Ron Goodwin - The Chase to the Airfield
     58:16 - 58:46 - Alexandre Desplat - I'll Walk Around
-    58:50 - 59:57 - ? MP3 Sample
     59:54 - 60:30 - Ron Goodwin - Battle of Britain Theme: End Title
     61:09 - 61:57 - The Mike Curb Congregation - Burning Bridges
