@@ -39,7 +39,6 @@
     32:35 - 33:20 - Jon Hopkins - Wire
     33:33 - 34:02 - The Dust Brothers - Medulla Oblongata
     34:53 - 35:08 - Christopher Gordon - The Battle
-    35:09 - 36:10 - ?  
 
     Road Trip Across Italy, Pt. 3:
     48:53 - 50:00 - Kasabian - Stay Away From The Brown Acid (Pt. 1)
@@ -57,17 +56,13 @@
 [18x02] February 5th, 2012
 
     Nascar Retrospective & Race Day:
-    01:06 - 01:12 - ?  
     01:12 - 01:34 - Ramin Djawadi - Fireman
     01:34 - 01:52 - Cat's Eyes - I Knew It Was Over (Instrumental)
     02:11 - 02:49 - The Shining - Hey You
-    02:55 - 03:19 - ?  
     03:25 - 03:48 - Justice - Civilization
     04:46 - 05:26 - Danger Mouse & Daniele Luppi - Theme of "Rome"
     05:34 - 06:29 - Harry Gregson-Williams - Dazzle Me
     06:35 - 07:26 - Arctic Monkeys - Brick by Brick (Instrumental)
-    08:11 - 08:26 - ?  
-    08:48 - 09:56 - ?  
     09:56 - 10:09 - Ramin Djawadi - Fireman
     10:27 - 11:09 - Trey Parker - Montage
     11:26 - 11:47 - Symmetry - Blood Sport
@@ -93,13 +88,10 @@
     42:47 - 43:29 - Brian Eno - Passing Over
     43:31 - 44:29 - DJ Shadow - I Gotta Rokk
     44:38 - 44:48 - DJ Shadow - I Gotta Rokk
-    44:48 - 45:04 - ?  
     45:04 - 45:29 - The Chemical Brothers - The Sandman
-    45:30 - 45:59 - ?  
     46:04 - 46:21 - White Lies - Is Love (Instrumental)
     47:00 - 47:38 - Lalo Schifrin - The Human Fly
     48:35 - 49:08 - White Lies - Turn the Bells
-    49:32 - 50:17 - ?  
     50:44 - 50:56 - (same as above)
     51:08 - 51:13 - Hans Zimmer - Hero
     51:13 - 51:26 - Battles - Leyendecker
@@ -118,7 +110,6 @@
     57:39 - 57:58 - Massive Attack - I Am Home
     57:59 - 58:25 - Duran Duran - All You Need Is Now
     58:26 - 59:18 - Lamb - Scratch Bass
-    59:20 - 59:58 - ?  
     60:02 - 60:13 - Lalo Schifrin - Broken Mirrors
     60:53 - 60:57 - Lalo Schifrin - Broken Mirrors
 	 
@@ -137,7 +128,6 @@
     05:15 - 06:30 - The Maccabees - Pelican (Instrumental)
     06:30 - 06:40 - Andreya Triana - Lost Where I Belong (Munk 777 Remix)
     06:40 - 07:01 - Hans Zimmer - The Kraken
-    07:14 - 07:49 - ?  
     08:41 - 09:22 - The Black Keys - Lonely Boy (Instrumental)
 
     'The Stig' Lap:
@@ -151,7 +141,6 @@
     26:09 - 26:36 - Beastie Boys - 14th St. Break
     27:04 - 27:19 - Wilton Felder - Theme from Bullitt
     28:13 - 28:23 - Arctic Monkeys - Reckless Serenade (Instrumental)
-    28:37 - 28:50 - ?  
 
     'The Sweeney' Car Chase, Pt. 2:
     41:44 - 41:58 - Primal Scream - Jailbird (Sweeney 2 Mix)
@@ -183,7 +172,6 @@
     18:10 - 18:33 - The Chemical Brothers - Bahnhof Rumble
     18:30 - 20:24 - Massive Attack - One Thought at a Time
     20:58 - 21:14 - Thomas Newman - Ghost Station
-    21:25 - 21:28 - ?  
     21:25 - 21:45 - Ilan Eshkeri - Yvaine
     21:45 - 21:51 - Harry Gregson-Williams & David Buckley - Nuns With Guns
     21:51 - 22:33 - Harry Gregson-Williams & David Buckley - The Wreath
@@ -191,19 +179,15 @@
     23:22 - 23:43 - Massive Attack - Paradise Circus
     23:43 - 24:00 - Clint Mansell - Meltdown (Winter)
     24:18 - 24:31 - Kasabian - Let's Roll Just Like We Used To
-    24:33 - 24:49 - ?  
     24:58 - 25:42 - The Chemical Brothers - Hanna vs Marissa
     25:42 - 25:48 - The Dust Brothers - Medulla Oblongata
     25:48 - 26:53 - Craig Armstrong - Opening from 'Elizabeth: The Golden Age'
     27:18 - 27:34 - ABBA - Super Trouper
     27:41 - 27:57 - U.N.K.L.E - Ablivion (Instrumental)
-    28:22 - 28:44 - ?  
     28:59 - 29:44 - The Chemical Brothers - Car Chase (Arp Worship)
     29:56 - 30:48 - Dario Marianelli - Half Killed
 
     Off-Road Scooter Challenge:
-    43:08 - 43:20 - ?  
-    45:10 - 45:27 - ?  
     46:50 - 47:23 - The Beat - Mirror in the Bathroom
     49:22 - 49:52 - Kasabian - Man of Simple Pleasures (Instrumental)
     50:14 - 50:24 - Blur - On The Way To The Club
@@ -217,28 +201,18 @@
     54:00 - 54:41 - Thomas Newman - Full Chemical Gear
     54:50 - 55:04 - Lisa Gerrard & Pieter Bourke - The Subordinate
     55:32 - 56:02 - Corner Stone Cues - Black Widow
-    56:19 - 56:32 - ?  
     56:40 - 56:50 - Lisa Gerrard & Pieter Bourke - The Subordinate
     56:59 - 57:12 - Lisa Gerrard & Pieter Bourke - The Subordinate
     57:36 - 58:16 - Alex Heffes - This is What We Live For
     58:24 - 58:38 - Roy Budd & Jack Fishman - The Plant
     58:53 - 59:40 - Harry Gregson-Williams - You Can Save Her
-    59:40 - 59:49 - ?  
 	 
 [18x05] February 26th, 2012
 
     Škoda Fabia vs. Rocket Man Race:
-    01:00 - 01:20 - ?  
-    01:34 - 01:52 - ?  
-    02:28 - 02:33 - ?  
     03:02 - 03:46 - Bart Hendrickson - Monkey Trick
-    03:51 - 04:16 - ?  
-    04:18 - 04:25 - ?  
     04:25 - 05:10 - Jay Flood - Razor Cut
     05:10 - 05:30 - Henning Lohner & Uwe Boll - Dark Destiny
-    05:34 - 06:41 - ?  
-    06:43 - 07:46 - ?  
-    07:46 - 09:06 - ?  
 
     Maserati MC Stradale vs. Mercedes C63 Black:
     18:33 - 18:58 - Hybrid - Original Sin and Break My Soul
@@ -257,7 +231,6 @@
     23:51 - 24:08 - Danny Elfman - Main Titles from ‘Planet of the Apes’
     24:21 - 24:36 - Richard Anthony Jay - Milan
     25:05 - 25:14 - Brian Reitzell - Barrow Burns
-    25:30 - 26:06 - ?  
     26:06 - 26:26 - Elliot Goldenthal - Ill-Fated Plot
     26:35 - 27:12 - Harry Gregson-Williams - The Aftermath
 
@@ -271,7 +244,6 @@
     44:47 - 44:48 - Small Town Zeroes - Secrets
     44:48 - 44:56 - Alt-J - Fitzpleasure (bretonLABS Remix)
     45:08 - 45:34 - Elbow - Neat Little Rows (Instrumental)
-    47:05 - 47:08 - ?  
     47:20 - 48:05 - Doves - The Greatest Denier (Instrumental)
     48:33 - 49:06 - Doves - The Greatest Denier (Instrumental)
     49:37 - 50:00 - U.N.K.L.E - Nocturnal (Redux)
@@ -281,20 +253,16 @@
     53:04 - 53:35 - Malachai - Monsters
     54:01 - 54:22 - Amon Tobin - Deo
     54:30 - 54:39 - U.N.K.L.E - Black Mass
-    54:56 - 55:05 - ?  
-    55:23 - 55:41 - ?  
     55:56 - 56:50 - U.N.K.L.E - Nocturnal (Redux)
     56:50 - 58:00 - Howard Shore - Trans-Siberian Diary
 	 
 [18x06] March 4th, 2012
 
     Track Day Car Tests, Pt. 1:
-    01:02 - 01:08 - ?  
     01:08 - 01:28 - Malachai - Anne
     01:52 - 02:13 - Justice - Horsepower
     03:05 - 03:15 - John Ottman - Miami Heist
     05:03 - 05:21 - Audioslave - Exploder
-    05:36 - 06:00 - ?  
     06:49 - 07:08 - Clinic - The Witch
     07:30 - 07:40 - Nathaniel Mechaly - Escape from St. Clair
     07:56 - 08:21 - Nathaniel Mechaly - Escape from St. Clair
@@ -313,7 +281,6 @@
     Spitfire Bentley vs. V12 BMW Brutus:
     26:53 - 27:21 - Ron Goodwin - Defeat
     27:40 - 28:02 - Elliot Goldenthal - Victorius Titus
-    28:22 - 28:30 - ?  
     29:20 - 30:40 - John Williams - The Intersection Scene
     30:40 - 31:08 - Hans Zimmer & James Newton Howard - Harvey Two-Face
     31:20 - 31:38 - Ron Goodwin - Defeat
@@ -345,7 +312,6 @@
     01:40 - 02:00 - Russian Circles - Atackla
     02:00 - 02:46 - Massive Attack - Collar Stays On
     02:51 - 03:27 - Band of Skulls - You're Not Pretty But You Got It Goin' On (Instrumental)
-    03:32 - 04:00 - ?  
     04:00 - 04:45 - The Chemical Brothers - Container Park
     04:45 - 05:24 - Mychael Danna & Jeff Danna - Beachum
     05:24 - 06:17 - Doves - The Cedar Room
@@ -364,8 +330,6 @@
     41:22 - 41:31 - Roy Budd - The Wild Geese
     43:11 - 43:31 - Don Harper - World of Sport Theme
     44:05 - 44:11 - John Ottman - Miami Heist
-    45:15 - 45:23 - ?  
-    45:29 - 45:32 - ?  
     45:32 - 46:18 - Kasabian - Julie & the Moth Man
     46:47 - 46:56 - Lalo Schifrin - Bamboo Bird Cage
     47:11 - 47:45 - Primal Scream - Shoot Speed/Kill Light
@@ -423,7 +387,6 @@
     22:23 - 22:44 - Martin Tillman & Tom Vedvik - Foreverland
     23:31 - 23:56 - Prague Philharmonic Orchestra - Slow Boat from China
     23:56 - 24:13 - Prague Philharmonic Orchestra - The Man with the Golden Gun
-    24:19 - 24:29 - ?  
     24:45 - 25:01 - Craig Armstrong - Niente
     25:01 - 25:10 - U.N.K.L.E – Not a Sound
     25:33 - 26:20 - U.N.K.L.E – Ever Rest (Instrumental)
@@ -453,10 +416,7 @@
     48:21 - 48:39 - David Arnold - Nothing Sinister
     48:46 - 49:23 - David Arnold - Unauthorised Access
     49:30 - 49:51 - David Arnold - The End of an Aston Martin
-    49:54 - 50:19 - ?  
     50:48 - 51:02 - Thomas Newman - Rain Hammers
-    51:02 - 51:20 - ?  
-    51:31 - 51:55 - ?  
     52:15 - 52:33 - Lalo Schifrin - City Hall
     54:56 - 55:07 - Thomas Newman - Pink Mist
     56:39 - 57:02 - Abel Korzeniowski - Abdication

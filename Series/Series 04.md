@@ -71,7 +71,6 @@
     48:44 - 48:52 - Paul Van Dyk - Crush
     48:53 - 49:02 - Starsailor - Four to the Floor
     51:00 - 52:05 - Melissa Auf Der Maur - Followed the Waves
-    52:27 - 52:31 - ?
     52:39 - 52:44 - (same song as 52:27 - 52:31)
     54:07 - 54:59 - Supergrass - Richard III
     55:40 - 56:05 - Starsailor - Four to the Floor

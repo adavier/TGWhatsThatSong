@@ -93,7 +93,6 @@
     01:59 - 02:25 - M83 - Let Men Burn Stars
     02:25 - 03:47 - The Prodigy - First Warning
     03:48 - 04:30 - David Bowie - Heart's Filthy Lesson (Radio Edit + Trent Reznor Alternative Mix)
-    04:30 - 04:42 - ?  
     04:42 - 05:44 - James Newton Howard - We're Going to Fly Now
     05:44 - 06:31 - John Powell - To the Roof
     06:31 - 06:53 - The Rakes - T-Bone
@@ -105,7 +104,6 @@
     19:36 - 20:44 - The Cinematic Orchestra - Ode to the Big Sea
     20:55 - 21:14 - Ian Honeyman - Evacuate the Area
     21:14 - 21:25 - Mark Ryder & Charles Olins - Pills
-    22:02 - 22:26 - ?  
     22:33 - 22:46 - Hugo Montenegro - The Man from U.N.C.L.E.
     22:46 - 22:57 - Roger Whittaker - Mexican Whistler
     22:57 - 23:15 - Rhythm Heritage - Theme from S.W.A.T.
@@ -122,23 +120,18 @@
     27:59 - 28:55 - The Big Pink - Jump Music
     28:57 - 29:24 - Thomas Newman - Zoomies
     29:24 - 30:22 - Bobby Tahouri - Echelon Conspiracy (Slam Orchestra Edit)
-    30:22 - 30:43 - ?  
 
     BBC Television Centre Race:
     42:53 - 43:17 - Guy Farley - Execution Prep
     43:30 - 43:51 - Wretch 32 - Forgiveness (Instrumental Edit)
     44:12 - 44:28 - Jono McCleery - Garden (Seiji Remix)
-    44:37 - 44:43 - ?  
     45:01 - 45:51 - Steve Jablonsky - The Shard
     45:51 - 46:10 - Steve Jablonsky - Optimus vs. Megatron
     46:10 - 46:48 - Kasabian - Switchblade Smiles (Instrumental)
     46:48 - 49:33 - London Music Works - Imagine the Fire
-    49:33 - 49:42 - ?  
-    50:09 - 50:14 - ?  
 
     Ferrari F12 Berlinetta Review:
     51:31 - 51:51 - Bat for Lashes - Moon and Moon (Instrumental)
-    52:13 - 52:37 - ?  
     52:37 - 53:22 - Trentemøller - Shades of Marble
     53:22 - 55:03 - Yeah Yeah Yeahs - Sacrilege (Instrumental)
     55:43 - 56:32 - Bat for Lashes - Winter Fields
@@ -172,19 +165,15 @@
 
     Three Budget Convertibles thru Spain, Pt. 2:
     23:43 - 24:14 - 2Pac feat. James Brown - Unchained
-    24:19 - 25:08 - ?  
     25:11 - 25:58 - David Holmes - Shot in the Face
     26:17 - 26:34 - David Holmes - Upstate NYC
     26:47 - 26:58 - David Holmes - Upstate NYC
     26:58 - 27:33 - Trevor Morris - Main Titles (Fire with Fire)
-    27:45 - 28:03 - ?  
-    28:05 - 28:35 - ?  
     28:40 - 28:48 - Ilan Eshkeri - Flying Vessel
     28:53 - 29:32 - Ilan Eshkeri - Zombie Fight
     29:35 - 29:50 - Ennio Morricone - Almost Dead
     29:54 - 30:43 - David Sardy - I Am the Police
     31:45 - 32:38 - David Sardy - I Am the Police
-    32:39 - 32:58 - ?  
     32:58 - 33:52 - David Sardy - I Am the Police
     33:55 - 34:02 - David Sardy - Alley Escape
     34:41 - 34:53 - David Sardy - Alley Escape
@@ -201,7 +190,6 @@
     52:41 - 53:16 - Brian Tyler - Wayne and Buck
     53:44 - 54:02 - Jeff Cardoni - Corrupt Cops
     54:06 - 54:51 - Duologue - Cut & Run (Instrumental)
-    54:55 - 55:22 - ?  
     55:20 - 55:30 - David Sardy - Follow Me into the House
     55:20 - 56:45 - Brian Tyler - Rising
     56:45 - 57:52 - Justice - Horsepower
@@ -211,19 +199,16 @@
 [20x04] July 21st, 2013
 
     Mercedes-Benz SLS AMG Supercars:
-    00:48 - 01:03 - ?  
     01:03 - 02:04 - Hybrid - Empire
     02:03 - 02:08 - Ian Honeyman - Lady Death
     02:08 - 03:00 - Hans Zimmer - Red Warrior
     03:00 - 03:14 - John Murphy - Safehouse/Ambush
     03:14 - 03:30 - Hans Zimmer - Red Warrior
-    03:30 - 03:49 - ?  
     03:49 - 03:59 - Ian Honeyman - Nothing from this Planet
     04:03 - 04:25 - Neosignal - Angst
     05:23 - 05:41 - Brian Tyler - Raiding the Palace
     05:50 - 06:14 - John Murphy - Hit Girl Drives Home
     06:10 - 06:44 - Marius Vries - Stabbing-Morphine
-    07:13 - 07:26 - ?  
     07:33 - 08:51 - Hybrid - Dogstar (Instrumental)
     08:51 - 09:39 - Deadmau5 - Superliminal
     09:42 - 10:13 - U.N.K.L.E - Trouble in Paradise (Variation on a Theme)
@@ -237,7 +222,6 @@
     18:29 - 18:34 - Roy Budd - Radio Music
     19:10 - 19:24 - Average White Band - School Boy Crush
     19:24 - 19:31 - The Dust Brothers - Corporate World
-    19:37 - 19:43 - ?  
     20:21 - 20:40 - Incredible Bongo Band - Apache
     21:07 - 21:31 - The Daniel Caine Orchestra - The A-Team
     21:31 - 21:59 - Danny Elfman - Final Confrontation (Terminator Salvation)
@@ -253,20 +237,14 @@
     44:36 - 45:12 - James Horner - The Launch
     45:12 - 45:34 - Edvard Grieg - Morning Mood
     46:00 - 46:09 - Ralph Vaughan Williams - The Lark Ascending
-    46:09 - 46:17 - ?  
     46:33 - 46:48 - Dirk Brossé - Champagne at 2:00 (Alt Cue)
-    46:52 - 47:02 - ?  
     47:47 - 48:01 - Bobby Tahouri - Echelon Conspiracy (Slam Orchestra Edit)
     48:14 - 48:35 - Dirk Brossé - Champagne at 2:00 (Alt Cue)
     48:38 - 48:54 - Dirk Brossé - Champagne at 2:00 (Alt Cue)
     49:21 - 50:34 - The Big Pink - Jump Music (Instrumental)
     50:36 - 50:45 - Dirk Brossé - Champagne at 2:00 (Alt Cue)
     51:28 - 51:52 - Pasquale Catalano - Train 2
-    51:59 - 52:06 - ?  
-    53:14 - 53:29 - ?  
     54:18 - 54:31 - Dirk Brossé - Champagne at 2:00 (Alt Cue)
-    55:13 - 55:29 - ?  
-    56:19 - 57:17 - ?  
     57:41 - 58:14 - Steve Jablonsky - The All Spark
 	 
 [20x05] July 28th, 2013
@@ -310,9 +288,6 @@
     45:23 - 45:33 - Beastie Boys - Electric Worm
     45:38 - 45:46 - Beastie Boys - Electric Worm
     45:46 - 46:21 - The Simon Park Orchestra - Up to Date
-    46:21 - 46:31 - ?  
-    46:39 - 46:54 - ?  
-    47:01 - 47:17 - ?  
     47:35 - 47:44 - Mark Ryder & Charles Olins - Opening Titles
     47:44 - 47:49 - Mark Ryder & Charles Olins - Body Armour
     47:49 - 48:05 - Mark Ryder & Charles Olins - Pills
@@ -326,8 +301,6 @@
     52:39 - 53:19 - Editors - Sugar
     53:19 - 53:46 - BT - The Fast and the Furious Theme
     53:46 - 54:55 - Baltic Fleet - Headless Heroes of the Acropolis
-    54:55 - 55:37 - ?  
-    55:39 - 55:45 - ?  
     55:45 - 56:10 - Bloc Party - Helicopter (Instrumental)
     56:10 - 57:18 - Lemon Jelly - '88 aka Come Down on Me
 	 
@@ -342,8 +315,6 @@
     04:13 - 05:04 - Editors - Two Hearted Spider (Instrumental)
     05:04 - 05:36 - Jeff Cardoni - The Apache
     05:40 - 05:49 - Jeff Cardoni - The Real Story
-    06:04 - 06:16 - ?  
-    06:16 - 06:30 - ?  
     06:30 - 07:02 - Passengers - Theme from Let's Go Native
     07:09 - 07:59 - Peace - Follow Baby (Instrumental)
     08:00 - 08:17 - Jeff Cardoni - Wrap Up
@@ -358,8 +329,6 @@
     21:29 - 21:58 - Peace - Lovesick (Instrumental)
     22:02 - 22:19 - Peace - Lovesick (Instrumental)
     22:19 - 22:44 - Marques Toliver - Try Your Best (Instrumental)
-    22:46 - 23:06 - ?  
-    23:17 - 23:27 - ?  
     23:53 - 24:11 - Alt-J - Fitzpleasure
     24:13 - 24:49 - Editors - A Ton of Love (Instrumental)
     24:52 - 25:23 - Laura Mvula - Green Garden (Instrumental)

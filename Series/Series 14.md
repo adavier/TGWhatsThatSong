@@ -477,7 +477,6 @@
     25:31 - 25:47 - Hugh Burns - Elegante (Guitar Mix)
     26:17 - 26:35 - Philip Glass - Morning Passages
     26:41 - 26:54 - Philip Glass - Morning Passages
-    27:54 - 27:56 - ? (same as above)
     27:56 - 28:42 - Ian Brown - Solarized
     29:09 - 29:41 - White Denim - Sync'n
 

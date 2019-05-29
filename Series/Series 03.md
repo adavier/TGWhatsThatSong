@@ -87,7 +87,6 @@
     27:42 - 28:18 - The Herbaliser - Road of Many Signs
     43:26 - 43:48 - M83 - America
     47:41 - 47:55 - Groove Armada - Edge Hill
-    54:22 - 54:35 - ?
     54:36 - 54:48 - Abba - Super Trouper
     54:54 - 55:17 - Junkie XL - Chilled
     57:05 - 57:21 - Junkie XL - Chilled
@@ -287,7 +286,6 @@
     41:38 - 42:00 - The Charlatans - The Only One I Know
     42:04 - 42:42 - Rob Dougan - I’m Not Driving Anymore (Instrumental)
     43:27 - 44:21 - The Who - Won't Get Fooled Again
-    44:23 - 44:36 - ?
     44:41 – 45:21 - Rob Dougan - Chateau
 
     ‘The Stig’ Lap:

@@ -68,7 +68,6 @@
     Fiat 500 Abarth Review:
     00:54 - 01:18 - Simon Fisher-Turner - Deadheading
     01:18 - 01:54 - Felix Laband - Whistling in Tongues
-    02:27 - 02:31 - ? (same as above)
     04:40 - 04:50 - Apparat - You Don’t Know Me
     04:44 - 04:56 - Simon Fisher-Turner - Access to Rude
     04:48 - 05:09 - Mogwai - Black Spider 2
@@ -121,7 +120,6 @@
     53:17 - 54:00 - Corner Stone Cues - Sultana
     54:00 - 54:06 - Corner Stone Cues - Demons
     54:06 - 54:50 - David Morley - Tonewave
-    55:19 - 55:32 - ? (same as above)
     55:33 - 56:07 - Corner Stone Cues - Mojave
     56:13 - 56:38 - Corner Stone Cues - Mojave
     56:59 - 58:10 - Corner Stone Cues - Frigga

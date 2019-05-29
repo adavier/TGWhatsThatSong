@@ -254,8 +254,6 @@
     03:56 - 04:43 - Robert Plant - Shine It All Around (Instrumental)
 
     'The Stig' Lap
-    06:02 - 06:10 - ?
-    06:29 - 06:34 - ?
 
     Bugatti Veyron vs. Cessna:
     13:05 - 13:28 - Dead Can Dance - Yulunga (Spirit Dance)

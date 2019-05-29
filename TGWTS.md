@@ -243,7 +243,6 @@
     27:42 - 28:18 - The Herbaliser - Road of Many Signs
     43:26 - 43:48 - M83 - America
     47:41 - 47:55 - Groove Armada - Edge Hill
-    54:22 - 54:35 - ?
     54:36 - 54:48 - Abba - Super Trouper
     54:54 - 55:17 - Junkie XL - Chilled
     57:05 - 57:21 - Junkie XL - Chilled
@@ -443,7 +442,6 @@
     41:38 - 42:00 - The Charlatans - The Only One I Know
     42:04 - 42:42 - Rob Dougan - I’m Not Driving Anymore (Instrumental)
     43:27 - 44:21 - The Who - Won't Get Fooled Again
-    44:23 - 44:36 - ?
     44:41 – 45:21 - Rob Dougan - Chateau
 
     ‘The Stig’ Lap:
@@ -525,7 +523,6 @@
     48:44 - 48:52 - Paul Van Dyk - Crush
     48:53 - 49:02 - Starsailor - Four to the Floor
     51:00 - 52:05 - Melissa Auf Der Maur - Followed the Waves
-    52:27 - 52:31 - ?
     52:39 - 52:44 - (same song as 52:27 - 52:31)
     54:07 - 54:59 - Supergrass - Richard III
     55:40 - 56:05 - Starsailor - Four to the Floor
@@ -1638,13 +1635,11 @@
     01:17 - 01:39 - Henry Mancini - Something for Cat
     01:39 - 02:01 - 50 Cent - Candy Shop
     02:01 - 02:50 - Gotan Project - Queremos Paz
-    03:19 - 03:40 - ?
     03:39 - 03:41 - Bjork - All Is Full of Love (Funkstroung Mix)
     04:27 - 04:57 - Ralph Myerz & The Jack Herren Band - Nikita
     05:05 - 05:39 - Lamb - Angelica
     12:03 - 12:40 - Barry Adamson - The Big Bamboozle
     12:54 - 13:07 - Faultline - Partyline Honey
-    13:07 - 13:23 - ?
     13:38 - 13:55 - The Cinematic Orchesta - Burn Out
     15:35 - 16:00 - Cinematic Orchestra - Channel 1 Suite
     15:17 - 15:30 - Barry Adamson - The Man With The Golden Arm
@@ -1673,12 +1668,8 @@
     38:42 - 38:43 - Craig Conner - Manhunt (Bug Remix)
     38:43 - 38:48 - Manitoba - Crayon
     40:13 - 00:00 - Heat soundtrack - Entrada and Shootout
-    48:20 - 49:05 - ?
     52:30 - 52:51 - Craig Connor - Manhunt Theme
     53:50 - 54:45 - Justin Caine Burnett - Extreme Action
-    55:05 - 55:23 - ?
-    55:43 - 56:45 - ?
-    56:57 - 57:26 - ?
 	 
 [06x06] July 3rd, 2005
 
@@ -2248,8 +2239,6 @@
     03:56 - 04:43 - Robert Plant - Shine It All Around (Instrumental)
 
     'The Stig' Lap
-    06:02 - 06:10 - ?
-    06:29 - 06:34 - ?
 
     Bugatti Veyron vs. Cessna:
     13:05 - 13:28 - Dead Can Dance - Yulunga (Spirit Dance)
@@ -4560,7 +4549,6 @@
     Fiat 500 Abarth Review:
     00:54 - 01:18 - Simon Fisher-Turner - Deadheading
     01:18 - 01:54 - Felix Laband - Whistling in Tongues
-    02:27 - 02:31 - ? (same as above)
     04:40 - 04:50 - Apparat - You Don’t Know Me
     04:44 - 04:56 - Simon Fisher-Turner - Access to Rude
     04:48 - 05:09 - Mogwai - Black Spider 2
@@ -4613,7 +4601,6 @@
     53:17 - 54:00 - Corner Stone Cues - Sultana
     54:00 - 54:06 - Corner Stone Cues - Demons
     54:06 - 54:50 - David Morley - Tonewave
-    55:19 - 55:32 - ? (same as above)
     55:33 - 56:07 - Corner Stone Cues - Mojave
     56:13 - 56:38 - Corner Stone Cues - Mojave
     56:59 - 58:10 - Corner Stone Cues - Frigga
@@ -5092,7 +5079,6 @@
     53:47 - 54:34 - Ludovico Einaudi - Fly
     54:37 - 55:13 - Harry Gregson-Williams - Deadpool
     56:00 - 56:17 - (same as above)
-    57:29 - 57:40 - ? (same as above)
     57:46 - 58:09 - Ludovico Einaudi - Andare
     58:21 - 58:39 - Elliot Goldenthal - Victorius Titus
     59:03 - 59:45 - Harry Gregson-Williams - Deadpool
@@ -5115,12 +5101,9 @@
     07:00 - 07:20 - Yeah Yeah Yeahs - Shame and Fortune (Instrumental)
     07:38 - 07:55 - J.S. Bach - Kantate Nr.170 "Vergnügte Ruh, beliebte Seelenlust"
     09:00 - 09:13 - Clap Your Hands Say Yeah - Over and Over Again
-    09:13 - 09:20 - ? (same as 8:37-9:00)
     09:51 - 10:25 - Clap Your Hands Say Yeah - Over and Over Again
     10:32 - 10:53 - Bloc Party - She's Hearing Voices
-    10:53 - 11:02 - ? (same as 8:37-9:00)
     11:02 - 11:20 - Beck - Black Tambourine
-    11:43 - 11:48 - ? (same as 8:37-9:00)
 
     Lambo Murcielago SV Road Test:
     18:54 - 19:17 - Brian Eno - Prophecy Theme
@@ -5185,11 +5168,9 @@
     17:54 - 18:05 - London Sinfonietta - Prepared Piano Piece 1
     18:05 - 18:37 - The Heavy - How You Like Me Now? (Instrumental)
     18:37 - 18:51 - Tim Exile - Don't Think We're One
-    19:26 - 19:37 - ? (same as above)
     19:47 - 19:58 - U.N.K.L.E - Broken (Instrumental)
     20:34 - 20:50 - J. S. Bach - Cello Suite No. 1 in G Major, BWV 1007 (Prelude)
     22:10 - 22:40 - Primal Scream - Uptown (Instrumental)
-    23:35 - 23:46 - ? (same as above)
     24:09 - 24:28 - London Sinfonietta - Prepared Piano Piece 2
 
     Ken Block’s Airfield Rally Run:
@@ -5305,11 +5286,9 @@
     17:54 - 18:05 - London Sinfonietta - Prepared Piano Piece 1
     18:05 - 18:37 - The Heavy - How You Like Me Now? (Instrumental)
     18:37 - 18:51 - Tim Exile - Don't Think We're One
-    19:26 - 19:37 - ? (same as above)
     19:47 - 19:58 - U.N.K.L.E - Broken (Instrumental)
     20:34 - 20:50 - J. S. Bach - Cello Suite No. 1 in G Major, BWV 1007 (Prelude)
     22:10 - 22:40 - Primal Scream - Uptown (Instrumental)
-    23:35 - 23:46 - ? (same as above)
     24:09 - 24:28 - London Sinfonietta - Prepared Piano Piece 2
 
     Ken Block’s Airfield Rally Run:
@@ -5572,7 +5551,6 @@
     25:52 - 26:03 - James Newton Howard - Split to London
     26:36 - 27:02 - The Simon Park Orchestra - Up to Date
     27:34 - 27:43 - James Newton Howard - Security Meeting
-    29:19 - 29:37 - ? (same as above)
     29:47 - 29:56 - James Newton Howard - Back to the Unit
     29:57 - 30:04 - Hans Zimmer, Lisa Gerrard - The Wheat
     30:04 - 30:27 - Queens of the Stone Age - First it Giveth
@@ -6071,7 +6049,6 @@
     25:31 - 25:47 - Hugh Burns - Elegante (Guitar Mix)
     26:17 - 26:35 - Philip Glass - Morning Passages
     26:41 - 26:54 - Philip Glass - Morning Passages
-    27:54 - 27:56 - ? (same as above)
     27:56 - 28:42 - Ian Brown - Solarized
     29:09 - 29:41 - White Denim - Sync'n
 
@@ -6104,7 +6081,6 @@
     03:54 - 04:05 - U.N.K.L.E - The Runaway
     04:05 - 04:24 - Marc Streitenfeld - Caskets
     04:28 - 04:47 - K-OS - Fun!
-    04:44 - 04:58 - ?  
     05:01 - 05:17 - Ramin Djawadi - Djinn
     05:16 - 05:43 - Alfredo Catalani - Ebben? Ne andrò lontana
     05:43 - 05:58 - John Ottman - Saving the World
@@ -6117,7 +6093,6 @@
     11:23 - 11:34 - U.N.K.L.E. - Ever Rest
     11:33 - 11:45 - Eastern Conference Champions - A Million Miles An Hour
     11:57 - 12:54 - Eastern Conference Champions - A Million Miles An Hour
-    13:18 - 13:33 - ?  
     13:33 - 13:40 - U.N.K.L.E - When Once It Was
     13:40 - 14:19 - Clinton Shorter - Harvesting Material
     14:19 - 14:36 - Carter Burwell - Plan B
@@ -6125,7 +6100,6 @@
     15:10 - 15:37 - Martin Phipps & Ruth Barrett - Riot
     15:37 - 16:25 - Clinton Shorter - Back to D9
     16:41 - 17:18 - Lalo Schifrin - City Hall
-    17:32 - 17:51 - ?  
     17:51 - 18:07 - Ilan Eshkeri - Lamia's Inn
     18:07 - 18:46 - Clinton Shorter - Back to D9
     18:48 - 19:16 - John Powell - Helicopter
@@ -6135,9 +6109,7 @@
     20:21 - 21:12 - Elliot Goldenthal - Finale
 
     Chevrolet Lacetti Send-Off:
-    28:11 - 28:40 - ?  
     28:52 - 29:39 - David Holmes - Bedroom
-    29:39 - 29:54 - ?  
     29:54 - 30:40 - Abel Korzeniowski - Swimming
     30:47 - 32:18 - Hans Zimmer & James Newton Howard - The Ferries
 
@@ -6160,7 +6132,6 @@
     40:43 - 40:49 - Paul Haslinger - Certain Ambiguity
     41:03 - 41:07 - Gorillaz - Kids With Guns
     41:07 - 41:14 - The Beach Boys - It's About Time
-    41:36 - 41:48 - ?  
     42:18 - 42:28 - Sinitta - So Macho
     42:32 - 42:43 - Caribou - Lord Leopard
     43:03 - 43:20 - Trellis - Jolly Scarface
@@ -6182,11 +6153,9 @@
     51:23 - 51:30 - Michael Giacchino - Enterprising Young Men
     52:55 - 53:47 - The Time and Space Machine - Zeitghost
     54:27 - 54:39 - David Holmes - Getting the Gold
-    55:56 - 56:29 - ?  
     56:32 - 56:54 - 100 Sons - Casino
     56:59 - 57:53 - Antonín Dvořák - Symphony No. 9 in E Minor "From the New World", Op. 95, B. 178, Movement 2-Largo
     58:51 - 59:18 - Harry Gregson-Williams – Wall Breached
-    59:21 - 59:29 - ?  
     59:59 - 60:16 - Mike Post & Pete Carpenter - Theme from ‘The A-Team’
     60:21 - 60:43 - Mike Post & Pete Carpenter - Theme from ‘The A-Team’
     61:11 - 61:16 - Harry Gregson-Williams- Wall Breached
@@ -6216,14 +6185,12 @@
     23:52 - 24:07 - Coldcut - Everything Is Under Control (Instrumental)
     24:08 - 24:29 - Max Richter - Kierling/Doubt
     24:53 - 25:04 - Paul Haslinger - A Winner's Game
-    25:04 - 25:30 - ?  
     25:30 - 25:53 - Biffy Clyro - Shock Shock (Instrumental)
     26:55 - 27:55 - U.N.K.L.E - Ever Rest (Instrumental)
     27:59 - 28:21 - Ludovico Einaudi - I Giorni
 
     Berlin Cheap Car Challenge, Pt. 2:
     41:44 - 42:08 - Danny Elfman - No Plan
-    42:20 - 42:43 - ?  
     42:52 - 43:15 - ? (same as above)
     45:12 - 45:47 - Sunshine Underground - In Your Arms
     45:48 - 46:19 - The Asteroids Galaxy Tour - Around the Bend (Instrumental)
@@ -6234,16 +6201,12 @@
     48:30 - 48:56 - Robert Farnon - Colditz March
     49:12 - 49:31 - David Holmes - I Heard Wonders (Andrew Weatherall Vocal Mix)
     50:13 - 50:27 - Scorpions - Wind of Change
-    50:29 - 50:35 - ?  
     50:39 - 51:33 - LCD Soundsystem - Daft Punk is Playing at My House
-    51:41 - 51:45 - ?  
     51:46 - 52:52 - Joy Division - Love Will Tear Us Apart
-    53:22 - 54:24 - ?  
 	 
 [15x03] July 11th, 2010
 
     Four-Seat Supercars, Pt. 1:
-    00:56 - 01:34 - ?  
     02:39 - 03:01 - Martina Topley-Bird - Stevie's (Day's of a Gun)
     04:01 - 04:10 - Martina Topley-Bird - Too Tough to Die
     04:23 - 05:03 - U.N.K.L.E - Mayday (Instrumental)
@@ -6258,7 +6221,6 @@
     08:41 - 09:11 - U.N.K.L.E - The Knock (Drums of Death, Pt. 2) (Instrumental)
     09:12 - 09:40 - The Prodigy - Shoot Down
     09:41 - 09:52 - Max Richter - Circles from the Rue Simon-Crubellier
-    09:52 - 09:59 - ?  
     11:01 - 11:25 - David Holmes - Paper Underwear
     12:15 - 12:25 - Delays - Valentine
 
@@ -6270,12 +6232,9 @@
     29:28 - 29:45 - The Big Pink - Frisk (Instrumental)
     29:45 - 30:08 - Boards of Canada - Dayvan Cowboy
     30:10 - 30:37 - DJ Krush - Drum
-    30:37 - 30:47 - ?  
     30:47 - 30:52 - U.N.K.L.E - Caged Bird (Instrumental)
     30:52 - 31:37 - Lorn - Grandfather
     31:41 - 32:08 - Max Richter - I Swam Out To Sea/Return
-    32:07 - 32:28 - ?  
-    32:56 - 33:50 - ?  
     33:51 - 34:20 - Bat For Lashes - Siren Song (Instrumental)
 
     Four-Seat Supercars, Pt. 2:
@@ -6292,15 +6251,12 @@
     53:01 - 53:08 - DJ Food - Living Beats (LateNightTales Mix)
     53:31 - 53:41 - 10cc - I'm Not In Love
     53:41 - 54:09 - Oasis - Fucking in the Bushes
-    54:11 - 54:18 - ?  
     54:18 - 54:26 - Oasis - Fucking in the Bushes
     54:40 - 55:01 - Chicago - If You Leave Me Now
     55:01 - 55:26 - James Newton Howard - Security Meeting
     57:36 - 57:45 - Traditional - I Vow To Thee My Country
     57:46 - 58:01 - The Black Keys - Chop and Change
     58:01 - 58:31 - 65daysofstatic - Weak4
-    58:35 - 58:37 - ?  
-    58:51 - 59:26 - ?
 	
 [15x04] July 18th, 2010
 
@@ -6314,7 +6270,6 @@
     06:47 - 07:03 - Trentemøller - Take Me Into Your Skin
     07:20 - 07:55 - Funki Porcini - Tiers of Joy
     07:55 - 08:19 - Lorn - Void I
-    08:23 - 08:30 - ?  
     08:38 - 09:05 - Bonnie Tyler - Total Eclipse of the Heart
 
     ‘The Stig’ Lap:
@@ -6322,12 +6277,9 @@
     11:10 - 11:12 - Bee Gees - Night Fever
 
     British Motorhome Challenge, Part 1:
-    19:39 - 19:46 - ?  
-    19:46 - 19:55 - ?  
     19:57 - 20:04 - Ramin Djawadi - Release the Kraken
     20:04 - 20:20 - Trevor Rabin - Interrogation
     20:41 - 20:59 - David Lowe - Grand Designs
-    21:00 - 21:11 - ?  
     21:26 - 21:36 - ? (same as above)
     21:44 - 22:02 - The Stranglers - 5 Minutes
     24:02 - 24:53 - Michael Kamen - Band of Brothers: Suite One
@@ -6342,8 +6294,6 @@
     28:18 - 28:28 - The Asteroids Galaxy Tour - Sunshine Coolin' (Instrumental)
     29:16 - 29:30 - Lalo Schifrin - A Ray of Light
     29:38 - 30:13 - Simple Minds - Love Song
-    30:25 - 30:33 - ?  
-    30:34 - 30:43 - ?  
     30:47 - 30:52 - Lalo Schifrin - A Ray of Light
     31:00 - 31:08 - Lalo Schifrin - Just Coffee
     31:51 - 32:04 - Amon Tobin - Natureland
@@ -6353,7 +6303,6 @@
     British Motorhome Challenge, Part 2:
     45:20 - 45:28 - Eliza Doolittle - Back to Front
     45:28 - 45:34 - Atli Örvarsson - Explosion Aftermath
-    46:03 - 46:13 - ?  
     47:16 - 47:28 - Malachai - Snowflake
     47:34 - 47:56 - The Beach Boys - Fun, Fun, Fun
     48:02 - 48:23 - The Guess Who - Hand Me Down World
@@ -6363,9 +6312,6 @@
     49:43 - 49:51 - Malachai - Shitkicker
     50:00 - 50:16 - Malachai - Shitkicker
     50:16 - 50:30 - Leftfield - Phat Planet
-    50:30 - 50:46 - ?  
-    50:46 - 50:58 - ?  
-    51:07 - 51:35 - ?  
     51:48 - 51:55 - Danny Elfman - According to Plan
     52:00 - 52:04 - Jack Trombey - Mask of Death
     52:13 - 52:24 - Lalo Schifrin - Song for Cathy
@@ -6384,16 +6330,11 @@
     02:33 - 03:02 - Clint Mansell - Welcome to Lunar Industries (Three Year Stretch)
     03:02 - 03:20 - Hybrid - Break My Soul
     03:21 - 03:35 - U.N.K.L.E - The Answer (Instrumental)
-    03:36 - 03:54 - ?  
     03:54 - 04:03 - Amon Tobin - Ownage
     04:03 - 04:24 - Amon Tobin - Hot Korean Moms
-    04:33 - 04:50 - ?  
-    04:53 - 05:00 - ?  
     05:11 - 05:23 - Steve Jablonsky - The Fallen
-    05:29 - 05:47 - ?  
     05:54 - 06:10 - Tyler Bates - Prison Fight
     06:13 - 07:05 - U.N.K.L.E - Burn My Shadow (Instrumental)
-    07:07 - 07:33 - ?  
     07:34 - 08:01 - U.N.K.L.E - Restless (Instrumental)
     08:02 - 08:28 - Holy Fuck - Stilettos
     08:30 - 09:11 - Harry Gregson-Williams - Dastan and Tamina Escape
@@ -6401,25 +6342,16 @@
     09:43 - 10:33 - E.S. Posthumus - Pompeii
 
     Mid-Engined Porsche 911:
-    15:38 - 15:47 - ?  
 
     Bugatti Veyron Super Sport:
     17:07 - 17:12 - Christopher Gordon - Smoke N'Oakum
     17:13 - 17:26 - Holy Fuck - Red Lights
-    17:48 - 18:01 - ?  
     18:01 - 18:06 - Mike Zarin - Mind Control
-    18:06 - 18:29 - ?  
-    18:35 - 18:49 - ?  
-    18:52 - 19:18 - ?  
-    19:24 - 19:29 - ?  
     19:29 - 19:49 - Death in Vegas - Flying
     20:00 - 20:26 - Abel Korzeniowski - Daydreams
     20:39 - 20:54 - Fever Ray - If I Had A Heart
-    21:11 - 21:15 - ?  
     21:15 - 21:29 - Martina Topley-Bird - Llya
     21:54 - 22:19 - Christopher Gordon - The Doldrums
-    22:23 - 22:46 - ?  
-    22:47 - 23:29 - ?  
     23:29 - 24:15 - Trevor Rabin - The Chase
     24:15 - 24:43 - Brian Tyler - This Isn't Japan
     24:43 - 24:52 - Philip Sheppard - Crawler
@@ -6436,7 +6368,6 @@
     47:55 - 48:44 - Craig Armstrong - Fugue
     49:14 - 49:27 - Tykwer, Klimek & Heil - Meeting Schumer
     49:27 - 50:48 - Michael Brook - Ultramine
-    51:30 - 52:06 - ?  
     52:36 - 53:09 - U2 - Acrobat
     53:22 - 53:44 - Massive Attack - Polaroid Girl
     54:12 - 54:26 - Massive Attack - Polaroid Girl
@@ -6456,9 +6387,7 @@
     03:08 - 03:37 - Röyksopp - Röyksopp Forever
     03:44 - 03:49 - Bad Rabbit - Intro
     04:33 - 04:53 - The Chemical Brothers - K+D+B
-    04:53 - 05:08 - ?  
     05:49 - 06:01 - Groove Armada - Paper Romance
-    06:10 - 06:56 - ?  
     06:56 - 07:35 - Craig Armstrong - Rebecca
     07:47 - 08:07 - The Dust Brothers - Jack's Smirking Revenge
     08:07 - 09:35 - The Chemical Brothers - Dissolve
@@ -6472,25 +6401,20 @@
     Classic British Sports Cars, Pt. 1:
     20:01 - 20:15 - Tony Christie - Avenues and Alleyways
     21:30 - 21:44 - Phil Collins - In the Air Tonight
-    22:27 - 22:31 - ?  
-    23:00 - 23:07 - ?  
     23:07 - 24:33 - The Who - I've Had Enough
     24:33 - 25:00 - The Doors - L.A Woman
     25:00 - 25:44 - Magazine - Shot By Both Sides
     26:27 - 27:05 - Adam & the Ants - Kings of the Wild Frontier
     27:56 - 28:25 - Edward Elgar - 'Nimrod' from Enigma Variations
-    29:03 - 30:17 - ?  
     30:18 - 31:05 - Supergrass - Tales of Endurance (Instrumental)
     31:19 - 31:35 - The Free Association - (I Wish I Had A) Wooden Heart
     31:54 - 32:08 - The Free Association - (I Wish I Had A) Wooden Heart
     32:55 - 33:20 - David Bowie - Diamond Dogs
-    33:24 - 34:24 - ?  
     34:29 - 35:16 - Supergrass - St Petersburg
     35:29 - 35:49 - Simple Minds - League of Nations
     35:55 - 36:07 - Mud - Tiger Feet
 
     Classic British Sports Cars, Pt. 2:
-    47:25 - 47:45 - ?  
     48:04 - 48:15 - (same as above)
     48:43 - 49:20 - Tony Christie - I Did What I Did For Maria
     49:20 - 49:55 - David Holmes - Have a Nice Day
@@ -6502,7 +6426,6 @@
     52:39 - 52:56 - Rare Earth - I Just Want to Celebrate
     53:02 - 53:24 - Magazine - The Light Pours Out of Me
     54:04 - 54:18 - The Last Shadow Puppets - My Mistakes Were Made for You
-    54:41 - 54:57 - ?  
     55:22 - 55:57 - Quarashi - Stick 'Em Up (Instrumental)
     56:01 - 57:23 - Radiohead - House of Cards
     59:18 - 60:17 - Thomas Newman - Revolutionary Road (End Title)
@@ -6514,7 +6437,6 @@
 
     American Road Trip, Pt. 1:
     02:37 - 02:53 - Brian Tyler - No Rules of Engagement
-    02:53 - 02:55 - ?  
     02:55 - 02:59 - Boards of Canada - Tears from the Compound Eye
     02:59 - 03:04 - Cougar - $64k Rainbow
     03:28 - 03:34 - Mike Zarin - Mind Control
@@ -6570,7 +6492,6 @@
     53:34 - 53:51 - King Creosote - The Someone Else
     54:18 - 54:32 - The Early Years - All Ones and Zeros
     54:32 - 54:48 - Hans Zimmer - The Way of the Sword
-    55:20 - 55:38 - ?  
     55:47 - 56:45 - Max Richter - Any Minute Now
     56:45 - 57:16 - U.N.K.L.E - Lawless (Instrumental)
     57:17 - 57:55 - U.N.K.L.E - Ablivion (Instrumental)
@@ -6585,12 +6506,9 @@
     61:21 - 62:06 - The Jon Spencer Blues Explosion - Bellbottoms
     62:06 - 62:24 - Hans Zimmer - Red Warrior
     62:24 - 62:51 - Pendulum - Immunize
-    63:09 - 63:29 - ?  
-    63:34 - 63:49 - ?  
     63:49 - 63:58 - Ilan Eshkeri - Training
     63:58 - 64:52 - Max Richter - Any Minute Now
     64:52 - 65:53 - Immediate - Spiritus Omnia
-    66:08 - 66:29 - ?  
     66:46 - 67:12 - ?  
 ## Series 16
 
@@ -6605,7 +6523,6 @@
     04:20 - 05:17 - Harry Gregson-Williams - Hassassin Attack
     05:33 - 05:50 - John Powell - Waterloo
     06:12 - 06:25 - Harry Gregson-Williams - Raid on Alamut
-    06:27 - 06:31 - ?  
     06:59 - 07:39 - Hans Zimmer & James Newton Howard - Introduce a Little Anarchy
     07:46 - 07:58 - Hans Zimmer & James Newton Howard - Introduce a Little Anarchy
     08:05 - 08:28 - Ramin Djawadi - Hunter-Killer
@@ -6615,9 +6532,6 @@
     10:50 - 11:07 - Trevor Rabin - Coal Yard, Pt. 1
     11:07 - 11:10 - John Murphy - Dead Corazón
     11:10 - 12:00 - Nick Laird-Clowes - Roadblock
-    12:00 - 12:34 - ?  
-    13:05 - 13:50 - ?  
-    13:51 - 14:03 - ?  
     14:14 - 14:22 - Harry Gregson-Williams - Visions of Death
     14:46 - 15:01 - Brian Eno - Paleosonic
     15:27 - 15:47 - Danny Elfman - Walk to Rasul's
@@ -6632,14 +6546,12 @@
     22:21 - 22:42 - Nathaniel Mechaly - There's Somebody Here
     22:48 - 23:16 - Ramin Djawadi - Paint 'Em Up
     23:14 - 23:27 - Chungking - Following
-    23:27 - 24:02 - ?  
     24:23 - 24:59 - Ilan Eshkeri - Prologue (Through the Wall)
     24:59 - 25:54 - U.N.K.L.E - Follow Me Down (Instrumental)
     25:54 - 26:23 - David Holmes - Paper Underwear
     26:24 - 27:05 - The Cinematic Orchestra - First Light
     27:02 - 27:36 - Engineers - Clean Coloured Wire
     28:02 - 28:22 - Harry Gregson-Williams - The Oasis Ambush
-    28:22 - 29:02 - ?  
     29:16 - 29:20 - Ennio Morricone - Il Colpo
     30:40 - 31:44 - Massive Attack - I Am Home
     32:16 - 32:20 - Ennio Morricone - Il Colpo
@@ -6675,10 +6587,8 @@
     50:35 - 51:37 - John Powell - Waterloo
     52:47 - 53:26 - Ramin Djawadi - The Time is Upon Us
     53:27 - 53:49 - Lisa Gerrard & Marcello De Francisci - The Lost Star of Menelik
-    54:16 - 54:23 - ?  
     55:00 - 56:04 - Simple Minds - Love Song
     56:32 - 56:55 - Magazine - The Light Pours Out of Me
-    57:19 - 58:02 - ?  
     58:03 - 58:07 - Ennio Morricone - Il Colpo
     58:15 - 58:24 - Tinariwen - Soixante Trois
     59:04 - 59:13 - Tinariwen - Soixante Trois
@@ -6705,14 +6615,10 @@
 [16x01] January 23rd, 2011
 
     Ariel Atom V8 Test Drive:
-    01:24 - 01:48 - ?  
     01:48 - 02:04 - Amon Tobin - Ten Piece Metric Wrench Set
-    02:10 - 02:15 - ?  
     02:15 - 02:56 - White Rose Movement - Alsatian
     02:56 - 03:04 - U.N.K.L.E - Even Balance (Part Two)
     03:20 - 03:30 - Death in Vegas - 68 Balcony
-    03:30 - 03:53 - ?  
-    03:53 - 04:02 - ?  
     04:04 - 04:13 - Wild Beasts - Two Dancers (Instrumental)
     04:28 - 04:51 - Death in Vegas - Rocco
     05:24 - 05:44 - Fuck Buttons - Sweet Love for Planet Earth
@@ -6720,28 +6626,21 @@
     06:16 - 06:52 - Ramin Djawadi - Heroes Abroad
     07:13 - 07:29 - The Chemical Brothers - Wonders of the Deep
     07:33 - 07:45 - Hans Zimmer & James Newton Howard - Introduce a Little Anarchy
-    08:05 - 08:12 - ?  
     08:12 - 08:28 - Hans Zimmer & James Newton Howard - We Are Tonight's Entertainment
-    08:05 - 09:28 - ?  
 
     Skoda Yeti Review:
     22:57 - 23:04 - Two Fingers - Two Fingers (Instrumental)
     23:04 - 23:44 - Craig Armstrong - Sunrise
-    23:45 - 23:51 - ?  
     23:51 - 24:20 - Wild Beasts - Underbelly
     24:30 - 24:42 - Fever Ray - If I Had a Heart
     24:42 - 24:43 - Ilan Eshkeri - Training
-    24:43 - 25:09 - ?  
     25:09 - 26:06 - Ilan Eshkeri - Escape from Safehouse
     26:08 - 26:50 - The Young Knives - She's Attracted To
-    26:56 - 27:02 - ?  
     28:03 - 28:56 - Hans Zimmer - You Go, We Go
     29:07 - 29:41 - Barry Adamson - Something Wicked This Way Comes
     30:04 - 30:29 - Aim - Downstate
-    30:49 - 30:58 - ?  
     31:02 - 31:47 - Barry Adamson - Something Wicked This Way Comes
     32:30 - 32:57 - Hans Zimmer - Burn It All
-    33:40 - 33:58 - ?  
     34:15 - 34:27 - A.R. Rahman - Riots
     34:27 - 34:39 - The Pack - The Ice Cream Song
     34:47 - 34:59 - Aim - Demonique
@@ -6756,61 +6655,45 @@
     50:43 - 51:06 - Arcade Fire - Neighborhood #3 (Power Out)
     51:07 - 51:47 - Philip Glass - Resource
     52:14 - 52:39 - Death in Vegas - Leather
-    52:47 - 53:17 - ?  
     53:17 - 53:25 - Rolfe Kent - Shopping with Schmidt
     53:25 - 53:48 - Amon Tobin - Esther's
     53:52 - 53:55 - Amon Tobin - Esther's
     54:32 - 54:46 - Rolfe Kent - Shopping with Schmidt
-    54:47 - 54:54 - ?  
     54:54 - 55:02 - The Black Keys - Mr. Dibbs "Fight for Air" Mash-Up
-    55:21 - 55:33 - ?  
     55:37 - 55:57 - Death in Vegas - Rocco
-    56:27 - 57:39 - ?  
     57:39 - 59:02 - Harry Gregson-Williams - The Sand Glass Chamber
     59:19 - 59:41 - Ilan Eshkeri - The Star Shines
 	
 [16x02] January 30th, 2011
 
     Top Gear UK vs. Australia Challenge, Pt. 1:
-    01:23 - 01:26 - ?  
     01:28 - 02:01 - Sir Edward Elgar - Land of Hope and Glory
     02:01 - 02:17 - Rolf Harris - Waltzing Matilda
     02:35 - 03:19 - AC/DC - Back in Black
     03:27 - 03:34 - Ennio Morricone - Paranoia
-    03:50 - 04:17 - ?  
     04:26 - 04:38 - William Walton - Crown Imperial (Coronation March)
     05:01 - 05:24 - Hans Zimmer & James Newton Howard - Introduce a Little Anarchy
     05:24 - 06:00 - Elliot Goldenthal - Apian Stomp
     06:03 - 06:13 - William Walton - Crown Imperial (Coronation March)
     07:02 - 07:14 - Hans Zimmer & James Newton Howard - You're Gonna Love Me
-    07:37 - 07:45 - ?  
     08:24 - 08:27 - Quincy Jones - Britannia and Mr Bridger, If You Please
-    08:34 - 08:41 - ?  
     08:52 - 09:11 - Trevor Rabin & Harry Gregson-Williams - Coal Yard, Part 2
     09:24 - 09:43 - Ennio Morricone - Per Qualche Dollaro in Piu
     09:46 - 10:58 - Propellerheads - On Her Majesty's Secret Service
     11:07 - 11:20 - Propellerheads - On Her Majesty's Secret Service
     11:20 - 11:59 - Steve Jablonsky - Sector 7
-    12:01 - 12:36 - ?  
     12:36 - 12:53 - Trevor Rabin & Harry Gregson-Williams - Coal Yard, Part 2
 
     Ferrari 599 GTO Test Drive:
-    20:59 - 22:24 - ?  
-    22:42 - 22:47 - ?  
     22:47 - 23:05 - Simple Minds - Theme for Great Cities
     23:05 - 23:22 - M83 - In the Cold I'm Standing
     23:45 - 24:01 - Craig Armstrong - Heatmiser 2
     24:13 - 24:26 - Loka - The Beauty is Darkness
-    24:34 - 24:45 - ?  
     24:45 - 25:06 - Cougar - $64k Rainbow
     25:18 - 26:02 - Trentemøller - Like Two Strangers
-    26:05 - 26:09 - ?  
     26:09 - 26:17 - Holy Fuck - Lucky
-    26:18 - 26:47 - ?  
     26:48 - 26:59 - Trentemøller - Miss You
-    27:00 - 27:37 - ?  
     27:37 - 27:46 - Holy Fuck - SHT MTN
-    27:46 - 28:04 - ?  
     28:04 - 28:40 - Doves - Friday's Dust (Instrumental)
     28:42 - 29:15 - U.N.K.L.E - 24 Frames (Redux)
 
@@ -6819,12 +6702,10 @@
     44:27 - 45:20 - White Lies - Holy Ghost (Instrumental)
     45:44 - 45:55 - City of Prague Philharmonic - The Streets of San Francisco
     45:55 - 46:02 - Ennio Morricone - Il Colpo
-    46:31 - 46:49 - ?  
     47:26 - 47:41 - Quincy Jones - Britannia and Mr Bridger, If You Please
     48:11 - 48:25 - Quincy Jones - Britannia and Mr Bridger, If You Please
     49:04 - 49:25 - Ennio Morricone - Il Colpo
     49:47 - 51:15 - City of Prague Philharmonic - Mutiny on the Bounty
-    51:16 - 51:30 - ?  
     51:36 - 51:44 - ? (same as above)
     51:44 - 52:51 - Ennio Morricone - Per Qualche Dollaro in Piu
     51:55 - 52:27 - Ennio Morricone - Per Qualche Dollaro in Piu
@@ -6868,7 +6749,6 @@
     25:51 - 26:18 - U.N.K.L.E - Ever Rest (Instrumental)
     26:18 - 26:30 - Mark Mancina - Pop Quiz
     26:26 - 26:34 - The Qemists - Take It Back
-    26:34 - 26:41 - ?  
     26:41 - 27:56 - Hans Zimmer & James Newton Howard - Myotis
     27:56 - 28:22 - Ilan Eshkeri - Soldiers Attack
     28:21 - 28:40 - Patrick Chardonett - Eve By Day (Ripperton's Lovelee Dae Mix)
@@ -6886,7 +6766,6 @@
     34:08 - 34:12 - The Four Tops - Loco in Acapulco
 
     Albanian Mafia Car Test, Pt. 2:
-    47:13 - 47:30 - ?  
     47:50 - 48:11 - Harry Gregson-Williams, Trevor Rabin - NSA Research
     48:09 - 48:56 - Zack Hemsey - Mind Heist
     49:10 - 49:56 - Zack Hemsey - Mind Heist
@@ -6935,7 +6814,6 @@
     24:43 - 25:04 - Abel Korzeniowski - Going Somewhere
     25:18 - 25:40 - Curve - On the Wheel
     25:51 - 26:34 - Curve - On the Wheel
-    26:36 - 27:29 - ?  
     27:39 - 27:57 - Abel Korzeniowski - Going Somewhere
     28:05 - 28:20 - U.N.K.L.E - Nowhere (Instrumental)
     28:20 - 28:24 - Grace Jones - Don't Cry—It's Only the Rhythm
@@ -6946,7 +6824,6 @@
     45:50 - 46:25 - Hybrid - Formula of Fear (Instrumental)
     46:32 - 48:01 - U.N.K.L.E - Natural Selection (Instrumental)
     48:03 - 48:59 - Primal Scream - Shoot Speed/Kill Light
-    49:02 - 49:08 - ?  
     49:17 - 49:22 - Trellis - Crab
     49:57 - 50:05 - Mark Mancina - Pershing Square
     50:54 - 51:00 - Mark Mancina - Pershing Square
@@ -6986,14 +6863,10 @@
     20:29 - 21:13 - The Dust Brothers - Commissioner Castration
     21:14 - 21:40 - Plan B - The Recluse (Nero Remix Instrumental)
     21:42 - 22:16 - Hybrid - Break My Soul (Instrumental)
-    22:18 - 22:32 - ?  
-    22:48 - 23:17 - ?  
     23:25 - 23:44 - Amon Tobin - I'll Have The Waldorf Salad
     23:44 - 24:00 - Thomas Newman - Zoomies
     24:00 - 24:21 - Amon Tobin - Ten Piece Metric Wrench Set
     24:21 - 24:35 - Hans Zimmer & James Newton Howard - Agent of Chaos
-    24:48 - 26:09 - ?  
-    26:10 - 26:24 - ?  
     26:25 - 26:40 - Mr B - Little Acid People (Peo De Pitte Remix)
     26:40 - 27:17 - Plan B - The Recluse (Nero Remix Instrumental)
 
@@ -7037,24 +6910,19 @@
     05:49 - 06:31 - Queens of the Stone Age - Songs for the Dead
     06:31 - 06:43 - Tomaso Albinoni/Remo Giazotto - Adagio in G Minor
     06:45 - 07:10 - David Holmes - Gone (K&D Sessions)
-    07:10 - 08:15 - ?  
     08:15 - 09:19 - Ludovico Einaudi - Bye Bye Mon Amour
 
     Jaguar XJ vs. God:
-    20:10 - 20:36 - ?  
     20:33 - 20:49 - Hans Zimmer - She Never Sleeps
     21:03 - 21:35 - Alex Heffes - Opening Title from 'Touching the Void'
     21:35 - 22:39 - Brian Tyler - Hunting Mercenaries
-    22:40 - 22:52 - ?  
     22:52 - 23:41 - James Newton Howard - Something Monstrous... Neither Beast Nor Man
     23:43 - 23:58 - Air - Space Maker
     23:56 - 24:25 - Hans Zimmer - Tribal War
     24:25 - 25:09 - Coldcut - Mr. Nichols (Instrumental)
     25:25 - 25:39 - Coldcut - Mr. Nichols (Instrumental)
-    25:57 - 26:36 - ?  
     26:36 - 27:25 - The Veronicas - All I Have (Instrumental)
     27:25 - 28:12 - Hans Zimmer - Synchrotone
-    28:40 - 28:53 - ?  
     29:21 - 29:40 - Hans Zimmer - The Might of Rome
     29:40 - 30:04 - Harry Gregson-Williams - The Aftermath
     30:04 - 31:21 - Harry Gregson-Williams - Dastan and Tamina Escape
@@ -7064,7 +6932,6 @@
     NASA's New Lunar Rover:
     51:11 - 51:35 - Ralph Vaughn Williams - Fantasia on a Theme by Thomas Tallis
     51:54 - 52:47 - Alex Heffes - Climbing Alpine Style
-    52:48 - 52:52 - ?  
     52:52 - 53:15 - John Barry - Flight into Space
     53:26 - 54:46 - John Barry - 007
     54:59 - 55:51 - James Horner - Ripley's Rescue
@@ -7150,7 +7017,6 @@
     01:44 - 02:00 - Hybrid - Empire (Orchestral Edit)
     02:00 - 02:38 - Abel Korzeniowski - Swimming
     02:42 - 03:27 - Daft Punk - Outlands, Part II
-    03:27 - 03:36 - ?  
     03:37 - 04:01 - Trentemøller - Take Me Into Your Skin
     04:05 - 05:09 - Primal Scream - Exterminator (Massive Attack Remix)
     05:12 - 05:46 - Daft Punk - Encom, Part II
@@ -7163,9 +7029,7 @@
 
     Hot Hatchback European Challenge, Pt. 1:
     16:29 - 16:50 - Miriam Gauci - La Wally, Act I: Ebben Ne andro lontana
-    17:06 - 17:17 - ?  
     17:19 - 17:23 - Verdi - Il trovatore: Vedi! le fosche notturne
-    18:04 - 18:15 - ?  
     20:10 - 20:51 - Thomas Newman - No Standard Solution
     20:51 - 21:47 - Thomas Newman - Welcome to the Suck
     21:47 - 23:14 - Elbow - High Ideals
@@ -7216,7 +7080,6 @@
     04:42 - 05:04 - Brian Tyler - Assembling the Team
     05:05 - 06:12 - Craig Armstrong - Prison
     06:20 - 06:48 - U.N.K.L.E - Not a Sound
-    07:02 - 07:29 - ?  
     07:29 - 07:49 - Daft Punk - The Son of Flynn
     07:49 - 08:16 - Abel Korzeniowski - Snow
     08:29 - 09:02 - Miriam Gauci - La Wally, Act I: Ebben Ne andro lontana
@@ -7234,7 +7097,6 @@
     21:55 - 22:02 - Malachai - Snake Eyes
     22:02 - 22:09 - Cher - Believe
     22:28 - 23:14 - DJ Shadow - Backstage Girl
-    23:22 - 23:30 - ?  
     23:31 - 24:12 - Nine Inch Nails - Sunspots
     24:25 - 24:41 - Cher - Gypsies, Tramps & Thieves
     24:41 - 25:15 - Daft Punk - Outlands, Part II
@@ -7255,7 +7117,6 @@
     48:22 - 48:36 - T.I. - Chillin' With My Bitch (Instrumental)
     48:36 - 49:12 - The Kills - DNA (Instrumental)
     49:23 - 49:38 - Colleen - Sea and Tranquility
-    49:38 - 49:54 - ?  
     51:23 - 51:44 - Giacomo Puccini - Musetta's Waltz (No Vocals)
     51:45 - 52:54 - These New Puritans - We Want War (Instrumental)
     53:31 - 53:43 - Squeeze - Tempted
@@ -7272,7 +7133,6 @@
     Jaguar XKR-S vs Nissan GTR:
     00:58 - 01:31 - Nine Inch Nails - The Collector
     01:31 - 02:05 - Philip Glass - Resource
-    02:10 - 02:20 - ?  
     02:30 - 02:48 - 2 Many DJ's - Peaches: Fuck the Pain Away
     02:49 - 03:07 - Amon Tobin - Goto 10
     03:26 - 03:49 - Daft Punk - Overture
@@ -7295,7 +7155,6 @@
     23:27 - 23:35 - Harry Gregson Williams & David Buckley - Fenway
     23:31 - 24:38 - Hans Zimmer - Red Warrior
     25:00 - 25:03 - Black Dice - Glazin
-    25:21 - 25:37 - ?  
     26:33 - 26:47 - Hans Zimmer - Dinner is Served
     28:51 - 29:02 - Roy Budd - Discovery
 
@@ -7318,7 +7177,6 @@
     50:36 - 50:47 - Roy Budd - No Co-Operation
     51:07 - 51:24 - Roy Budd - No Co-Operation
     51:39 - 51:59 - Roy Budd - No Co-Operation
-    52:11 - 52:31 - ?  
     52:33 - 53:55 - Danny Elfman - Main Titles from 'Planet of the Apes'
     54:05 - 54:31 - Secret Machines - Dreaming of Dreaming
     55:01 - 55:18 - Roy Budd - Discovery
@@ -7360,7 +7218,6 @@
     Demolition Challenge:
     39:15 - 39:24 - Hans Zimmer - The Emperor is Dead
     39:21 - 39:43 - John Powell - Six Weeks Ago
-    39:43 - 39:55 - ?  
     40:27 - 40:57 - Blur - Brothers and Sisters (Instrumental)
     41:06 - 41:41 - Blur - Brothers and Sisters (Instrumental)
     41:46 - 42:00 - Amon Tobin – Bloodstone
@@ -7376,13 +7233,9 @@
     47:51 - 48:15 - Amon Tobin - Keep Your Distance
     48:15 - 48:51 - Prague Philharmonic Chamber Orchestra - Kelly's Heroes
     49:12 - 49:33 - Massive Attack - Girl I Love You
-    49:53 - 49:58 - ?  
     49:55 - 50:23 - Massive Attack - Girl I Love You
-    50:28 - 50:51 - ?  
-    51:15 - 51:24 - ?  
     51:24 - 51:41 - Massive Attack - Girl I Love You
     52:01 - 52:25 - Roy Budd - Rafer's Death
-    52:32 - 52:43 - ?  
     53:04 - 53:30 - Roy Budd - Compound
     53:40 - 53:54 - Massive Attack - Girl I Love You
     54:04 - 54:30 - Roy Budd - Compound
@@ -7397,7 +7250,6 @@
     01:03 - 01:38 - Goldfrapp - Deep Honey
     01:39 - 02:03 - Brian Reitzell - Barrow Burns
     02:03 - 03:16 - Zack Hemsey - Mind Heist
-    03:24 - 03:40 - ?  
     03:42 - 04:02 - The Radio Dept. - It's Personal
     04:31 - 05:09 - Wretch 32 - Traktor (Instrumental)
     05:23 - 06:37 - Chase & Status - Brixton Briefcase (Instrumental)
@@ -7459,21 +7311,16 @@
     08:20 - 08:42 - Brian Eno & David Byrne - Number 8 Mix
     09:24 - 10:13 - Talvin Singh & Niladri Kumar - Ananta
     10:16 - 10:42 - Thomas Newman - Welcome to the Suck
-    11:28 - 11:31 - ?  
     11:31 - 11:58 - Thomas Newman - An Unscheduled Stop
     12:59 - 13:17 - Thomas Newman - An Unscheduled Stop
     13:17 - 13:53 - Thomas Newman - Unfinished Business
     13:57 - 14:08 - Antonio Pinto - Hunt
     14:26 - 15:02 - Antonio Pinto - Hunt
-    15:02 - 15:10 - ?  
     15:10 - 15:57 - Antonio Pinto - The Bomb
     16:00 - 16:20 - Ramin Djawadi - Be My Weapon
-    16:27 - 16:48 - ?  
     17:09 - 17:41 - Thomas Newman - An Unscheduled Stop
     17:41 - 17:53 - Thomas Newman - Unfinished Business
-    17:56 - 18:22 - ?  
     18:40 - 18:48 - Masaladosa - Jungly Baba
-    19:24 - 19:31 - ?  
     19:35 - 20:10 - John Ottman - Mumbai Max
     20:39 - 20:50 - John Ottman - Max Factor
     20:53 - 21:01 - John Ottman - Bad Business
@@ -7491,7 +7338,6 @@
     30:55 - 31:13 - Brian Eno & David Byrne - The Jezebel Spirit
     31:48 - 32:08 - Roy Budd - Free Tarrant
     33:15 - 33:23 - Talvin Singh & Niladri Kumar - Together
-    33:47 - 33:59 - ?  
     33:59 - 34:46 - Kasabian - Let's Roll Just Like We Used To (Instrumental)
     34:49 - 35:00 - Masaladosa - Madhuvanti
     35:00 - 35:22 - Malachai - Anne
@@ -7508,10 +7354,8 @@
     44:20 - 44:27 - DJ Knuf - Come to My Body
     45:38 - 45:56 - Secret Machines - Dreaming of Dreaming
     46:52 - 47:39 - 101 Strings - Karma Sitar (David Holmes' Essentials Mix)
-    47:42 - 48:48 - ?  
     48:48 - 49:38 - Massive Attack - Butterfly Caught (Version Point Five)
     49:39 - 50:02 - Radiohead - Separator
-    50:03 - 51:00 - ?  
     51:12 - 51:25 - Masaladosa - Ganpati
     51:50 - 52:13 - Masaladosa - Ganpati
     52:21 - 52:52 - John Barry - Twice is the Only Way to Live
@@ -7524,11 +7368,9 @@
     58:40 - 58:50 - Hans Zimmer - Mogadishu Blues
     58:50 - 59:50 - Atlantic Five Jazz Band - Here's That Rainy Day
     59:50 - 60:03 - Roy Budd - Free Tarrant
-    60:03 - 60:27 - ?  
     60:27 - 60:40 - Roy Budd - Free Tarrant
     61:14 - 61:28 - Atlantic Five Jazz Band - Night and Day
     62:27 - 62:42 - Goldfrapp - Voicething
-    63:22 - 63:33 - ?  
     63:33 - 64:01 - Mike Post & Pete Carpenter - Theme from ‘The A-Team’
     64:01 - 64:31 - Beastie Boys - 14th St. Break
     64:54 - 65:08 - The Kills - Damned If She Do (Instrumental)
@@ -7541,7 +7383,6 @@
     68:58 - 69:48 - Masaladosa - Jungly Baba
     70:01 - 70:17 - Gustav Holst - The Planets, Op. 32: IV 'Jupiter, The Bringer of Jollity'
     70:16 - 70:27 - Antonio Pinto - World Champion
-    70:42 - 70:51 - ?  
     71:01 - 71:36 - Thomas Newman - Rain Hammers
     72:12 - 72:47 - Florence + The Machine - Shake it Out (Instrumental)
     72:55 - 73:39 - Thomas Newman - Lexington Hotel, Room 1432
@@ -7605,7 +7446,6 @@
     32:35 - 33:20 - Jon Hopkins - Wire
     33:33 - 34:02 - The Dust Brothers - Medulla Oblongata
     34:53 - 35:08 - Christopher Gordon - The Battle
-    35:09 - 36:10 - ?  
 
     Road Trip Across Italy, Pt. 3:
     48:53 - 50:00 - Kasabian - Stay Away From The Brown Acid (Pt. 1)
@@ -7623,17 +7463,13 @@
 [18x02] February 5th, 2012
 
     Nascar Retrospective & Race Day:
-    01:06 - 01:12 - ?  
     01:12 - 01:34 - Ramin Djawadi - Fireman
     01:34 - 01:52 - Cat's Eyes - I Knew It Was Over (Instrumental)
     02:11 - 02:49 - The Shining - Hey You
-    02:55 - 03:19 - ?  
     03:25 - 03:48 - Justice - Civilization
     04:46 - 05:26 - Danger Mouse & Daniele Luppi - Theme of "Rome"
     05:34 - 06:29 - Harry Gregson-Williams - Dazzle Me
     06:35 - 07:26 - Arctic Monkeys - Brick by Brick (Instrumental)
-    08:11 - 08:26 - ?  
-    08:48 - 09:56 - ?  
     09:56 - 10:09 - Ramin Djawadi - Fireman
     10:27 - 11:09 - Trey Parker - Montage
     11:26 - 11:47 - Symmetry - Blood Sport
@@ -7659,13 +7495,10 @@
     42:47 - 43:29 - Brian Eno - Passing Over
     43:31 - 44:29 - DJ Shadow - I Gotta Rokk
     44:38 - 44:48 - DJ Shadow - I Gotta Rokk
-    44:48 - 45:04 - ?  
     45:04 - 45:29 - The Chemical Brothers - The Sandman
-    45:30 - 45:59 - ?  
     46:04 - 46:21 - White Lies - Is Love (Instrumental)
     47:00 - 47:38 - Lalo Schifrin - The Human Fly
     48:35 - 49:08 - White Lies - Turn the Bells
-    49:32 - 50:17 - ?  
     50:44 - 50:56 - (same as above)
     51:08 - 51:13 - Hans Zimmer - Hero
     51:13 - 51:26 - Battles - Leyendecker
@@ -7684,7 +7517,6 @@
     57:39 - 57:58 - Massive Attack - I Am Home
     57:59 - 58:25 - Duran Duran - All You Need Is Now
     58:26 - 59:18 - Lamb - Scratch Bass
-    59:20 - 59:58 - ?  
     60:02 - 60:13 - Lalo Schifrin - Broken Mirrors
     60:53 - 60:57 - Lalo Schifrin - Broken Mirrors
 	 
@@ -7703,7 +7535,6 @@
     05:15 - 06:30 - The Maccabees - Pelican (Instrumental)
     06:30 - 06:40 - Andreya Triana - Lost Where I Belong (Munk 777 Remix)
     06:40 - 07:01 - Hans Zimmer - The Kraken
-    07:14 - 07:49 - ?  
     08:41 - 09:22 - The Black Keys - Lonely Boy (Instrumental)
 
     'The Stig' Lap:
@@ -7717,7 +7548,6 @@
     26:09 - 26:36 - Beastie Boys - 14th St. Break
     27:04 - 27:19 - Wilton Felder - Theme from Bullitt
     28:13 - 28:23 - Arctic Monkeys - Reckless Serenade (Instrumental)
-    28:37 - 28:50 - ?  
 
     'The Sweeney' Car Chase, Pt. 2:
     41:44 - 41:58 - Primal Scream - Jailbird (Sweeney 2 Mix)
@@ -7749,7 +7579,6 @@
     18:10 - 18:33 - The Chemical Brothers - Bahnhof Rumble
     18:30 - 20:24 - Massive Attack - One Thought at a Time
     20:58 - 21:14 - Thomas Newman - Ghost Station
-    21:25 - 21:28 - ?  
     21:25 - 21:45 - Ilan Eshkeri - Yvaine
     21:45 - 21:51 - Harry Gregson-Williams & David Buckley - Nuns With Guns
     21:51 - 22:33 - Harry Gregson-Williams & David Buckley - The Wreath
@@ -7757,19 +7586,15 @@
     23:22 - 23:43 - Massive Attack - Paradise Circus
     23:43 - 24:00 - Clint Mansell - Meltdown (Winter)
     24:18 - 24:31 - Kasabian - Let's Roll Just Like We Used To
-    24:33 - 24:49 - ?  
     24:58 - 25:42 - The Chemical Brothers - Hanna vs Marissa
     25:42 - 25:48 - The Dust Brothers - Medulla Oblongata
     25:48 - 26:53 - Craig Armstrong - Opening from 'Elizabeth: The Golden Age'
     27:18 - 27:34 - ABBA - Super Trouper
     27:41 - 27:57 - U.N.K.L.E - Ablivion (Instrumental)
-    28:22 - 28:44 - ?  
     28:59 - 29:44 - The Chemical Brothers - Car Chase (Arp Worship)
     29:56 - 30:48 - Dario Marianelli - Half Killed
 
     Off-Road Scooter Challenge:
-    43:08 - 43:20 - ?  
-    45:10 - 45:27 - ?  
     46:50 - 47:23 - The Beat - Mirror in the Bathroom
     49:22 - 49:52 - Kasabian - Man of Simple Pleasures (Instrumental)
     50:14 - 50:24 - Blur - On The Way To The Club
@@ -7783,28 +7608,18 @@
     54:00 - 54:41 - Thomas Newman - Full Chemical Gear
     54:50 - 55:04 - Lisa Gerrard & Pieter Bourke - The Subordinate
     55:32 - 56:02 - Corner Stone Cues - Black Widow
-    56:19 - 56:32 - ?  
     56:40 - 56:50 - Lisa Gerrard & Pieter Bourke - The Subordinate
     56:59 - 57:12 - Lisa Gerrard & Pieter Bourke - The Subordinate
     57:36 - 58:16 - Alex Heffes - This is What We Live For
     58:24 - 58:38 - Roy Budd & Jack Fishman - The Plant
     58:53 - 59:40 - Harry Gregson-Williams - You Can Save Her
-    59:40 - 59:49 - ?  
 	 
 [18x05] February 26th, 2012
 
     Škoda Fabia vs. Rocket Man Race:
-    01:00 - 01:20 - ?  
-    01:34 - 01:52 - ?  
-    02:28 - 02:33 - ?  
     03:02 - 03:46 - Bart Hendrickson - Monkey Trick
-    03:51 - 04:16 - ?  
-    04:18 - 04:25 - ?  
     04:25 - 05:10 - Jay Flood - Razor Cut
     05:10 - 05:30 - Henning Lohner & Uwe Boll - Dark Destiny
-    05:34 - 06:41 - ?  
-    06:43 - 07:46 - ?  
-    07:46 - 09:06 - ?  
 
     Maserati MC Stradale vs. Mercedes C63 Black:
     18:33 - 18:58 - Hybrid - Original Sin and Break My Soul
@@ -7823,7 +7638,6 @@
     23:51 - 24:08 - Danny Elfman - Main Titles from ‘Planet of the Apes’
     24:21 - 24:36 - Richard Anthony Jay - Milan
     25:05 - 25:14 - Brian Reitzell - Barrow Burns
-    25:30 - 26:06 - ?  
     26:06 - 26:26 - Elliot Goldenthal - Ill-Fated Plot
     26:35 - 27:12 - Harry Gregson-Williams - The Aftermath
 
@@ -7837,7 +7651,6 @@
     44:47 - 44:48 - Small Town Zeroes - Secrets
     44:48 - 44:56 - Alt-J - Fitzpleasure (bretonLABS Remix)
     45:08 - 45:34 - Elbow - Neat Little Rows (Instrumental)
-    47:05 - 47:08 - ?  
     47:20 - 48:05 - Doves - The Greatest Denier (Instrumental)
     48:33 - 49:06 - Doves - The Greatest Denier (Instrumental)
     49:37 - 50:00 - U.N.K.L.E - Nocturnal (Redux)
@@ -7847,20 +7660,16 @@
     53:04 - 53:35 - Malachai - Monsters
     54:01 - 54:22 - Amon Tobin - Deo
     54:30 - 54:39 - U.N.K.L.E - Black Mass
-    54:56 - 55:05 - ?  
-    55:23 - 55:41 - ?  
     55:56 - 56:50 - U.N.K.L.E - Nocturnal (Redux)
     56:50 - 58:00 - Howard Shore - Trans-Siberian Diary
 	 
 [18x06] March 4th, 2012
 
     Track Day Car Tests, Pt. 1:
-    01:02 - 01:08 - ?  
     01:08 - 01:28 - Malachai - Anne
     01:52 - 02:13 - Justice - Horsepower
     03:05 - 03:15 - John Ottman - Miami Heist
     05:03 - 05:21 - Audioslave - Exploder
-    05:36 - 06:00 - ?  
     06:49 - 07:08 - Clinic - The Witch
     07:30 - 07:40 - Nathaniel Mechaly - Escape from St. Clair
     07:56 - 08:21 - Nathaniel Mechaly - Escape from St. Clair
@@ -7879,7 +7688,6 @@
     Spitfire Bentley vs. V12 BMW Brutus:
     26:53 - 27:21 - Ron Goodwin - Defeat
     27:40 - 28:02 - Elliot Goldenthal - Victorius Titus
-    28:22 - 28:30 - ?  
     29:20 - 30:40 - John Williams - The Intersection Scene
     30:40 - 31:08 - Hans Zimmer & James Newton Howard - Harvey Two-Face
     31:20 - 31:38 - Ron Goodwin - Defeat
@@ -7911,7 +7719,6 @@
     01:40 - 02:00 - Russian Circles - Atackla
     02:00 - 02:46 - Massive Attack - Collar Stays On
     02:51 - 03:27 - Band of Skulls - You're Not Pretty But You Got It Goin' On (Instrumental)
-    03:32 - 04:00 - ?  
     04:00 - 04:45 - The Chemical Brothers - Container Park
     04:45 - 05:24 - Mychael Danna & Jeff Danna - Beachum
     05:24 - 06:17 - Doves - The Cedar Room
@@ -7930,8 +7737,6 @@
     41:22 - 41:31 - Roy Budd - The Wild Geese
     43:11 - 43:31 - Don Harper - World of Sport Theme
     44:05 - 44:11 - John Ottman - Miami Heist
-    45:15 - 45:23 - ?  
-    45:29 - 45:32 - ?  
     45:32 - 46:18 - Kasabian - Julie & the Moth Man
     46:47 - 46:56 - Lalo Schifrin - Bamboo Bird Cage
     47:11 - 47:45 - Primal Scream - Shoot Speed/Kill Light
@@ -7989,7 +7794,6 @@
     22:23 - 22:44 - Martin Tillman & Tom Vedvik - Foreverland
     23:31 - 23:56 - Prague Philharmonic Orchestra - Slow Boat from China
     23:56 - 24:13 - Prague Philharmonic Orchestra - The Man with the Golden Gun
-    24:19 - 24:29 - ?  
     24:45 - 25:01 - Craig Armstrong - Niente
     25:01 - 25:10 - U.N.K.L.E – Not a Sound
     25:33 - 26:20 - U.N.K.L.E – Ever Rest (Instrumental)
@@ -8019,10 +7823,7 @@
     48:21 - 48:39 - David Arnold - Nothing Sinister
     48:46 - 49:23 - David Arnold - Unauthorised Access
     49:30 - 49:51 - David Arnold - The End of an Aston Martin
-    49:54 - 50:19 - ?  
     50:48 - 51:02 - Thomas Newman - Rain Hammers
-    51:02 - 51:20 - ?  
-    51:31 - 51:55 - ?  
     52:15 - 52:33 - Lalo Schifrin - City Hall
     54:56 - 55:07 - Thomas Newman - Pink Mist
     56:39 - 57:02 - Abel Korzeniowski - Abdication
@@ -8044,9 +7845,7 @@
     03:03 - 03:25 - Post War Years - All Eyes (Instrumental)
     03:25 - 03:57 - Killing Joke - Requiem (Sea Dub Mix)
     03:57 - 04:23 - Lisa Gerrard & Pieter Bourke - The Subordinate
-    04:34 - 05:15 - ?  
     05:23 - 05:54 - The Radio Dept. - It's Personal
-    05:54 - 05:58 - ?  
     05:58 - 06:18 - Ludovico Einaudi - Uno
     06:18 - 06:35 - Weevil - Splinters AND Bytecry
     06:34 - 07:19 - London Music Works - It's Our Fight
@@ -8074,7 +7873,6 @@
     26:21 - 26:58 - Young Guns - Bones (Instrumental)
     27:31 - 27:55 - James Newton Howard - Preparing the Chariots
     27:51 - 27:55 - James Newton Howard - Abin Sur Attacked
-    27:56 - 28:02 - ?  
     28:00 - 28:57 - James Newton Howard - White Horse
     29:00 - 29:14 - James Newton Howard - Escape from the Tower
     29:18 - 29:57 - James Newton Howard - Escape from the Tower
@@ -8082,7 +7880,6 @@
 
     Jeremy's P45 Test Drive:
     44:15 - 44:51 - David Holmes - I Heard Wonders
-    45:12 - 45:30 - ?  
     45:34 - 45:44 - ? (same as above)
     45:44 - 46:27 - Beastie Boys - 14th St. Break
     47:28 - 47:53 - Ilan Eshkeri - Kitchen Stand Off
@@ -8114,16 +7911,13 @@
     02:57 - 03:06 - The Flying Burrito Brothers - God's Own Singer
     04:52 - 04:55 - The Last Shadow Puppets - I Don't Like You Anymore
     04:55 - 05:18 - Beck - Go It Alone
-    05:32 - 05:37 - ?  
     05:35 - 06:07 - Doves - The Greatest Denier (Instrumental)
     06:10 - 06:32 - Doves - The Greatest Denier (Instrumental)
     06:33 - 07:01 - The Heavy - Strong Enough
     07:01 - 07:43 - Daft Punk - The Son of Flynn (Remixed by Ki:Theory)
     07:43 - 08:17 - Queens of the Stone Age - You Can't Quit Me Baby
     08:24 - 08:33 - Trevor Morris - End Credits A (Fire With Fire)
-    08:33 - 08:47 - ?  
     08:47 - 09:17 - Trevor Morris - End Credits A (Fire With Fire)
-    09:17 - 09:38 - ?  
     10:08 - 10:22 - David Sardy - I Am the Police
     10:39 - 10:50 - Band of Skulls - You're Not Pretty But You Got It Goin' On (Instrumental)
     11:02 - 11:26 - Band of Skulls - Lies (Instrumental)
@@ -8132,7 +7926,6 @@
     West Coast Road Trip, Pt. 2
     20:40 - 20:58 - Cliff Martinez - I Drive
     21:03 - 21:27 - Little Barrie - I Can't Wait (Instrumental)
-    22:44 - 23:00 - ?  
     23:08 - 23:22 - DeVotchKa - Till the End of Time
     23:42 - 23:50 - Ennio Morricone - Per Qualche Dollaro in Piu
     23:55 - 24:13 - Eric Clapton - Lay Down Sally
@@ -8216,8 +8009,6 @@
     48:19 - 49:15 - John Powell - Escape from Embassy
     49:15 - 49:25 - Harry Gregson-Williams - Better Have Some KY
     49:54 - 50:33 - Stephen Rees - Code of Silence
-    50:49 - 51:55 - ?  
-    51:56 - 52:13 - ?  
     52:13 - 53:19 - John Powell - The Apartment
     53:19 - 53:52 - Massive Attack - I Am Home
     53:57 - 56:43 - Tykwer, Klimek & Heil - Introduction
@@ -8244,7 +8035,6 @@
     Kia Cee'd Road Tests, Pt. 1:
     20:39 - 21:26 - Amon Tobin - Morning Ms Candis
     21:30 - 21:38 - Broadcast - A Breeze through the Burford Spur
-    21:58 - 22:07 - ?  
     22:07 - 22:28 - Brian Tyler - Rescue
     22:31 - 22:52 - Brian Tyler - Rescue
     22:58 - 23:03 - Broadcast - A Breeze through the Burford Spur
@@ -8253,7 +8043,6 @@
     24:44 - 24:49 - Broadcast - The Gallops
     26:02 - 26:03 - Amon Tobin - Esther's
     26:03 - 26:12 - Malachai - How You Write
-    26:18 - 26:24 - ?  
     26:59 - 27:07 - Broadcast - The Gallops
     27:56 - 28:45 - Amon Tobin - Morning Ms Candis
 
@@ -8268,19 +8057,14 @@
     Kia Cee'd Road Tests, Pt. 2:
     46:31 - 46:41 - Broadcast - Our Darkest Sabbath
     46:41 - 47:04 - Gustav Holst - Jupiter, the Bringer of Jollity
-    47:36 - 47:53 - ?  
-    48:05 - 48:17 - ?  
-    48:17 - 48:23 - ?  
     48:24 - 49:41 - Massive Attack - One Thought at a Time
     49:49 - 49:58 - James Newton Howard - Booby Trap
-    50:02 - 50:14 - ?  
     50:17 - 50:28 - Gustav Holst - Jupiter, the Bringer of Jollity
     50:30 - 51:25 - James Newton Howard - Warriors on the Beach
     51:45 - 52:32 - William Blake & Hubert Parry - Jerusalem
     52:32 - 53:08 - James Newton Howard - Warriors on the Beach
     53:18 - 53:38 - Brian Tyler - Tightrope
     53:39 - 54:01 - Gustav Holst - Jupiter, the Bringer of Jollity
-    54:54 - 55:54 - ?  
     56:02 - 57:18 - Primal Scream - Exterminator (Massive Attack Remix)
     57:21 - 58:35 - Massive Attack - I Am Home
     58:47 - 59:30 - James Newton Howard - Escape from the Tower
@@ -8296,14 +8080,9 @@
     03:52 - 04:07 - Henry Hall & The BBC Dance Orchestra - Underneath the Arches
     04:28 - 04:49 - London Funk Allstars - Fetch!
     05:19 - 05:34 - Eric Coates & His Orchestra - Music While You Work
-    05:58 - 06:09 - ?  
-    06:29 - 06:35 - ?  
-    06:39 - 06:45 - ?  
-    06:50 - 07:04 - ?  
     07:11 - 07:23 - Max Bygraves - You Need Hands
     07:43 - 07:51 - Laurie Johnson - 'The Professionals' Theme Variation B
     08:00 - 08:16 - Bonobo - The Keeper
-    08:46 - 09:52 - ?  
     10:19 - 10:28 - Laurie Johnson - Jason King
     10:30 - 10:38 - Barry Gray - Until Midnight (Radio Music)
 
@@ -8312,24 +8091,14 @@
     19:55 - 20:56 - Ludovico Einaudi - Experience
     20:56 - 21:58 - Trentemøller - Past the Beginning of the End
     21:58 - 22:34 - Jeff Cardoni - The Blonde Arrives 2
-    23:09 - 23:20 - ?  
     23:20 - 23:57 - Atticus Ross - Gattling
-    23:58 - 25:03 - ?  
-    25:03 - 25:18 - ?  
     25:20 - 26:42 - Nathan Johnson - Closing Your Loop
     26:42 - 26:46 - Nathan Johnson - Following the Loop
     26:46 - 27:10 - Nathan Johnson - A Day in the Life
     27:10 - 27:48 - Atticus Ross - The Convoy
-    27:48 - 28:24 - ?  
     28:24 - 28:37 - Jeff Cardoni - The Blonde Arrives 1
     28:37 - 29:23 - Steve Jablonsky - Scorponok
-    29:23 - 29:42 - ?  
-    29:42 - 30:12 - ?  
     30:12 - 31:01 - U2 - Alex Descends Into Hell For a Bottle of Milk / Korova 1
-    31:01 - 31:42 - ?  
-    31:42 - 31:54 - ?  
-    31:48 - 32:15 - ?  
-    32:15 - 32:22 - ?  
     32:22 - 33:14 - Craig Armstrong & A.R. Rahman - Storm
     33:26 - 33:37 - John Tavener - Eternity's Sunrise
 
@@ -8346,11 +8115,9 @@
     52:33 - 52:50 - Ken Thorne - The Zoo Gang Incidental Cue 2
     53:46 - 54:13 - Alan Hawkshaw - Girl in a Sportscar
     55:00 - 55:07 - Quarashi - Dive In
-    55:33 - 55:41 - ?  
     56:01 - 56:24 - Laurie Johnson - Animal Magic
     56:33 - 56:48 - Glenn Miller & His Orchestra - American Patrol
     56:58 - 57:10 - Mozart - A Musical Joke K.522: IV 'Presto'
-    57:14 - 57:19 - ?  
     58:11 - 58:32 - 101 Strings Orchestra - Wichita Lineman
     58:49 - 59:29 - Lisa Gerrard & Pieter Bourke - The Subordinate
 	
@@ -8358,22 +8125,17 @@
 
     00:51 - 01:13 - DRC Music feat. N'Gotshima & Bebson - K-Town
     02:01 - 02:09 - DRC Music feat. N'Gotshima & Bebson - K-Town
-    03:44 - 03:57 - ?  
-    04:59 - 05:06 - ?  
     05:48 - 06:06 - Brian Tyler - Paranoia
     06:06 - 07:01 - Brian Tyler - Battle Adagio
     07:12 - 07:23 - Alex Heffes - I Had a Family
     08:51 - 09:18 - Mark Ryder & Charles Olins - Room Service Hit
     09:49 - 10:21 - Imagine Dragons - Radioactive (Instrumental)
     10:21 - 11:32 - Manic Street Preachers - Peeled Apples (Andrew Weatherall Remix)
-    11:38 - 11:51 - ?  
-    11:51 - 12:15 - ?  
     12:25 - 12:35 - Alberto Iglesias - Roadblock II
     12:35 - 12:50 - John Ottman - Dead Men
     13:17 - 13:25 - John Ottman - Dead Men
     13:54 - 14:04 - James Newton Howard - Learning the Skills
     14:53 - 15:29 - DRC Music feat. N'Gotshima & Bebson - K-Town
-    15:29 - 15:36 - ?  
     15:52 - 16:48 - James Newton Howard - Learning the Skills
     17:08 - 17:33 - Brian Tyler - Friendly Warning
     17:38 - 17:51 - Alex Heffes - Idi’s Story
@@ -8388,7 +8150,6 @@
     26:35 - 26:48 - Mark Ryder & Charles Olins - Room Service Hit
     28:04 - 28:48 - Hans Zimmer - Bakara
     28:53 - 29:31 - Hans Zimmer - Bakara
-    29:39 - 30:00 - ?  
     33:42 - 34:14 - My Bloody Valentine - Soon (Andrew Weatherall Mix)
     34:55 - 35:09 - My Bloody Valentine - Soon (Andrew Weatherall Mix)
     35:25 - 35:51 - Mark Ryder & Charles Olins - Shoot Out
@@ -8398,23 +8159,19 @@
     39:17 - 39:36 - Alex Heffes - The Execution
     39:43 - 40:09 - Brian Tyler - The Compound
     41:28 - 42:27 - I Am Kloot - These Days Are Mine (Instrumental)
-    42:30 - 42:46 - ?  
     42:54 - 43:39 - The Milk - Broke Up The Family (Instrumental)
     43:45 - 45:03 - Kasabian - Take Aim (Instrumental)
     45:11 - 45:33 - James Newton Howard - The Cave
-    47:02 - 47:43 - ?  
     47:43 - 48:07 - John Barry - News of the Massacre/Rorke's Drift Threatened
     48:11 - 48:46 - Deadly Avenger - Invincible
     48:51 - 49:10 - Deadly Avenger - Invincible
     49:37 - 50:02 - Brian Tyler - Crossing into Burma
     50:13 - 50:54 - Toto - Africa
     50:54 - 51:18 - Steve Mazzaro - Bored to Death
-    51:33 - 52:01 - ?  
     52:07 - 52:16 - James Horner - Frog Darts
     52:38 - 52:52 - James Horner - Frog Darts
     53:34 - 54:15 - Thomas Newman - Zoomies
     54:24 - 54:38 - Thomas Newman - Zoomies
-    54:55 - 55:09 - ?  
     55:09 - 56:15 - Brian Tyler - Paranoia
     56:55 - 57:55 - The xx - Intro
     57:55 - 58:31 - Brian Tyler - Escape
@@ -8422,11 +8179,9 @@
 	 
 [19x07] March 10th, 2013 [Africa Special, Part 2]
 
-    00:03 - 00:15 - ?  
     00:15 - 01:46 - U.N.K.L.E - Hold My Hand (Instrumental)
     02:07 - 02:32 - Brian Tyler - Aimless Electricity Upon Touching
     03:08 - 03:36 - Kasai Allstars - Kabuangoyi
-    04:32 - 04:51 - ?  
     05:31 - 05:46 - Zero 7 - Everything Up [Zizou]
     06:36 - 08:06 - The Cinematic Orchestra - Entr'acte
     08:08 - 08:30 - Mark Ryder & Charles Olins - Body Armour
@@ -8436,36 +8191,19 @@
     12:32 - 12:57 - DRC Music - Virginia
     13:33 - 13:45 - Mark Ryder & Charles Olins - Pills
     13:50 - 14:00 - Mark Ryder & Charles Olins - Pills
-    14:00 - 14:11 - ?  
     14:51 - 16:03 - Brian Tyler - Conscription
-    17:17 - 18:03 - ?  
     18:08 - 18:48 - Thomas Newman - 8 Men 5 Camels
-    18:48 - 19:03 - ?  
-    20:07 - 20:15 - ?  
-    20:31 - 20:38 - ?  
-    20:50 - 21:00 - ?  
-    21:10 - 21:25 - ?  
-    21:30 - 21:37 - ?  
-    22:32 - 22:42 - ?  
-    22:56 - 23:07 - ?  
-    23:15 - 23:33 - ?  
     24:12 - 24:47 - Danny Elfman - Main Titles from 'Planet of the Apes'
     24:59 - 25:38 - Brian Tyler - Crossing into Burma
     26:14 - 27:04 - The Heavy - Can't Play Dead (Instrumental)
-    27:04 - 27:08 - ?  
     27:53 - 28:26 - Caribou - Bowls
     28:45 - 29:24 - Earl Wild - Clair de Lune
     29:24 - 30:16 - Brian Tyler - Fists, Knives and Chains
-    30:58 - 31:19 - ?  
     31:54 - 32:45 - William Orbit - Hydrajacked
     33:37 - 34:49 - U.N.K.L.E - The Healing (Instrumental)
     35:23 - 36:18 - The Maccabees - Feel to Follow (Instrumental)
     37:19 - 39:25 - Frightened Rabbit - State Hospital (Instrumental)
-    39:31 - 39:55 - ?  
-    40:37 - 41:51 - ?  
     42:25 - 42:46 - Alex Heffes - The School
-    43:56 - 44:16 - ?  
-    44:32 - 44:56 - ?  
     46:39 - 47:30 - Alex Heffes - Ambush
     47:30 - 47:44 - Hans Zimmer - Hunger
     47:44 - 48:25 - Hans Zimmer - Synchrotone
@@ -8574,7 +8312,6 @@
     01:59 - 02:25 - M83 - Let Men Burn Stars
     02:25 - 03:47 - The Prodigy - First Warning
     03:48 - 04:30 - David Bowie - Heart's Filthy Lesson (Radio Edit + Trent Reznor Alternative Mix)
-    04:30 - 04:42 - ?  
     04:42 - 05:44 - James Newton Howard - We're Going to Fly Now
     05:44 - 06:31 - John Powell - To the Roof
     06:31 - 06:53 - The Rakes - T-Bone
@@ -8586,7 +8323,6 @@
     19:36 - 20:44 - The Cinematic Orchestra - Ode to the Big Sea
     20:55 - 21:14 - Ian Honeyman - Evacuate the Area
     21:14 - 21:25 - Mark Ryder & Charles Olins - Pills
-    22:02 - 22:26 - ?  
     22:33 - 22:46 - Hugo Montenegro - The Man from U.N.C.L.E.
     22:46 - 22:57 - Roger Whittaker - Mexican Whistler
     22:57 - 23:15 - Rhythm Heritage - Theme from S.W.A.T.
@@ -8603,23 +8339,18 @@
     27:59 - 28:55 - The Big Pink - Jump Music
     28:57 - 29:24 - Thomas Newman - Zoomies
     29:24 - 30:22 - Bobby Tahouri - Echelon Conspiracy (Slam Orchestra Edit)
-    30:22 - 30:43 - ?  
 
     BBC Television Centre Race:
     42:53 - 43:17 - Guy Farley - Execution Prep
     43:30 - 43:51 - Wretch 32 - Forgiveness (Instrumental Edit)
     44:12 - 44:28 - Jono McCleery - Garden (Seiji Remix)
-    44:37 - 44:43 - ?  
     45:01 - 45:51 - Steve Jablonsky - The Shard
     45:51 - 46:10 - Steve Jablonsky - Optimus vs. Megatron
     46:10 - 46:48 - Kasabian - Switchblade Smiles (Instrumental)
     46:48 - 49:33 - London Music Works - Imagine the Fire
-    49:33 - 49:42 - ?  
-    50:09 - 50:14 - ?  
 
     Ferrari F12 Berlinetta Review:
     51:31 - 51:51 - Bat for Lashes - Moon and Moon (Instrumental)
-    52:13 - 52:37 - ?  
     52:37 - 53:22 - Trentemøller - Shades of Marble
     53:22 - 55:03 - Yeah Yeah Yeahs - Sacrilege (Instrumental)
     55:43 - 56:32 - Bat for Lashes - Winter Fields
@@ -8653,19 +8384,15 @@
 
     Three Budget Convertibles thru Spain, Pt. 2:
     23:43 - 24:14 - 2Pac feat. James Brown - Unchained
-    24:19 - 25:08 - ?  
     25:11 - 25:58 - David Holmes - Shot in the Face
     26:17 - 26:34 - David Holmes - Upstate NYC
     26:47 - 26:58 - David Holmes - Upstate NYC
     26:58 - 27:33 - Trevor Morris - Main Titles (Fire with Fire)
-    27:45 - 28:03 - ?  
-    28:05 - 28:35 - ?  
     28:40 - 28:48 - Ilan Eshkeri - Flying Vessel
     28:53 - 29:32 - Ilan Eshkeri - Zombie Fight
     29:35 - 29:50 - Ennio Morricone - Almost Dead
     29:54 - 30:43 - David Sardy - I Am the Police
     31:45 - 32:38 - David Sardy - I Am the Police
-    32:39 - 32:58 - ?  
     32:58 - 33:52 - David Sardy - I Am the Police
     33:55 - 34:02 - David Sardy - Alley Escape
     34:41 - 34:53 - David Sardy - Alley Escape
@@ -8682,7 +8409,6 @@
     52:41 - 53:16 - Brian Tyler - Wayne and Buck
     53:44 - 54:02 - Jeff Cardoni - Corrupt Cops
     54:06 - 54:51 - Duologue - Cut & Run (Instrumental)
-    54:55 - 55:22 - ?  
     55:20 - 55:30 - David Sardy - Follow Me into the House
     55:20 - 56:45 - Brian Tyler - Rising
     56:45 - 57:52 - Justice - Horsepower
@@ -8692,19 +8418,16 @@
 [20x04] July 21st, 2013
 
     Mercedes-Benz SLS AMG Supercars:
-    00:48 - 01:03 - ?  
     01:03 - 02:04 - Hybrid - Empire
     02:03 - 02:08 - Ian Honeyman - Lady Death
     02:08 - 03:00 - Hans Zimmer - Red Warrior
     03:00 - 03:14 - John Murphy - Safehouse/Ambush
     03:14 - 03:30 - Hans Zimmer - Red Warrior
-    03:30 - 03:49 - ?  
     03:49 - 03:59 - Ian Honeyman - Nothing from this Planet
     04:03 - 04:25 - Neosignal - Angst
     05:23 - 05:41 - Brian Tyler - Raiding the Palace
     05:50 - 06:14 - John Murphy - Hit Girl Drives Home
     06:10 - 06:44 - Marius Vries - Stabbing-Morphine
-    07:13 - 07:26 - ?  
     07:33 - 08:51 - Hybrid - Dogstar (Instrumental)
     08:51 - 09:39 - Deadmau5 - Superliminal
     09:42 - 10:13 - U.N.K.L.E - Trouble in Paradise (Variation on a Theme)
@@ -8718,7 +8441,6 @@
     18:29 - 18:34 - Roy Budd - Radio Music
     19:10 - 19:24 - Average White Band - School Boy Crush
     19:24 - 19:31 - The Dust Brothers - Corporate World
-    19:37 - 19:43 - ?  
     20:21 - 20:40 - Incredible Bongo Band - Apache
     21:07 - 21:31 - The Daniel Caine Orchestra - The A-Team
     21:31 - 21:59 - Danny Elfman - Final Confrontation (Terminator Salvation)
@@ -8734,20 +8456,14 @@
     44:36 - 45:12 - James Horner - The Launch
     45:12 - 45:34 - Edvard Grieg - Morning Mood
     46:00 - 46:09 - Ralph Vaughan Williams - The Lark Ascending
-    46:09 - 46:17 - ?  
     46:33 - 46:48 - Dirk Brossé - Champagne at 2:00 (Alt Cue)
-    46:52 - 47:02 - ?  
     47:47 - 48:01 - Bobby Tahouri - Echelon Conspiracy (Slam Orchestra Edit)
     48:14 - 48:35 - Dirk Brossé - Champagne at 2:00 (Alt Cue)
     48:38 - 48:54 - Dirk Brossé - Champagne at 2:00 (Alt Cue)
     49:21 - 50:34 - The Big Pink - Jump Music (Instrumental)
     50:36 - 50:45 - Dirk Brossé - Champagne at 2:00 (Alt Cue)
     51:28 - 51:52 - Pasquale Catalano - Train 2
-    51:59 - 52:06 - ?  
-    53:14 - 53:29 - ?  
     54:18 - 54:31 - Dirk Brossé - Champagne at 2:00 (Alt Cue)
-    55:13 - 55:29 - ?  
-    56:19 - 57:17 - ?  
     57:41 - 58:14 - Steve Jablonsky - The All Spark
 	 
 [20x05] July 28th, 2013
@@ -8791,9 +8507,6 @@
     45:23 - 45:33 - Beastie Boys - Electric Worm
     45:38 - 45:46 - Beastie Boys - Electric Worm
     45:46 - 46:21 - The Simon Park Orchestra - Up to Date
-    46:21 - 46:31 - ?  
-    46:39 - 46:54 - ?  
-    47:01 - 47:17 - ?  
     47:35 - 47:44 - Mark Ryder & Charles Olins - Opening Titles
     47:44 - 47:49 - Mark Ryder & Charles Olins - Body Armour
     47:49 - 48:05 - Mark Ryder & Charles Olins - Pills
@@ -8807,8 +8520,6 @@
     52:39 - 53:19 - Editors - Sugar
     53:19 - 53:46 - BT - The Fast and the Furious Theme
     53:46 - 54:55 - Baltic Fleet - Headless Heroes of the Acropolis
-    54:55 - 55:37 - ?  
-    55:39 - 55:45 - ?  
     55:45 - 56:10 - Bloc Party - Helicopter (Instrumental)
     56:10 - 57:18 - Lemon Jelly - '88 aka Come Down on Me
 	 
@@ -8823,8 +8534,6 @@
     04:13 - 05:04 - Editors - Two Hearted Spider (Instrumental)
     05:04 - 05:36 - Jeff Cardoni - The Apache
     05:40 - 05:49 - Jeff Cardoni - The Real Story
-    06:04 - 06:16 - ?  
-    06:16 - 06:30 - ?  
     06:30 - 07:02 - Passengers - Theme from Let's Go Native
     07:09 - 07:59 - Peace - Follow Baby (Instrumental)
     08:00 - 08:17 - Jeff Cardoni - Wrap Up
@@ -8839,8 +8548,6 @@
     21:29 - 21:58 - Peace - Lovesick (Instrumental)
     22:02 - 22:19 - Peace - Lovesick (Instrumental)
     22:19 - 22:44 - Marques Toliver - Try Your Best (Instrumental)
-    22:46 - 23:06 - ?  
-    23:17 - 23:27 - ?  
     23:53 - 24:11 - Alt-J - Fitzpleasure
     24:13 - 24:49 - Editors - A Ton of Love (Instrumental)
     24:52 - 25:23 - Laura Mvula - Green Garden (Instrumental)
