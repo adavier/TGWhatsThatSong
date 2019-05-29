@@ -293,7 +293,7 @@
     37:14 - 38:02 - Antonio Pinto - Consequences and Loss
     38:06 - 38:53 - Antonio Pinto - By Air
     38:53 - 39:12 - Basement Jaxx - U R On My Mind
-    39:13 - 40:06 - Audioslave - Bring �?Em Back Alive
+    39:13 - 40:06 - Audioslave - Bring 'Em Back Alive
     40:07 - 41:01 - The Chemical Brothers - Out of Control
     41:06 - 41:58 - Harry Gregson-Williams - Gonzalez
     42:33 - 43:04 - Antonio Pinto - Consequences and Loss
