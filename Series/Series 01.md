@@ -37,9 +37,6 @@
     26:56 - 29:41 - The Chemical Brothers - Got Glint
     29:43 - 30:17 - The Chemical Brothers - Hey Boy, Hey Girl
 
-[01x08] December 8th, 2002
-
-
 [01x09] December 22nd, 2002
 
     03:57 - 05:21 - Röyksopp - Eple
