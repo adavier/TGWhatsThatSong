@@ -40,9 +40,6 @@
     26:56 - 29:41 - The Chemical Brothers - Got Glint
     29:43 - 30:17 - The Chemical Brothers - Hey Boy, Hey Girl
 
-[01x08] December 8th, 2002
-
-
 [01x09] December 22nd, 2002
 
     03:57 - 05:21 - Röyksopp - Eple
@@ -94,10 +91,6 @@
     06:09 - 06:32 - Badmarsh & Shri - Sajanna
     06:38 - 08:01 - Mercury Rev - The Dark is Rising
     08:29 - 09:10 - Mercury Rev - The Dark is Rising
-
-    the rest coming soon.....
-
-
     49:50 - 00:00 - Joey Ramone - What A Wonderful World
 
 [02x03] May 25th, 2003
@@ -112,9 +105,6 @@
     40:06 - 40:45 Extreme Music - Leave it Out
     42:00 - 00:00 Pilote - Turtle (Bonobo Mix)
     46:09 - 00:00 Peter Green - Albatross
-
-[02x04] June 1st, 2003
-
 
 [02x05] June 8th, 2003
 
@@ -154,9 +144,6 @@
     36:20 - 37:35 - Zero 7 - I Have Seen
     38:06 - 38:46 - Zero 7 - Give It Away
     52:48 - 53:00 - Felix da Housecat - Silver Screen
-
-[02x09]
-		None
 	 
 [02x10] July 20th, 2003
 
