@@ -356,15 +356,15 @@
 
 [03x06] December 7th, 2003
 
-            03:15 - ??:?? - DJ Krush ft. Esthero - Final Home
+    03:15 - ??:?? - DJ Krush ft. Esthero - Final Home
     08:54 - 09:40 - Ennio Morricone - La Resa Dei Conti
     09:51 - 10:57 - Ennio Morricone - La Resa Dei Conti
     19:51 - 20:25 - The Notwist - One Step Inside Doesn't Mean You Understand
-        33:30 - 33:59 - Puff Daddy - come with me
+    33:30 - 33:59 - Puff Daddy - come with me
     33:59 - 35:43 - Propellerheads - On Her Majesty's Secret Service
     37:15 - 37:28 - The Sabres of Paradise – R.S.D.
-        44:15 - 44:48 - Kylie Minogue - Locomotion
-        47:11 - 47:32 - ??? - Waltzing Mathilda
+    44:15 - 44:48 - Kylie Minogue - Locomotion
+    47:11 - 47:32 - ??? - Waltzing Mathilda
     46:08 - 47:09 - INXS - Suicide Blond
     47:40 - 48:00 - INXS - Need You Tonight
     56:24 - 57:20 - Ennio Morricone - La Resa Dei Conti
