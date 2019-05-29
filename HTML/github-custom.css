@@ -17,7 +17,7 @@ body {
   box-sizing: border-box;
   padding: 30px 30px 3 30px;
   margin-left: 330px;
-  margin-right: 0px;
+  margin-right: 30px;
 }
 
 /* The sidebar menu */
@@ -40,9 +40,13 @@ body {
   display: block;
 }
 
+#TOC a:hover {
+  color: #f1f1f1;
+}
+
 @media (max-width: 1000px) {
   #TOC {display:none}
-  body {margin-left: 0px;}
+  body {margin-left: 30px;}
 }
 
 ul {
