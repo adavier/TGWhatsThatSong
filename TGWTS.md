@@ -99,7 +99,7 @@
     01:50 - 02:31 Goldfrapp - Lovely Head
     02:43 - 03:18 Goldfrapp - Lovely Head
     03:24 - 04:01 Air - Dirty Trip
-        05:36 - 05:55 Air - Playground Love
+    05:36 - 05:55 Air - Playground Love
     38:44 - 39:55 Extreme Music - Leave it Out
     40:06 - 40:45 Extreme Music - Leave it Out
     42:00 - 00:00 Pilote - Turtle (Bonobo Mix)
@@ -143,7 +143,6 @@
     36:20 - 37:35 - Zero 7 - I Have Seen
     38:06 - 38:46 - Zero 7 - Give It Away
     52:48 - 53:00 - Felix da Housecat - Silver Screen
-	 
 [02x10] July 20th, 2003
 
     00:29 - 01:05 - Gavin Greenaway - Celluloid Hero (from Media Ventures - Directors Cuts 2 Action)
